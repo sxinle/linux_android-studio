@@ -6,6 +6,7 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/imageshow/TouchImageView.java" timestamp="1481177708805" />
       <file name="/Python Console" timestamp="1481090050461">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,8 +26,18 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1481095400773">
+      <file name="/a.dummy" timestamp="1481177989684">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" timestamp="1481177663074">
+        <mark key="'" line="302" column="23" />
+        <mark key="[" line="300" column="35" />
+        <mark key="]" line="301" column="16" />
+        <mark key="^" line="301" column="16" />
+        <mark key="." line="301" column="16" />
+      </file>
+      <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
+        <mark key="'" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1481090442104">
         <mark key="'" line="38" column="30" />
@@ -62,6 +73,9 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" timestamp="1481177508911">
+        <mark key="'" line="56" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
@@ -91,8 +105,20 @@
       <jump line="12" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="166" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="217" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" />
+      <jump line="303" column="27" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
+      <jump line="9" column="31" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
+      <jump line="302" column="23" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
+      <jump line="9" column="23" filename="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>Employee</text>
+      </register>
+      <register name="/" type="4">
+        <text>FloatMath</text>
+      </register>
       <register name="0" type="8">
         <text>mpty(param)) 
  = mapper.rea
@@ -129,16 +155,18 @@ EMPTY_RESULT;</text>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>Employee</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>FloatMath</last-search>
+      <last-offset />
+      <last-pattern>FloatMath</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>FloatMath</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
