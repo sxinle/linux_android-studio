@@ -6,6 +6,10 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
