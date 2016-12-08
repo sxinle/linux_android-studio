@@ -55,8 +55,8 @@
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" timestamp="1481179347818">
-        <mark key="'" line="149" column="21" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" timestamp="1481179728311">
+        <mark key="'" line="38" column="39" />
         <mark key="[" line="140" column="133" />
         <mark key="]" line="141" column="52" />
         <mark key="." line="141" column="52" />
@@ -68,10 +68,22 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
         <mark key="'" line="83" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481179489997">
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" timestamp="1481180287308">
+        <mark key="[" line="14" column="68" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481179606752">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/imageshow/TouchImageView.java" timestamp="1481177708805" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481179886909">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="39" />
+        <mark key="^" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481168768009">
         <mark key="'" line="217" column="0" />
         <mark key="[" line="24" column="23" />
@@ -89,11 +101,21 @@
         <mark key="^" line="301" column="16" />
         <mark key="." line="301" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" timestamp="1481180278547">
+        <mark key="'" line="94" column="17" />
+        <mark key="[" line="102" column="41" />
+        <mark key="]" line="102" column="50" />
+        <mark key="^" line="102" column="50" />
+        <mark key="." line="102" column="50" />
+      </file>
       <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
         <mark key="'" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
         <mark key="'" line="461" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/values/styles.xml" timestamp="1481179632208">
+        <mark key="'" line="455" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/listener/BackGestureListener.java" timestamp="1481179155002">
         <mark key="'" line="28" column="4" />
@@ -151,13 +173,22 @@
       <jump line="64" column="43" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" />
       <jump line="28" column="4" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/listener/BackGestureListener.java" />
       <jump line="29" column="39" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" />
+      <jump line="455" column="17" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/values/styles.xml" />
+      <jump line="155" column="44" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="83" column="32" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="45" column="35" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="140" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="141" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="38" column="39" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="32" column="26" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="94" column="17" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>List</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</text>
+        <text encoding="base64">XDxuZXdzTGlzdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaGFubmVsSXRlbUxpc3QuYWRkKGM3KTsK</text>
@@ -194,9 +225,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxuZXdzTGlzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdzTGlzdFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -204,6 +235,8 @@
       <history-search>
         <entry>FloatMath</entry>
         <entry encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</entry>
+        <entry encoding="base64">XDxtQ29sdW1uSG9yaXpvbnRhbFNjcm9sbFZpZXdcPg==</entry>
+        <entry encoding="base64">XDxuZXdzTGlzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
