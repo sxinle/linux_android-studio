@@ -55,18 +55,24 @@
         <mark key="." line="141" column="34" />
         <mark key="^" line="141" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/DetailsActivity.java" timestamp="1481183330828">
+        <mark key="'" line="80" column="47" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
         <mark key="'" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" timestamp="1481181150373">
-        <mark key="'" line="212" column="0" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
-        <mark key="^" line="203" column="11" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" timestamp="1481183539165">
+        <mark key="'" line="283" column="34" />
+        <mark key="[" line="285" column="26" />
+        <mark key="]" line="285" column="122" />
+        <mark key="." line="285" column="26" />
+        <mark key="^" line="273" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1481179606752">
         <mark key="[" line="0" column="0" />
@@ -84,7 +90,9 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" timestamp="1481181235990" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" timestamp="1481183073756">
+        <mark key="'" line="156" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" timestamp="1481179009587">
         <mark key="'" line="64" column="43" />
       </file>
@@ -95,8 +103,8 @@
         <mark key="^" line="301" column="16" />
         <mark key="." line="301" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" timestamp="1481180974166">
-        <mark key="'" line="94" column="17" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" timestamp="1481182071103">
+        <mark key="'" line="102" column="8" />
         <mark key="[" line="102" column="41" />
         <mark key="]" line="102" column="50" />
         <mark key="^" line="102" column="50" />
@@ -114,7 +122,7 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/listener/BackGestureListener.java" timestamp="1481179155002">
         <mark key="'" line="28" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1481178515959">
+      <file name="/fragment.java" timestamp="1481182504062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" timestamp="1481177508911">
@@ -122,8 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="123" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="38" column="73" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
       <jump line="161" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
@@ -174,7 +180,6 @@
       <jump line="140" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
       <jump line="141" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
       <jump line="38" column="39" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
-      <jump line="32" column="26" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
       <jump line="94" column="17" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
       <jump line="24" column="23" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="139" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
@@ -184,54 +189,95 @@
       <jump line="172" column="6" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="243" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
+      <jump line="177" column="23" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
+      <jump line="206" column="23" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
+      <jump line="190" column="13" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="155" column="34" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="158" column="46" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="161" column="24" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="11" column="25" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="139" column="71" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="113" column="57" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="32" column="26" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="63" column="34" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="102" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="48" column="64" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="50" column="24" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="210" column="51" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="314" column="45" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="315" column="24" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="324" column="38" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="395" column="20" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="159" column="60" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="225" column="22" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="108" column="73" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="135" column="44" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="173" column="39" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="162" column="44" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="163" column="44" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="164" column="44" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="138" column="24" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="142" column="37" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="143" column="19" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="149" column="48" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="156" column="48" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="83" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/DetailsActivity.java" />
+      <jump line="74" column="60" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/DetailsActivity.java" />
+      <jump line="124" column="25" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/DetailsActivity.java" />
+      <jump line="59" column="36" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/DetailsActivity.java" />
+      <jump line="71" column="24" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/DetailsActivity.java" />
+      <jump line="80" column="47" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/DetailsActivity.java" />
+      <jump line="234" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
+      <jump line="283" column="34" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>腾讯数码讯（编译：Gin）谷歌眼镜可能是目前最酷的可穿戴数码设备，你可以戴着它去任何地方（只要法律法规允许或是没有引起众怒），作为手机的第二块“增强现实显示屏”来使用。另外，虽然它仍未正式销售，但谷歌近日在美国市场举行了仅限一天的开放购买活动，价格则为1500美元（约合人民币9330元），虽然仍十分昂贵，但至少可以满足一些尝鲜者的需求，也预示着谷歌眼镜的公开大规模销售离我们越来越近了。</text>
+        <text encoding="base64">5bmz5Y+w5Li655S15ZWG5o+Q5L6b5YWN6LS56K6i5Y2V5a+55o6l5pyN5Yqh77yM5pSv5oyB5aSa56eN5a+55o6l5pa55byP77yM5L6L5aaC77yaTVHjgIFGVFDjgIFXZWJTZXJ2aWNlc+OAgUV4ZWzooajmoLzlr7zlhaXnrYnvvIzlj6/ku6XkuLrkuI3lkIznmoTmlbDmja7lupPjgIHmlbDmja7mupDjgIHkuI3lkIznmoTmlbDmja7mlbDmja7moLzlvI/ov5vooYzmoLzlvI/ovazmjaLvvIzlh4/lsJHnlLXllYbns7vnu5/osIPmlbTlkozmiqXmloflvIDlj5Hlt6XkvZzph4/jgIIg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdzTGlzdFw+</text>
+        <text>javascript</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QXJyYXlMaXN0PE5ld3NFbnRpdHk+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBOZXdzRW50aXR5IG5ld3MzID0gbmV3IE5ld3NFbnRpdHkoKTsKICAgICAgICBuZXdzMy5zZXRJZCgzKTsKICAgICAgICBuZXdzMy5zZXROZXdzSWQoNCk7CiAgICAgICAgbmV3czMuc2V0Q29sbGVjdFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czMuc2V0Q29tbWVudE51bSgzICsgMTApOwogICAgICAgIG5ld3MzLnNldEludGVyZXN0ZWRTdGF0dXModHJ1ZSk7CiAgICAgICAgbmV3czMuc2V0TGlrZVN0YXR1cyh0cnVlKTsKICAgICAgICBuZXdzMy5zZXRSZWFkU3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzMy5zZXROZXdzQ2F0ZWdvcnkoIummlumhtSIpOwogICAgICAgIG5ld3MzLnNldE5ld3NDYXRlZ29yeUlkKDApOwogICAgICAgIG5ld3MzLnNldFNvdXJjZV91cmwoImh0dHA6Ly93d3cudGlhbmppbjJ3b3JsZC5jb20vaW5kZXhkc2RkLmh0bWwiKTsKICAgICAgICBuZXdzMy5zZXRUaXRsZSgi55S15ZWG6K6i5Y2V5a+55o6lIik7CgogICAgICAgIHVybF9saXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgdXJsID0gImh0dHA6Ly93d3cudGlhbmppbjJ3b3JsZC5jb20vaW1hZ2VzL3NxLTMuanBnIjsKICAgICAgICBuZXdzMy5zZXRQaWNPbmUodXJsKTsKICAgICAgICB1cmxfbGlzdC5hZGQodXJsKTsKICAgICAgICBuZXdzMy5zZXRQaWNMaXN0KHVybF9saXN0KTsKCiAgICAgICAgbmV3czMuc2V0SXNMYXJnZShmYWxzZSk7CiAgICAgICAgbmV3czMuc2V0UHVibGlzaFRpbWUoTG9uZy52YWx1ZU9mKDIpKTsKICAgICAgICBuZXdzMy5zZXRSZWFkU3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzMy5zZXRTb3VyY2UoIuWkqea0peiIquepuueJqea1gSIpOwogICAgICAgIG5ld3MzLnNldFN1bW1hcnkoIuW5s+WPsOS4uueUteWVhuaPkOS+m+WFjei0ueiuouWNleWvueaOpeacjeWKoe+8jOaUr+aMgeWkmuenjeWvueaOpeaWueW8j++8jOS+i+Wmgu+8mk1R44CBRlRQ44CBV2ViU2VydmljZXPjgIFFeGVs6KGo5qC85a+85YWl562J77yM5Y+v5Lul5Li65LiN5ZCM55qE5pWw5o2u5bqT44CB5pWw5o2u5rqQ44CB5LiN5ZCM55qE5pWw5o2u5pWw5o2u5qC85byP6L+b6KGM5qC85byP6L2s5o2i77yM5YeP5bCR55S15ZWG57O757uf6LCD5pW05ZKM5oql5paH5byA5Y+R5bel5L2c6YeP44CCICIpOwogICAgICAgIG5ld3MzLnNldE1hcmsoMCk7CiAgICAgICAgbmV3czMuc2V0Q29tbWVudCgi6K+E6K666YOo5YiG77yM6K+055qE6Z2e5bi45aW944CCIik7CiAgICAgICAgbmV3c0xpc3QuYWRkKG5ld3MzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBASmF2YXNjcmlwdEludGVyZmFjZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPD0gMikgewogICAgICAgICAgICAgICAgbmV3cy5zZXRQdWJsaXNoVGltZShMb25nLnZhbHVlT2YoRGF0ZVRvb2xzLmdldFRpbWUoKSkpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgPiAyICYmIGkgPD0gNSkgewogICAgICAgICAgICAgICAgbmV3cy5zZXRQdWJsaXNoVGltZShMb25nLnZhbHVlT2YoRGF0ZVRvb2xzLmdldFRpbWUoKSkgLSA4NjQwMCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBuZXdzLnNldFB1Ymxpc2hUaW1lKExvbmcudmFsdWVPZihEYXRlVG9vbHMuZ2V0VGltZSgpKSAtIDg2NDAwICogMik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gNCkgewogICAgICAgICAgICAgICAgbmV3cy5zZXRUaXRsZSgi6YOo6JC95oiY5LqJ5by65Yq/5Zue5b2SIik7CiAgICAgICAgICAgICAgICBuZXdzLnNldExvY2FsKCLmjqjlub8iKTsKICAgICAgICAgICAgICAgIG5ld3Muc2V0SXNMYXJnZSh0cnVlKTsKICAgICAgICAgICAgICAgIFN0cmluZyB1cmwgPSAiaHR0cDovL2ltZ3QyLmJkc3RhdGljLmNvbS9pdC91PTMyNjkxNTUyNDMsMjYwNDM4OTIxMyZmbT0yMSZncD0wLmpwZyI7CiAgICAgICAgICAgICAgICBuZXdzLnNldFNvdXJjZV91cmwoImh0dHA6Ly9nYW1lcy5zaW5hLmNvbS5jbi96bC9kdWFucGlhbi8yMDE0LTA1LTIxLzE0MTI5Ny5zaHRtbCIpOwogICAgICAgICAgICAgICAgbmV3cy5zZXRQaWNPbmUodXJsKTsKICAgICAgICAgICAgICAgIHVybF9saXN0LmNsZWFyKCk7CiAgICAgICAgICAgICAgICB1cmxfbGlzdC5hZGQodXJsKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG5ld3Muc2V0SXNMYXJnZShmYWxzZSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgJSAyID09IDEpIHsKICAgICAgICAgICAgICAgIFN0cmluZyB1cmwxID0gImh0dHA6Ly9pbmZvcGljLmd0aW1nLmNvbS9xcV9uZXdzL2RpZ2kvcGljcy8xMDIvMTAyMDY2LzEwMjA2NjA5NF80MDBfNjQwLmpwZyI7CiAgICAgICAgICAgICAgICBTdHJpbmcgdXJsMiA9ICJodHRwOi8vaW5mb3BpYy5ndGltZy5jb20vcXFfbmV3cy9kaWdpL3BpY3MvMTAyLzEwMjA2Ni8xMDIwNjYwOTZfNDAwXzY0MC5qcGciOwogICAgICAgICAgICAgICAgU3RyaW5nIHVybDMgPSAiaHR0cDovL2luZm9waWMuZ3RpbWcuY29tL3FxX25ld3MvZGlnaS9waWNzLzEwMi8xMDIwNjYvMTAyMDY2MDk5XzQwMF82NDAuanBnIjsKICAgICAgICAgICAgICAgIG5ld3Muc2V0UGljT25lKHVybDEpOwogICAgICAgICAgICAgICAgbmV3cy5zZXRQaWNUd28odXJsMik7CiAgICAgICAgICAgICAgICBuZXdzLnNldFBpY1Rocih1cmwzKTsKICAgICAgICAgICAgICAgIG5ld3Muc2V0U291cmNlX3VybCgiaHR0cDovL3RlY2guc2luYS5jb20uY24vemwvcG9zdC9kZXRhaWwvaS8yMDEzLTExLTA2L3BpZF84NDM2NTcxLmh0bT9mcm9tPWdyb3VwbWVzc2FnZSZpc2FwcGluc3RhbGxlZD0wIik7CiAgICAgICAgICAgICAgICB1cmxfbGlzdC5hZGQodXJsMSk7CiAgICAgICAgICAgICAgICB1cmxfbGlzdC5hZGQodXJsMik7CiAgICAgICAgICAgICAgICB1cmxfbGlzdC5hZGQodXJsMyk7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXJyYXlMaXN0PENoYW5uZWxJdGVtPiBjaGFubmVsSXRlbUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICBzdGF0aWMgewogICAgICAgIENoYW5uZWxJdGVtIGMxID0gbmV3IENoYW5uZWxJdGVtKDEsICLpppbpobUiLCAwLCAxKTsKICAgICAgICBDaGFubmVsSXRlbSBjMiA9IG5ldyBDaGFubmVsSXRlbSgyLCAi5Lia5Yqh5bGV56S6IiwgMSwgMSk7CiAgICAgICAgQ2hhbm5lbEl0ZW0gYzMgPSBuZXcgQ2hhbm5lbEl0ZW0oMywgIuWbreWMuuWKqOaAgSIsIDIsIDEpOwogICAgICAgIENoYW5uZWxJdGVtIGM0ID0gbmV3IENoYW5uZWxJdGVtKDQsICLmlL/nrZbms5Xop4QiLCAzLCAxKTsKICAgICAgICBDaGFubmVsSXRlbSBjNSA9IG5ldyBDaGFubmVsSXRlbSg1LCAi6Leo5aKD5ZKo6K+iIiwgNCwgMSk7CiAgICAgICAgQ2hhbm5lbEl0ZW0gYzYgPSBuZXcgQ2hhbm5lbEl0ZW0oNiwgIuaLm+WVhuWFpempuyIsIDUsIDEpOwogICAgICAgIENoYW5uZWxJdGVtIGM3ID0gbmV3IENoYW5uZWxJdGVtKDcsICLot6jlooPnlLPmiqUiLCA2LCAxKTsKICAgICAgICBDaGFubmVsSXRlbSBjOCA9IG5ldyBDaGFubmVsSXRlbSg4LCAi5YWz5LqO5oiR5LusIiwgNywgMSk7CiAgICAgICAgY2hhbm5lbEl0ZW1MaXN0LmFkZChjMSk7CiAgICAgICAgY2hhbm5lbEl0ZW1MaXN0LmFkZChjMik7CiAgICAgICAgY2hhbm5lbEl0ZW1MaXN0LmFkZChjMyk7CiAgICAgICAgY2hhbm5lbEl0ZW1MaXN0LmFkZChjNCk7CiAgICAgICAgY2hhbm5lbEl0ZW1MaXN0LmFkZChjNSk7CiAgICAgICAgY2hhbm5lbEl0ZW1MaXN0LmFkZChjNik7CiAgICAgICAgY2hhbm5lbEl0ZW1MaXN0LmFkZChjNyk7CiAgICAgICAgY2hhbm5lbEl0ZW1MaXN0LmFkZChjOCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdzTGlzdFw+</last-search>
+      <last-search>javascript</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdzTGlzdFw+</last-pattern>
+      <last-pattern>javascript</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -239,6 +285,11 @@
         <entry encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</entry>
         <entry encoding="base64">XDxtQ29sdW1uSG9yaXpvbnRhbFNjcm9sbFZpZXdcPg==</entry>
         <entry encoding="base64">XDxuZXdzTGlzdFw+</entry>
+        <entry>onclick</entry>
+        <entry>source</entry>
+        <entry>sourceUrl</entry>
+        <entry>url</entry>
+        <entry>javascript</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
