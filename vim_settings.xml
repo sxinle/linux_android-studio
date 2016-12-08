@@ -6,7 +6,9 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/imageshow/TouchImageView.java" timestamp="1481177708805" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" timestamp="1481179437336">
+        <mark key="'" line="29" column="39" />
+      </file>
       <file name="/Python Console" timestamp="1481090050461">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,30 +21,19 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481168768009">
-        <mark key="'" line="217" column="0" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="22" />
-        <mark key="^" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-      </file>
-      <file name="/a.dummy" timestamp="1481177989684">
+      <file name="/a.dummy" timestamp="1481178093402">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" timestamp="1481177663074">
-        <mark key="'" line="302" column="23" />
-        <mark key="[" line="300" column="35" />
-        <mark key="]" line="301" column="16" />
-        <mark key="^" line="301" column="16" />
-        <mark key="." line="301" column="16" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/custom/StaticData.java" timestamp="1481179366617">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
-      <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
-        <mark key="'" line="9" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1481090442104">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="46" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel_item.xml" timestamp="1481179478930">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481103258695">
         <mark key="'" line="131" column="0" />
@@ -50,9 +41,6 @@
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
-        <mark key="'" line="461" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
@@ -67,10 +55,50 @@
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1481099218114">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" timestamp="1481179347818">
+        <mark key="'" line="149" column="21" />
+        <mark key="[" line="140" column="133" />
+        <mark key="]" line="141" column="52" />
+        <mark key="." line="141" column="52" />
+        <mark key="^" line="141" column="52" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
+        <mark key="'" line="83" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481179489997">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/imageshow/TouchImageView.java" timestamp="1481177708805" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481168768009">
+        <mark key="'" line="217" column="0" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" timestamp="1481179009587">
+        <mark key="'" line="64" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" timestamp="1481177663074">
+        <mark key="'" line="302" column="23" />
+        <mark key="[" line="300" column="35" />
+        <mark key="]" line="301" column="16" />
+        <mark key="^" line="301" column="16" />
+        <mark key="." line="301" column="16" />
+      </file>
+      <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
+        <mark key="'" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
+        <mark key="'" line="461" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/listener/BackGestureListener.java" timestamp="1481179155002">
+        <mark key="'" line="28" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1481178515959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" timestamp="1481177508911">
@@ -111,61 +139,71 @@
       <jump line="9" column="31" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
       <jump line="302" column="23" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
       <jump line="9" column="23" filename="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" />
+      <jump line="20" column="51" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" />
+      <jump line="47" column="35" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="142" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="150" column="21" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" />
+      <jump line="64" column="43" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" />
+      <jump line="28" column="4" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/listener/BackGestureListener.java" />
+      <jump line="29" column="39" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Employee</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
-        <text>FloatMath</text>
+        <text encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</text>
       </register>
-      <register name="0" type="8">
-        <text>mpty(param)) 
- = mapper.rea
-rds().length(
-EMPTY_RESULT;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFubmVsSXRlbUxpc3QuYWRkKGM3KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9faW5pdF9fKHNlbGYsIG5hbWUgLCBhZ2UpOgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YW9wCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YS5qamtqCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIF9faW5pdF9fKHNlbGYsIG5hbWUgLCBhZ2UpOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YW9wCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YS5qamtqCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">cHJpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>FloatMath</last-search>
+      <last-search encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>FloatMath</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>FloatMath</entry>
+        <entry encoding="base64">XDx1c2VyQ2hhbm5lbExpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
