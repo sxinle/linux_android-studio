@@ -15,7 +15,7 @@
       <file name="/CityDetailResp.java" timestamp="1481102510553">
         <mark key="'" line="165" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1481185044163">
+      <file name="/a.dummy" timestamp="1481187969607">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/custom/StaticData.java" timestamp="1481180616487">
@@ -28,7 +28,9 @@
         <mark key="]" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481187328266" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481187960283">
+        <mark key="'" line="86" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481103258695">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="28" column="22" />
@@ -56,10 +58,10 @@
         <mark key="." line="77" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/DetailsActivity.java" timestamp="1481183330828">
-        <mark key="'" line="80" column="47" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+        <mark key="'" line="75" column="47" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
@@ -134,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="11" filename="$USER_HOME$/workspace/py/zest/test.py" />
       <jump line="55" column="16" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="17" column="20" filename="/CityDetailResp.java" />
       <jump line="165" column="0" filename="/CityDetailResp.java" />
@@ -234,6 +235,7 @@
       <jump line="546" column="34" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="125" column="82" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
       <jump line="46" column="74" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
+      <jump line="86" column="43" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
