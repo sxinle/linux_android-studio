@@ -38,6 +38,9 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/RecordEat/build.gradle" timestamp="1481274773270">
+        <mark key="'" line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="4" />
@@ -142,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="/CityDetailResp.java" />
       <jump line="31" column="37" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="131" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="93" column="52" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
@@ -242,6 +244,7 @@
       <jump line="86" column="43" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" />
       <jump line="96" column="34" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" />
       <jump line="120" column="16" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
+      <jump line="15" column="17" filename="$USER_HOME$/workspace/Android/RecordEat/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
