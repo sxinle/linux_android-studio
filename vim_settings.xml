@@ -96,6 +96,12 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" timestamp="1481187263103">
         <mark key="'" line="46" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Demo/app/src/main/res/layout/activity_main.xml" timestamp="1481267453519">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" timestamp="1481179009587">
         <mark key="'" line="64" column="43" />
       </file>
@@ -239,7 +245,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>从保税区管委会了解到，今年是天津获批跨境电商试点城市之后迎来的首个网购狂欢盛宴，保税区海港保税备货模式和空港跨境直邮模式轮番接受网购“大考”。刚刚过去的“双11”，保税区当天单量达40530单。跨境网购大促刚刚告一段落，跨境物流“大战”又开始上演，从15日起，跨境直邮货物陆续抵达天津口岸，预计接下来的一周，有近6万单在天津华宇股份监管库区通关放行。</text>
+        <text>World</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>

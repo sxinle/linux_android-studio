@@ -1,11 +1,4 @@
 <scheme name="WarmNeon copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-12-07T11:39:15</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-07T13:05:51</property>
-    <property name="originalScheme">_@user_WarmNeon</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Monaco_Linux-Airline" />
@@ -365,7 +358,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
@@ -713,7 +705,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="d14c42" />
@@ -784,9 +775,6 @@
       <value>
         <option name="FOREGROUND" value="7a8fd9" />
       </value>
-    </option>
-    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>

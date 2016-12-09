@@ -1,8 +1,4 @@
 <scheme name="Eclectide Monokai" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="modified">2016-11-29T14:31:32</property>
-    <property name="rainbow Default language">true</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Monaco_Linux-Airline" />
