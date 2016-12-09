@@ -28,6 +28,13 @@
         <mark key="]" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" timestamp="1481276209447">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
         <mark key="'" line="96" column="34" />
       </file>
@@ -50,6 +57,11 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/build/intermediates/res/merged/debug/layout/splash.xml" timestamp="1481275818007">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
@@ -79,7 +91,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481183979515">
+      <file name="/Dummy.txt" timestamp="1481275463757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -125,8 +137,20 @@
       <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
         <mark key="'" line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" timestamp="1481276498721">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="1" column="98" />
+        <mark key="]" line="1" column="104" />
+        <mark key="." line="1" column="104" />
+        <mark key="^" line="1" column="104" />
+      </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
         <mark key="'" line="461" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/strings.xml" timestamp="1481276469376">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/values/styles.xml" timestamp="1481179632208">
         <mark key="'" line="455" column="17" />
@@ -134,7 +158,18 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/listener/BackGestureListener.java" timestamp="1481179155002">
         <mark key="'" line="28" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1481182504062">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/wx/com/wx/SplashActivity.java" timestamp="1481276378865">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="18" column="56" />
+        <mark key="^" line="18" column="56" />
+        <mark key="." line="18" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_splash.xml" timestamp="1481276213033">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1481276104173">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/bean/NewsEntity.java" timestamp="1481185274638">
@@ -145,15 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="37" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="131" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="93" column="52" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="20" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="12" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="166" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="217" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="21" column="4" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" />
       <jump line="303" column="27" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
       <jump line="9" column="31" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
       <jump line="302" column="23" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
@@ -245,22 +271,31 @@
       <jump line="96" column="34" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" />
       <jump line="120" column="16" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
       <jump line="15" column="17" filename="$USER_HOME$/workspace/Android/RecordEat/build.gradle" />
+      <jump line="5" column="14" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
+      <jump line="16" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_splash.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_splash.xml" />
+      <jump line="7" column="39" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
+      <jump line="0" column="6" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>世界</text>
+        <text>app_name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbXNcPg==</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6aaW6aG15YaF5a65CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgQXJyYXlMaXN0PE5ld3NFbnRpdHk+IGdldDBOZXdzKCkgewogICAgICAgIEFycmF5TGlzdDxOZXdzRW50aXR5PiBuZXdzTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIE5ld3NFbnRpdHkgbmV3czEgPSBuZXcgTmV3c0VudGl0eSgpOwogICAgICAgIG5ld3MxLnNldElkKDEpOwogICAgICAgIG5ld3MxLnNldE5ld3NJZCgyKTsKICAgICAgICBuZXdzMS5zZXRDb2xsZWN0U3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzMS5zZXRDb21tZW50TnVtKDEgKyAxMCk7CiAgICAgICAgbmV3czEuc2V0SW50ZXJlc3RlZFN0YXR1cyh0cnVlKTsKICAgICAgICBuZXdzMS5zZXRMaWtlU3RhdHVzKHRydWUpOwogICAgICAgIG5ld3MxLnNldFJlYWRTdGF0dXMoZmFsc2UpOwogICAgICAgIG5ld3MxLnNldE5ld3NDYXRlZ29yeSgi6aaW6aG1Iik7CiAgICAgICAgbmV3czEuc2V0TmV3c0NhdGVnb3J5SWQoMCk7CiAgICAgICAgbmV3czEuc2V0U291cmNlX3VybCgiaHR0cDovL3d3dy50aWFuamluMndvcmxkLmNvbS9pbmRleHF5eGkuaHRtbCIpOwogICAgICAgIG5ld3MxLnNldFRpdGxlKCLkvIHkuJrkv6Hmga/lpIfmoYgiKTsKCiAgICAgICAgTGlzdDxTdHJpbmc+IHVybF9saXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vd3d3LnRpYW5qaW4yd29ybGQuY29tL2ltYWdlcy9zcS0xLmpwZyI7CiAgICAgICAgbmV3czEuc2V0UGljT25lKHVybCk7CiAgICAgICAgdXJsX2xpc3QuYWRkKHVybCk7CiAgICAgICAgbmV3czEuc2V0UGljTGlzdCh1cmxfbGlzdCk7CgogICAgICAgIG5ld3MxLnNldElzTGFyZ2UoZmFsc2UpOwogICAgICAgIG5ld3MxLnNldFB1Ymxpc2hUaW1lKExvbmcudmFsdWVPZigxKSk7CiAgICAgICAgbmV3czEuc2V0UmVhZFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czEuc2V0U291cmNlKCLlpKnmtKXoiKrnqbrnianmtYEiKTsKICAgICAgICBuZXdzMS5zZXROZXdzQWJzdHJhY3QoIiDlpIfmoYjkvIHkuJrojIPlm7TvvJog55S15ZWG5LyB5Lia44CB55S15ZWG5bmz5Y+w44CB54mp5rWB5LyB5Lia44CB5pSv5LuY5LyB5Lia44CB5Yy65YaF5LuT5YKo5LyB5Lia44CB55uR566h5Zy65omA57uP6JCl6ICF44CB5oql5YWz5oql5qOA5LyB5Lia44CB5Zu95YaF5rS+6YCB5LyB5Lia77yI5b+r6YCS5LyB5Lia77yJ44CCIOS4gOOAgeeUteWVhuS8geS4muWkh+ahiCDmioDmnK/lpITlrqHmoLjkvIHkuJrmj5DkuqTnmoTku6XkuIvnlLPor7fmnZDmlpnvvIznm5HnrqHpgJrlhbPlpITjgIHmlbDmja7liIbkuK3lv4PlkIzmhI/lkI7vvIzkvIHkuJrlj6/lnKjlhbPljLrojIPlm7TlhoXlvIDlsZXov5vlh7rlj6PkuJrliqHjgIIgMS7lvIDlsZXot6jlooPnlLXlrZDllYbliqHov5vlh7rlj6PkuJrliqHnlLPor7fvvJsgMi7jgIrkvIHkuJrms5XkurrokKXkuJrmiafnhafjgIvlpI3ljbDku7bvvJsgMy7jgIrkuK3ljY7kurrmsJHlhbHlkozlm73nu4Tnu4fmnLrmnoTku6PnoIHor4HkuabjgIvlpI3ljbDku7bvvJsgNC7jgIrkuK3ljY7kurrmsJHlhbHlkozlm73nlLXkv6HkuI7kv6Hmga/mnI3liqHkuJrliqHnu4/okKXorrjlj6/or4HjgIvvvIhJQ1Dnu4/okKXorrjlj6/or4HvvInvvJsgNS7kuI7mlK/ku5jkvIHkuJrjgIHnianmtYHkvIHkuJrnrYnnmoTlkIjkvZzljY/orq7vvJsgNi7lhbbku5bnm7jlhbPmnZDmlpnjgIIiKTsKICAgICAgICBuZXdzMS5zZXRNYXJrKDEpOwogICAgICAgIG5ld3NMaXN0LmFkZChuZXdzMSk7CgoKICAgICAgICBOZXdzRW50aXR5IG5ld3MyID0gbmV3IE5ld3NFbnRpdHkoKTsKICAgICAgICBuZXdzMi5zZXRJZCgyKTsKICAgICAgICBuZXdzMi5zZXROZXdzSWQoMyk7CiAgICAgICAgbmV3czIuc2V0Q29sbGVjdFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czIuc2V0Q29tbWVudE51bSgxICsgMTApOwogICAgICAgIG5ld3MyLnNldEludGVyZXN0ZWRTdGF0dXModHJ1ZSk7CiAgICAgICAgbmV3czIuc2V0TGlrZVN0YXR1cyh0cnVlKTsKICAgICAgICBuZXdzMi5zZXRSZWFkU3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzMi5zZXROZXdzQ2F0ZWdvcnkoIummlumhtSIpOwogICAgICAgIG5ld3MyLnNldE5ld3NDYXRlZ29yeUlkKDApOwogICAgICAgIG5ld3MyLnNldFNvdXJjZV91cmwoImh0dHA6Ly93d3cudGlhbmppbjJ3b3JsZC5jb20vaW5kZXhzcHhpLmh0bWwiKTsKICAgICAgICBuZXdzMi5zZXRUaXRsZSgi5ZWG5ZOB5L+h5oGv5aSH5qGIIik7CgogICAgICAgIHVybF9saXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgdXJsID0gImh0dHA6Ly93d3cudGlhbmppbjJ3b3JsZC5jb20vaW1hZ2VzL3NxLTIuanBnIjsKICAgICAgICBuZXdzMi5zZXRQaWNPbmUodXJsKTsKICAgICAgICB1cmxfbGlzdC5hZGQodXJsKTsKICAgICAgICBuZXdzMi5zZXRQaWNMaXN0KHVybF9saXN0KTsKCiAgICAgICAgbmV3czIuc2V0SXNMYXJnZShmYWxzZSk7CiAgICAgICAgbmV3czIuc2V0UHVibGlzaFRpbWUoTG9uZy52YWx1ZU9mKDIpKTsKICAgICAgICBuZXdzMi5zZXRSZWFkU3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzMi5zZXRTb3VyY2UoIuWkqea0peiIquepuueJqea1gSIpOwogICAgICAgIG5ld3MyLnNldE5ld3NBYnN0cmFjdCgi5ZWG5ZOB5aSH5qGI5omA6ZyA5p2Q5paZ77ya5ZWG5ZOB5aSH5qGI6KGo44CB5ZWG5ZOB5ZCN56ew44CB5ZOB54mM44CB6KeE5qC85Z6L5Y+344CB55Sf5Lqn5Zu95Yir562J77yI5Y+v6IO96L+Y6ZyA6KaB5p2h5b2i56CB44CB54Wn54mH44CB5Y6f5Lqn5Zyw6K+B5piO44CB5qOA6aqM5oql5ZGK44CB5Lu35qC844CB5paZ5Y+344CB5Li76KaB5oiQ5Lu944CB55So6YCU44CB6YCC55So5qCH5YeG44CB55Sf5Lqn5LyB5Lia562J77yJICIpOwogICAgICAgIG5ld3MyLnNldE1hcmsoMSk7CiAgICAgICAgbmV3c0xpc3QuYWRkKG5ld3MyKTsKCiAgICAgICAgTmV3c0VudGl0eSBuZXdzMyA9IG5ldyBOZXdzRW50aXR5KCk7CiAgICAgICAgbmV3czMuc2V0SWQoMyk7CiAgICAgICAgbmV3czMuc2V0TmV3c0lkKDQpOwogICAgICAgIG5ld3MzLnNldENvbGxlY3RTdGF0dXMoZmFsc2UpOwogICAgICAgIG5ld3MzLnNldENvbW1lbnROdW0oMyArIDEwKTsKICAgICAgICBuZXdzMy5zZXRJbnRlcmVzdGVkU3RhdHVzKHRydWUpOwogICAgICAgIG5ld3MzLnNldExpa2VTdGF0dXModHJ1ZSk7CiAgICAgICAgbmV3czMuc2V0UmVhZFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czMuc2V0TmV3c0NhdGVnb3J5KCLpppbpobUiKTsKICAgICAgICBuZXdzMy5zZXROZXdzQ2F0ZWdvcnlJZCgwKTsKICAgICAgICBuZXdzMy5zZXRTb3VyY2VfdXJsKCJodHRwOi8vd3d3LnRpYW5qaW4yd29ybGQuY29tL2luZGV4ZHNkZC5odG1sIik7CiAgICAgICAgbmV3czMuc2V0VGl0bGUoIueUteWVhuiuouWNleWvueaOpSIpOwoKICAgICAgICB1cmxfbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHVybCA9ICJodHRwOi8vd3d3LnRpYW5qaW4yd29ybGQuY29tL2ltYWdlcy9zcS0zLmpwZyI7CiAgICAgICAgbmV3czMuc2V0UGljT25lKHVybCk7CiAgICAgICAgdXJsX2xpc3QuYWRkKHVybCk7CiAgICAgICAgbmV3czMuc2V0UGljTGlzdCh1cmxfbGlzdCk7CgogICAgICAgIG5ld3MzLnNldElzTGFyZ2UoZmFsc2UpOwogICAgICAgIG5ld3MzLnNldFB1Ymxpc2hUaW1lKExvbmcudmFsdWVPZigyKSk7CiAgICAgICAgbmV3czMuc2V0UmVhZFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czMuc2V0U291cmNlKCLlpKnmtKXoiKrnqbrnianmtYEiKTsKICAgICAgICBuZXdzMy5zZXROZXdzQWJzdHJhY3QoIuW5s+WPsOS4uueUteWVhuaPkOS+m+WFjei0ueiuouWNleWvueaOpeacjeWKoe+8jOaUr+aMgeWkmuenjeWvueaOpeaWueW8j++8jOS+i+Wmgu+8mk1R44CBRlRQ44CBV2ViU2VydmljZXPjgIFFeGVs6KGo5qC85a+85YWl562J77yM5Y+v5Lul5Li65LiN5ZCM55qE5pWw5o2u5bqT44CB5pWw5o2u5rqQ44CB5LiN5ZCM55qE5pWw5o2u5pWw5o2u5qC85byP6L+b6KGM5qC85byP6L2s5o2i77yM5YeP5bCR55S15ZWG57O757uf6LCD5pW05ZKM5oql5paH5byA5Y+R5bel5L2c6YeP44CCICIpOwogICAgICAgIG5ld3MzLnNldE1hcmsoMCk7CiAgICAgICAgbmV3c0xpc3QuYWRkKG5ld3MzKTsKCiAgICAgICAgTmV3c0VudGl0eSBuZXdzNCA9IG5ldyBOZXdzRW50aXR5KCk7CiAgICAgICAgbmV3czQuc2V0SWQoMyk7CiAgICAgICAgbmV3czQuc2V0TmV3c0lkKDQpOwogICAgICAgIG5ld3M0LnNldENvbGxlY3RTdGF0dXMoZmFsc2UpOwogICAgICAgIG5ld3M0LnNldENvbW1lbnROdW0oMyArIDEwKTsKICAgICAgICBuZXdzNC5zZXRJbnRlcmVzdGVkU3RhdHVzKHRydWUpOwogICAgICAgIG5ld3M0LnNldExpa2VTdGF0dXModHJ1ZSk7CiAgICAgICAgbmV3czQuc2V0UmVhZFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czQuc2V0TmV3c0NhdGVnb3J5KCLpppbpobUiKTsKICAgICAgICBuZXdzNC5zZXROZXdzQ2F0ZWdvcnlJZCgwKTsKICAgICAgICBuZXdzNC5zZXRTb3VyY2VfdXJsKCJodHRwOi8vd3d3LnRpYW5qaW4yd29ybGQuY29tL2luZGV4d2x5ZC5odG1sIik7CiAgICAgICAgbmV3czQuc2V0VGl0bGUoIueJqea1gei/kOWNleWvueaOpSIpOwoKICAgICAgICB1cmxfbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHVybCA9ICJodHRwOi8vd3d3LnRpYW5qaW4yd29ybGQuY29tL2ltYWdlcy9zcS00LmpwZyI7CiAgICAgICAgbmV3czQuc2V0UGljT25lKHVybCk7CiAgICAgICAgdXJsX2xpc3QuYWRkKHVybCk7CiAgICAgICAgbmV3czQuc2V0UGljTGlzdCh1cmxfbGlzdCk7CgogICAgICAgIG5ld3M0LnNldElzTGFyZ2UoZmFsc2UpOwogICAgICAgIG5ld3M0LnNldFB1Ymxpc2hUaW1lKExvbmcudmFsdWVPZigyKSk7CiAgICAgICAgbmV3czQuc2V0UmVhZFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czQuc2V0U291cmNlKCLlpKnmtKXoiKrnqbrnianmtYEiKTsKICAgICAgICBuZXdzNC5zZXROZXdzQWJzdHJhY3QoIuW5s+WPsOWFjei0ueS4uueJqea1geS8geS4mu+8iOWbvemZhei0p+S7o+OAgeWbvemZheW/q+S7tuetie+8ieOAgeaKpeWFs+S8geS4muaPkOS+m+i/kOWNleaOpeWFpeacjeWKoe+8jOagueaNrueJqea1geS8geS4mueahOeJueeCueaPkOS+m01R44CBRlRQ44CBV2ViU2VydmljZXPjgIFFeGVs6KGo5qC85a+85YWl562J5aSa56eN5o6l5YWl5pa55byP77yM5pa55L6/54mp5rWB5LyB5Lia5oql5YWz5ZKM54mp5rWB5L2c5Lia44CCICIpOwogICAgICAgIG5ld3M0LnNldE1hcmsoMCk7CiAgICAgICAgbmV3c0xpc3QuYWRkKG5ld3M0KTsKCgogICAgICAgIHJldHVybiBuZXdzTGlzdDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPld4PC9zdHJpbmc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl3ZWJWaWV3LmdldFNldHRpbmdzKCkuc2V0RG9tU3RvcmFnZUVuYWJsZWQodHJ1ZSk7CiAgICAgICAgd2ViVmlldy5nZXRTZXR0aW5ncygpLnNldEJsb2NrTmV0d29ya0ltYWdlKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0idmVyc2lvbiI+MS4wLjA8L3N0cmluZz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL25ld3MxLnNldENvbW1lbnQoIuivhOiuuumDqOWIhu+8jOivtOeahOmdnuW4uOWlveOAgiIpOwo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFJlbGF0aXZlTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aXZpdHlfc3BsYXNoIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSJAZGltZW4vYWN0aXZpdHlfdmVydGljYWxfbWFyZ2luIgogICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIgogICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIHRvb2xzOmNvbnRleHQ9Ind4LmNvbS53eC5TcGxhc2hBY3Rpdml0eSI+Cgo8L1JlbGF0aXZlTGF5b3V0Pgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -269,30 +304,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOZXdzRW50aXR5IG5ld3MyID0gbmV3IE5ld3NFbnRpdHkoKTsKICAgICAgICBuZXdzMi5zZXRJZCgyKTsKICAgICAgICBuZXdzMi5zZXROZXdzSWQoMyk7CiAgICAgICAgbmV3czIuc2V0Q29sbGVjdFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czIuc2V0Q29tbWVudE51bSgxICsgMTApOwogICAgICAgIG5ld3MyLnNldEludGVyZXN0ZWRTdGF0dXModHJ1ZSk7CiAgICAgICAgbmV3czIuc2V0TGlrZVN0YXR1cyh0cnVlKTsKICAgICAgICBuZXdzMi5zZXRSZWFkU3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzMi5zZXROZXdzQ2F0ZWdvcnkoIuaUv+etluazleinhCIpOwogICAgICAgIG5ld3MyLnNldE5ld3NDYXRlZ29yeUlkKDMpOwogICAgICAgIG5ld3MyLnNldFNvdXJjZV91cmwoImh0dHA6Ly93d3cudGlhbmppbjJ3b3JsZC5jb20veXFkdF96eGR0XzFfMTU2LnNodG1sIik7CiAgICAgICAgbmV3czIuc2V0VGl0bGUoIuS6rOS4nOWJr+aAu+ijgeadjuaMr+W5v+S4gOihjOS4ieS6uuiAg+Wvn+S6p+S4muWbrSIpOwoKICAgICAgICB1cmxfbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHVybCA9ICJodHRwOi8vMTIzLjU3LjE1MC4yMDIvZmlsZXMvMWVjMGU1YzYtMjAyMi00OGIxLWE3ZWYtNzk4MzA1OTI1MGRkLyVFNSU5QiVBRCVFNSU4QyVCQSVFNSU4QSVBOCVFNiU4MCU4MTIuanBnIjsKICAgICAgICBuZXdzMi5zZXRQaWNPbmUodXJsKTsKICAgICAgICB1cmxfbGlzdC5hZGQodXJsKTsKICAgICAgICBuZXdzMi5zZXRQaWNMaXN0KHVybF9saXN0KTsKCiAgICAgICAgbmV3czIuc2V0SXNMYXJnZShmYWxzZSk7CiAgICAgICAgbmV3czIuc2V0UHVibGlzaFRpbWUoTG9uZy52YWx1ZU9mKDIpKTsKICAgICAgICBuZXdzMi5zZXRSZWFkU3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzMi5zZXRTb3VyY2UoIuWkqea0peiIquepuueJqea1gSIpOwogICAgICAgIG5ld3MyLnNldE5ld3NBYnN0cmFjdCgiIDfmnIg55pel77yM5Lqs5Lic5Ymv5oC76KOB5p2O5oyv5bm/5LiA6KGM5LiJ5Lq66ICD5a+f5aSp5rSl6Ieq55Sx6LS45piT5Yy65ZKM6Leo5aKD55S15a2Q5ZWG5Yqh5Lqn5Lia5Zut44CCIOS/neeojuWMuueuoeWnlOS8muS4u+S7u+adqOWFteS4juadjuaMr+W5v+WJr+aAu+ijgeWwseS6rOS4nOi3qOWig+S4muWKoeWcqOWkqea0peeahOW8gOWxlea3seWFpeS6pOaNouS6huaEj+inge+8jOWPjOaWueWQjOaEj+WcqDjmnIjlupXnlLXllYblpKfkvJrmnJ/pl7Tnrb7nvbLmiJjnlaXlkIjkvZzljY/orq7jgIIiKTsKICAgICAgICBuZXdzMi5zZXRNYXJrKDEpOwogICAgICAgIG5ld3NMaXN0LmFkZChuZXdzMik7CgogICAgICAgIE5ld3NFbnRpdHkgbmV3czMgPSBuZXcgTmV3c0VudGl0eSgpOwogICAgICAgIG5ld3MzLnNldElkKDMpOwogICAgICAgIG5ld3MzLnNldE5ld3NJZCg0KTsKICAgICAgICBuZXdzMy5zZXRDb2xsZWN0U3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzMy5zZXRDb21tZW50TnVtKDMgKyAxMCk7CiAgICAgICAgbmV3czMuc2V0SW50ZXJlc3RlZFN0YXR1cyh0cnVlKTsKICAgICAgICBuZXdzMy5zZXRMaWtlU3RhdHVzKHRydWUpOwogICAgICAgIG5ld3MzLnNldFJlYWRTdGF0dXMoZmFsc2UpOwogICAgICAgIG5ld3MzLnNldE5ld3NDYXRlZ29yeSgi5pS/562W5rOV6KeEIik7CiAgICAgICAgbmV3czMuc2V0TmV3c0NhdGVnb3J5SWQoMyk7CiAgICAgICAgbmV3czMuc2V0U291cmNlX3VybCgiaHR0cDovL3d3dy50aWFuamluMndvcmxkLmNvbS95cWR0X3p4ZHRfMV8yMDMuc2h0bWwiKTsKICAgICAgICBuZXdzMy5zZXRUaXRsZSgi5aSp5rSl5L+d56iO5Yy66Leo5aKD55S15ZWG6K+V5Y2V5oiQ5YqfIik7CgogICAgICAgIHVybF9saXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgdXJsID0gIiI7CiAgICAgICAgbmV3czMuc2V0UGljT25lKHVybCk7CiAgICAgICAgdXJsX2xpc3QuYWRkKHVybCk7CiAgICAgICAgbmV3czMuc2V0UGljTGlzdCh1cmxfbGlzdCk7CgogICAgICAgIG5ld3MzLnNldElzTGFyZ2UoZmFsc2UpOwogICAgICAgIG5ld3MzLnNldFB1Ymxpc2hUaW1lKExvbmcudmFsdWVPZigyKSk7CiAgICAgICAgbmV3czMuc2V0UmVhZFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czMuc2V0U291cmNlKCLlpKnmtKXoiKrnqbrnianmtYEiKTsKICAgICAgICBuZXdzMy5zZXROZXdzQWJzdHJhY3QoIuW5s+WPsOS4uueUteWVhuaPkOS+m+WFjei0ueiuouWNleWvueaOpeacjeWKoe+8jOaUr+aMgeWkmuenjeWvueaOpeaWueW8j++8jOS+i+Wmgu+8mk1R44CBRlRQ44CBV2ViU2VydmljZXPjgIFFeGVs6KGo5qC85a+85YWl562J77yM5Y+v5Lul5Li65LiN5ZCM55qE5pWw5o2u5bqT44CB5pWw5o2u5rqQ44CB5LiN5ZCM55qE5pWw5o2u5pWw5o2u5qC85byP6L+b6KGM5qC85byP6L2s5o2i77yM5YeP5bCR55S15ZWG57O757uf6LCD5pW05ZKM5oql5paH5byA5Y+R5bel5L2c6YeP44CCICAgICDmja7mgonvvIzlpKnmtKXmuK/kv53nqI7ljLrmiJDlip/lrozmiJDmnKzluILpppbljZXot6jlooPnlLXllYbnmoTigJzkuInljZXmr5Tlr7nigJ3lubbnu4/lhbPmo4DmlL7ooYzjgILmraTljZXmiJDkuLrmnKzluILot6jlooPnlLXllYbmgLvnvbLniYjns7vnu5/pppbljZXvvIzkuZ/mmK/lhajlm73ot6jlooPnlLXllYbmjqjlub/mtbflhbPmgLvnvbLniYjpppbljZXjgILov5nkuZ/moIflv5fnnYDlpKnmtKXot6jlooPnlLXllYbkv53nqI7lpIfotKfmqKHlvI/lvIDlp4vlkK/liqjvvIzmtojotLnogIXku4rlkI7otK3kubDlm73lpJbkuqflk4HlsIbmm7TnnIHml7bmlrnkvr/jgIIiKTsKICAgICAgICBuZXdzMy5zZXRNYXJrKDApOwogICAgICAgIG5ld3NMaXN0LmFkZChuZXdzMyk7CgogICAgICAgIE5ld3NFbnRpdHkgbmV3czQgPSBuZXcgTmV3c0VudGl0eSgpOwogICAgICAgIG5ld3M0LnNldElkKDMpOwogICAgICAgIG5ld3M0LnNldE5ld3NJZCg0KTsKICAgICAgICBuZXdzNC5zZXRDb2xsZWN0U3RhdHVzKGZhbHNlKTsKICAgICAgICBuZXdzNC5zZXRDb21tZW50TnVtKDMgKyAxMCk7CiAgICAgICAgbmV3czQuc2V0SW50ZXJlc3RlZFN0YXR1cyh0cnVlKTsKICAgICAgICBuZXdzNC5zZXRMaWtlU3RhdHVzKHRydWUpOwogICAgICAgIG5ld3M0LnNldFJlYWRTdGF0dXMoZmFsc2UpOwogICAgICAgIG5ld3M0LnNldE5ld3NDYXRlZ29yeSgi5pS/562W5rOV6KeEIik7CiAgICAgICAgbmV3czQuc2V0TmV3c0NhdGVnb3J5SWQoMyk7CiAgICAgICAgbmV3czQuc2V0U291cmNlX3VybCgiaHR0cDovL3d3dy50aWFuamluMndvcmxkLmNvbS95cWR0X3p4ZHRfMV8yMDEuc2h0bWwiKTsKICAgICAgICBuZXdzNC5zZXRUaXRsZSgi5aSp5rSl5L+d56iO5Yy65a6M5oiQ5YWo5Zu96Leo5aKD55S15ZWG5o6o5bm/5rW35YWz5oC7572y54mI57O757uf6aaW5Y2VIik7CgogICAgICAgIHVybF9saXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgdXJsID0gIiI7CiAgICAgICAgbmV3czQuc2V0UGljT25lKHVybCk7CiAgICAgICAgdXJsX2xpc3QuYWRkKHVybCk7CiAgICAgICAgbmV3czQuc2V0UGljTGlzdCh1cmxfbGlzdCk7CgogICAgICAgIG5ld3M0LnNldElzTGFyZ2UoZmFsc2UpOwogICAgICAgIG5ld3M0LnNldFB1Ymxpc2hUaW1lKExvbmcudmFsdWVPZigyKSk7CiAgICAgICAgbmV3czQuc2V0UmVhZFN0YXR1cyhmYWxzZSk7CiAgICAgICAgbmV3czQuc2V0U291cmNlKCLlpKnmtKXoiKrnqbrnianmtYEiKTsKICAgICAgICBuZXdzNC5zZXROZXdzQWJzdHJhY3QoIuaXpeWJje+8jOWkqea0pea4r+S/neeojuWMuuaIkOWKn+WujOaIkOS6huacrOW4gummluWNlei3qOWig+eUteWVhueahOS4ieWNleavlOWvueW5tue7j+WFs+ajgOaUvuihjO+8jOatpOWNleaIkOS4uuacrOW4gui3qOWig+eUteWVhuaAu+e9sueJiOezu+e7n+mmluWNle+8jOS5n+aYr+WFqOWbvei3qOWig+eUteWVhuaOqOW5v+a1t+WFs+aAu+e9sueJiOmmluWNleOAguivpeaooeW8j+WwhuavlOS4gOiIrOi0uOaYk+aooeW8j+S7t+agvOmZjeS9juS4ieaIkOW3puWPs++8jOa2iOi0ueiAheaUtui0p+aXtumXtOWwhui+g+WOn+WFiOS7jua1t+WkluWPkei0p+aPkOWJjeS4ieiHs+S4g+Wkqe+8jOi3qOWig+eUteWVhuaooeW8j+WcqOacrOW4gueahOaIkOWKn+W8gOWxleWwhue7meWkqea0peS5g+iHs+WFqOWbvea2iOi0ueiAheW4puadpeabtOWlveeahOi0reeJqeS9k+mqjOOAgiIpOwogICAgICAgIG5ld3M0LnNldE1hcmsoMCk7CiAgICAgICAgbmV3c0xpc3QuYWRkKG5ld3M0KTsK</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL25ld3MxLnNldENvbW1lbnQoIuivhOiuuumDqOWIhu+8jOivtOeahOmdnuW4uOWlveOAgiIpOwo=</text>
+        <text encoding="base64">PExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KCjwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtSXRlbVdpZHRoID0gbVNjcmVlbldpZHRoIC8gNzsvLyDkuIDkuKpJdGVt5a695bqm5Li65bGP5bmV55qEMS83Cg==</text>
+        <text encoding="base64">CQl3ZWJWaWV3LmdldFNldHRpbmdzKCkuc2V0RG9tU3RvcmFnZUVuYWJsZWQodHJ1ZSk7CiAgICAgICAgd2ViVmlldy5nZXRTZXR0aW5ncygpLnNldEJsb2NrTmV0d29ya0ltYWdlKGZhbHNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zLndpZHRoID0gMzA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL25ld3MxLnNldENvbW1lbnQoIuivhOiuuumDqOWIhu+8jOivtOeahOmdnuW4uOWlveOAgiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29sdW1uVGV4dFZpZXcuc2V0V2lkdGgoMzApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -307,6 +342,7 @@
         <entry>javascript</entry>
         <entry encoding="base64">XDxzdW1tYXJ5XD4=</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
