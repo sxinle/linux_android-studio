@@ -106,8 +106,8 @@
         <mark key="^" line="301" column="16" />
         <mark key="." line="301" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" timestamp="1481188462533">
-        <mark key="'" line="102" column="8" />
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" timestamp="1481250277296">
+        <mark key="'" line="120" column="16" />
         <mark key="[" line="102" column="41" />
         <mark key="]" line="102" column="50" />
         <mark key="^" line="102" column="50" />
@@ -136,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="20" filename="/CityDetailResp.java" />
       <jump line="165" column="0" filename="/CityDetailResp.java" />
       <jump line="31" column="37" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="131" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
@@ -236,6 +235,7 @@
       <jump line="46" column="74" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
       <jump line="86" column="43" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" />
       <jump line="96" column="34" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" />
+      <jump line="120" column="16" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
