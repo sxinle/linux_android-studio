@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" timestamp="1481513720058">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" timestamp="1481526657293">
         <mark key="'" line="17" column="13" />
-        <mark key="[" line="116" column="51" />
-        <mark key="]" line="116" column="52" />
-        <mark key="^" line="116" column="52" />
-        <mark key="." line="116" column="52" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="68" />
+        <mark key="^" line="123" column="52" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
@@ -45,8 +45,8 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
         <mark key="'" line="96" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481525398547">
-        <mark key="'" line="104" column="28" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481526629419">
+        <mark key="'" line="102" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/AppUtil.java" timestamp="1481510220402">
         <mark key="[" line="16" column="0" />
@@ -214,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
-      <jump line="150" column="21" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
       <jump line="17" column="4" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" />
       <jump line="64" column="43" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" />
@@ -314,6 +312,8 @@
       <jump line="80" column="13" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="104" column="28" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="23" column="50" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
+      <jump line="28" column="46" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
+      <jump line="102" column="68" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -323,7 +323,7 @@
         <text>version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob2xkZXIuaWNvbi5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLmFkZChuZXcgQ2hhdCgi6K6i6ZiF5Y+3IiwgIui+veWugeaWsOWqkuS9k++8muadjui/nuadsOeahOe7k+WxgO+8jOaLv+mSseaNouWRvSIsICIxODo1NiIsICIiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhPjwvYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhPgo=</text>
