@@ -105,7 +105,9 @@
       <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
         <mark key="'" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481535199457" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481535290376">
+        <mark key="'" line="99" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" timestamp="1481277694615">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="1" column="69" />
@@ -182,7 +184,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481534387695">
+      <file name="/Dummy.txt" timestamp="1481535201209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -240,10 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
-      <jump line="215" column="23" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
-      <jump line="25" column="39" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
-      <jump line="32" column="4" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="172" column="6" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="243" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
@@ -340,6 +338,10 @@
       <jump line="60" column="29" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="32" column="52" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
+      <jump line="26" column="55" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="30" column="27" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="99" column="19" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
