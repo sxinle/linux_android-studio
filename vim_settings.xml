@@ -108,7 +108,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481511010035">
+      <file name="/Dummy.txt" timestamp="1481511900507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -169,11 +169,11 @@
         <mark key="]" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/list_chat_item.xml" timestamp="1481510908617">
-        <mark key="[" line="8" column="87" />
-        <mark key="]" line="8" column="116" />
-        <mark key="." line="8" column="116" />
-        <mark key="^" line="8" column="116" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/list_chat_item.xml" timestamp="1481512829382">
+        <mark key="[" line="9" column="182" />
+        <mark key="]" line="9" column="193" />
+        <mark key="." line="9" column="193" />
+        <mark key="^" line="9" column="193" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/values/styles.xml" timestamp="1481179632208">
         <mark key="'" line="455" column="17" />
@@ -313,7 +313,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>android:adjustViewBounds=&quot;true&quot;</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -322,31 +322,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcHBVdGlsLnNldEJhZGdlKGdldEFjdGl2aXR5KCksIGhvbGRlci51c2VyLCA0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcHBVdGlsLnNldEJhZGdlKGdldEFjdGl2aXR5KCksIGhvbGRlci51c2VyLCA0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWRnZS5zZXQK</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcgYW5kcm9pZDppZD0iQCtpZC91c2VyIiBhbmRyb2lkOm1heEhlaWdodD0iNTBkcCIgYW5kcm9pZDptYXhXaWR0aD0iNTBkcCIgYW5kcm9pZDphZGp1c3RWaWV3Qm91bmRzPSJ0cnVlIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIiBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2EiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcHBVdGlsLnNldEJhZGdlKGdldEFjdGl2aXR5KCksIGhvbGRlci51c2VyLCA0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWRnZS5zZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk51bWJlci5zZXRUZXh0KCJWZXJzaW9uICIgKyB2ZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldFZlcigpIHsKICAgICAgICBQYWNrYWdlTWFuYWdlciBwbSA9IHRoaXMuZ2V0UGFja2FnZU1hbmFnZXIoKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBQYWNrYWdlSW5mbyBwaSA9IHBtLmdldFBhY2thZ2VJbmZvKCJ3eC5jb20ud3giLCAwKTsKICAgICAgICAgICAgcmV0dXJuIHBpLnZlcnNpb25OYW1lOwogICAgICAgIH0gY2F0Y2ggKFBhY2thZ2VNYW5hZ2VyLk5hbWVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk51bWJlci5zZXRUZXh0KCJWZXJzaW9uICIgKyB2ZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk51bWJlci5zZXRUZXh0KCJWZXJzaW9uICIgKyBwaS52ZXJzaW9uTmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGV4dFZpZXcgdmVyc2lvbk51bWJlciA9IChUZXh0VmlldykgZmluZFZpZXdCeUlkKFIuaWQuYXBwVmVyKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldFZlcigpIHsKICAgICAgICBQYWNrYWdlTWFuYWdlciBwbSA9IHRoaXMuZ2V0UGFja2FnZU1hbmFnZXIoKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBQYWNrYWdlSW5mbyBwaSA9IHBtLmdldFBhY2thZ2VJbmZvKCJ3eC5jb20ud3giLCAwKTsKICAgICAgICAgICAgcmV0dXJuIHBpLnZlcnNpb25OYW1lOwogICAgICAgIH0gY2F0Y2ggKFBhY2thZ2VNYW5hZ2VyLk5hbWVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
