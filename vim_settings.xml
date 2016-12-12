@@ -26,8 +26,8 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
         <mark key="'" line="96" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481534113378">
-        <mark key="'" line="28" column="30" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481534446125">
+        <mark key="'" line="33" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/AppUtil.java" timestamp="1481510220402">
         <mark key="[" line="16" column="0" />
@@ -53,8 +53,20 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/SplashActivity.java" timestamp="1481534637583">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/ViewPagerFragmentAdapter.java" timestamp="1481534493073">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="43" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="23" column="43" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
@@ -93,6 +105,7 @@
       <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
         <mark key="'" line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481535199457" />
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" timestamp="1481277694615">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="1" column="69" />
@@ -169,7 +182,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481532513635">
+      <file name="/Dummy.txt" timestamp="1481534387695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -210,7 +223,7 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1481277460990">
+      <file name="/fragment.java" timestamp="1481534568151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/bean/NewsEntity.java" timestamp="1481185274638">
@@ -227,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="17" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
-      <jump line="24" column="23" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="139" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="215" column="23" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="25" column="39" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
@@ -318,7 +329,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/tab_chat.xml" />
       <jump line="14" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
       <jump line="48" column="38" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="28" column="30" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="44" column="51" filename="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" />
       <jump line="376" column="0" filename="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" />
@@ -327,10 +337,13 @@
       <jump line="5149" column="40" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
       <jump line="15" column="0" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
       <jump line="137" column="1" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
+      <jump line="60" column="29" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
+      <jump line="32" column="52" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#wxTheme</text>
+        <text>new Runnable()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOdWxsYWJsZVw+</text>
