@@ -174,7 +174,8 @@
         <mark key="]" line="16" column="17" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/build.gradle" timestamp="1481506518656">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/build.gradle" timestamp="1481507810985">
+        <mark key="'" line="10" column="26" />
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="24" />
@@ -191,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="31" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
       <jump line="302" column="23" filename="$USER_HOME$/workspace/Android/TopNews/library/library_SlidingMenu/src/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
       <jump line="9" column="23" filename="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" />
       <jump line="20" column="51" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" />
@@ -291,6 +291,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="6" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
       <jump line="14" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/wx/com/wx/AppUtil.java" />
+      <jump line="10" column="26" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
