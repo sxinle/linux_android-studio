@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" timestamp="1481510262168">
-        <mark key="'" line="69" column="4" />
-        <mark key="[" line="118" column="65" />
-        <mark key="]" line="118" column="66" />
-        <mark key="^" line="110" column="65" />
-        <mark key="." line="118" column="66" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" timestamp="1481513720058">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="116" column="51" />
+        <mark key="]" line="116" column="52" />
+        <mark key="^" line="116" column="52" />
+        <mark key="." line="116" column="52" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
@@ -44,6 +44,9 @@
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
         <mark key="'" line="96" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481513672864">
+        <mark key="'" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/AppUtil.java" timestamp="1481510220402">
         <mark key="[" line="16" column="0" />
@@ -108,7 +111,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481511900507">
+      <file name="/Dummy.txt" timestamp="1481513841337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -169,11 +172,12 @@
         <mark key="]" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/list_chat_item.xml" timestamp="1481513109003">
-        <mark key="'" line="35" column="135" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/list_chat_item.xml" timestamp="1481513665340">
+        <mark key="'" line="34" column="135" />
+        <mark key="[" line="34" column="71" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/values/styles.xml" timestamp="1481179632208">
         <mark key="'" line="455" column="17" />
@@ -210,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="51" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" />
-      <jump line="97" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" />
       <jump line="83" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" />
       <jump line="47" column="35" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/MainActivity.java" />
@@ -310,16 +312,18 @@
       <jump line="10" column="26" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
       <jump line="68" column="4" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
       <jump line="35" column="135" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/list_chat_item.xml" />
+      <jump line="15" column="13" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>aa</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcHBVdGlsLnNldEJhZGdlKGdldEFjdGl2aXR5KCksIGhvbGRlci51c2VyLCA0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob2xkZXIuaWNvbi5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhPjwvYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhPgo=</text>
