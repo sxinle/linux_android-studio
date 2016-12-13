@@ -13,6 +13,12 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" timestamp="1481592611897">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="40" />
+      </file>
       <file name="/a.dummy" timestamp="1481187969607">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,12 +134,14 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/bottom.xml" timestamp="1481591509820">
+        <mark key="'" line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_splash.xml" timestamp="1481276213033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="17" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/opt/android/Sdk/platforms/android-25/android.jar!/android/widget/AdapterView.class" timestamp="1481532026672" />
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" timestamp="1481179437336">
         <mark key="'" line="29" column="39" />
       </file>
@@ -165,6 +173,11 @@
       </file>
       <file name="$USER_HOME$/workspace/Android/RecordEat/build.gradle" timestamp="1481274773270">
         <mark key="'" line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top.xml" timestamp="1481592741397">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
@@ -242,9 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="6" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
-      <jump line="243" column="0" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="177" column="23" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="206" column="23" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/tool/Constants.java" />
       <jump line="190" column="13" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
@@ -342,40 +352,43 @@
       <jump line="128" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="30" column="27" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="99" column="19" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="6" column="48" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/bottom.xml" />
+      <jump line="10" column="68" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/bottom.xml" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/bottom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>new Runnable()</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOdWxsYWJsZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>android.annotation.Nullable</text>
+        <text>drawableLeft</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhPjwvYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhPgo=</text>
+        <text encoding="base64">ICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6cGFkZGluZ1RvcD0iNWRwIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjVkcCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iNWRwIiBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iNWRwIj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcgYW5kcm9pZDppZD0iQCtpZC91c2VyIiBhbmRyb2lkOm1heEhlaWdodD0iNTBkcCIgYW5kcm9pZDptYXhXaWR0aD0iNTBkcCIgYW5kcm9pZDphZGp1c3RWaWV3Qm91bmRzPSJ0cnVlIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIiBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2EiLz4K</text>
+        <text encoding="base64">ICAgICAgICA8YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhPjwvYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcHBVdGlsLnNldEJhZGdlKGdldEFjdGl2aXR5KCksIGhvbGRlci51c2VyLCA0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWRnZS5zZXQK</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcgYW5kcm9pZDppZD0iQCtpZC91c2VyIiBhbmRyb2lkOm1heEhlaWdodD0iNTBkcCIgYW5kcm9pZDptYXhXaWR0aD0iNTBkcCIgYW5kcm9pZDphZGp1c3RWaWV3Qm91bmRzPSJ0cnVlIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIiBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2EiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcHBVdGlsLnNldEJhZGdlKGdldEFjdGl2aXR5KCksIGhvbGRlci51c2VyLCA0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWRnZS5zZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk51bWJlci5zZXRUZXh0KCJWZXJzaW9uICIgKyB2ZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -389,7 +402,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxOdWxsYWJsZVw+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
