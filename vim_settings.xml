@@ -20,13 +20,13 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" timestamp="1481614096415">
-        <mark key="[" line="13" column="107" />
-        <mark key="]" line="13" column="107" />
-        <mark key="." line="13" column="107" />
-        <mark key="^" line="13" column="107" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" timestamp="1481616792474">
+        <mark key="'" line="26" column="82" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1481187969607">
+      <file name="/a.dummy" timestamp="1481616426684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" timestamp="1481276209447">
@@ -157,6 +157,19 @@
       <file name="/opt/android/Sdk/sources/android-23/android/view/inputmethod/EditorInfo.java" timestamp="1481609184994">
         <mark key="'" line="67" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/edittext_shape.xml" timestamp="1481615653253">
+        <mark key="'" line="3" column="51" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/line.xml" timestamp="1481616284426">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" timestamp="1481179437336">
         <mark key="'" line="29" column="39" />
       </file>
@@ -218,7 +231,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481610729262">
+      <file name="/Dummy.txt" timestamp="1481616253271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -268,20 +281,14 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" timestamp="1481177508911">
         <mark key="'" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/styles.xml" timestamp="1481608799927">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/styles.xml" timestamp="1481616225741">
+        <mark key="'" line="7" column="39" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="26" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
-      <jump line="63" column="34" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
-      <jump line="102" column="8" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" />
-      <jump line="48" column="64" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
-      <jump line="50" column="24" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
-      <jump line="210" column="51" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
       <jump line="314" column="45" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
       <jump line="315" column="24" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
       <jump line="324" column="38" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
@@ -376,52 +383,60 @@
       <jump line="67" column="28" filename="/opt/android/Sdk/sources/android-23/android/view/inputmethod/EditorInfo.java" />
       <jump line="27" column="50" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
       <jump line="24" column="18" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/edittext_shape.xml" />
+      <jump line="5" column="51" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/edittext_shape.xml" />
+      <jump line="7" column="39" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/styles.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/line.xml" />
+      <jump line="17" column="42" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" />
+      <jump line="16" column="82" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2</text>
+        <text>android:textColor=&quot;#707070&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hUZXh0XD4=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>android.annotation.Nullable</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmxheW91dF9oZWlnaHQiPjQwZHA8L2l0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhY3Rpb25JZCA9PSBFZGl0b3JJbmZvLklNRV9BQ1RJT05fR08gfHwgYWN0aW9uSWQpCiAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUmlnaHQ9IkBkcmF3YWJsZS9taWNyb3Bob25lIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlTGVmdD0iQGRyYXdhYmxlL3RvcF9zZWFyY2hfc21hbGwiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgdi5nZXRUZXh0KCksIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlTGVmdD0iQGRyYXdhYmxlL3RvcF9zZWFyY2hfc21hbGwiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmhpbnQ9IuaQnOe0oiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBudWxsIgogICAgICAgICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVCb3R0b209IkBkcmF3YWJsZS9saW5lIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Gb2N1c0NoYW5nZShWaWV3IHYsIGJvb2xlYW4gaGFzRm9jdXMpIHsKICAgICAgICBpZiAoIWhhc0ZvY3VzICYmIHYuZ2V0SWQoKSA9PSBSLmlkLnNlYXJjaF90ZXh0KSB7CiAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsICgoRWRpdFRleHQpIHYpLmdldFRleHQoKSwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjQwZHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlQm90dG9tPSJAY29sb3IvY29sb3JQcmltYXJ5Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDppZD0iQCtpZC9iYWNrIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIiBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIzZHAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hUZXh0XD4=</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hUZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -441,8 +456,11 @@
         <entry>version</entry>
         <entry encoding="base64">XDxOdWxsYWJsZVw+</entry>
         <entry encoding="base64">XDxzZWFyY2hUZXh0XD4=</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zLyAv</entry>
+        <entry>nohl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
