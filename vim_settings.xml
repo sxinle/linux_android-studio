@@ -20,11 +20,11 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" timestamp="1481610725659">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="62" />
-        <mark key="^" line="13" column="56" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" timestamp="1481614096415">
+        <mark key="[" line="13" column="107" />
+        <mark key="]" line="13" column="107" />
+        <mark key="." line="13" column="107" />
+        <mark key="^" line="13" column="107" />
       </file>
       <file name="/a.dummy" timestamp="1481187969607">
         <mark key="[" line="0" column="0" />
@@ -379,7 +379,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hUZXh0XD4=</text>
@@ -423,7 +423,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxzZWFyY2hUZXh0XD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
