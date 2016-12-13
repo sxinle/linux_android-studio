@@ -19,11 +19,11 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" timestamp="1481599061904">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" timestamp="1481600316842">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
       </file>
       <file name="/a.dummy" timestamp="1481187969607">
         <mark key="[" line="0" column="0" />
@@ -203,7 +203,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481599596093">
+      <file name="/Dummy.txt" timestamp="1481599706896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -364,7 +364,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOdWxsYWJsZVw+</text>
