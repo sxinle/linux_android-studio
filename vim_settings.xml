@@ -115,8 +115,8 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" timestamp="1481179009587">
         <mark key="'" line="64" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" timestamp="1481700362146">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" timestamp="1481700443569">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="40" />
         <mark key="^" line="12" column="40" />
@@ -245,7 +245,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481700405938">
+      <file name="/Dummy.txt" timestamp="1481700423704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -321,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="20" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
-      <jump line="159" column="60" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
       <jump line="225" column="22" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
       <jump line="108" column="73" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
       <jump line="135" column="44" filename="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" />
@@ -421,6 +419,8 @@
       <jump line="37" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/btn_style.xml" />
       <jump line="38" column="8" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
