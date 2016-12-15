@@ -58,8 +58,8 @@
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481534446125">
         <mark key="'" line="33" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1481795110510">
-        <mark key="'" line="99" column="8" />
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1481795526183">
+        <mark key="'" line="46" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="72" column="4" />
       </file>
@@ -70,7 +70,6 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="/opt/android/Sdk/sources/android-23/android/content/res/TypedArray.java" timestamp="1481790748579" />
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/adapter/CompanyAdapter.java" timestamp="1481794984803">
         <mark key="'" line="32" column="37" />
       </file>
@@ -122,12 +121,12 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1481795265992">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="118" column="5" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="119" column="0" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1481795441189">
+        <mark key="'" line="60" column="16" />
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" timestamp="1481250277296">
         <mark key="'" line="120" column="16" />
@@ -206,8 +205,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" timestamp="1481789038215">
-        <mark key="'" line="119" column="0" />
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" timestamp="1481795478207">
+        <mark key="'" line="80" column="44" />
       </file>
       <file name="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" timestamp="1481534119778">
         <mark key="'" line="376" column="0" />
@@ -351,12 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="28" filename="/opt/android/Sdk/sources/android-23/android/view/inputmethod/EditorInfo.java" />
-      <jump line="27" column="50" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
-      <jump line="24" column="18" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/edittext_shape.xml" />
-      <jump line="5" column="51" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/edittext_shape.xml" />
-      <jump line="7" column="39" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/styles.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/line.xml" />
       <jump line="17" column="42" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" />
       <jump line="16" column="82" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/top_search.xml" />
@@ -411,7 +404,6 @@
       <jump line="16" column="34" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
       <jump line="104" column="30" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
       <jump line="17" column="27" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
-      <jump line="119" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
       <jump line="26" column="13" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" />
       <jump line="177" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" />
       <jump line="25" column="35" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
@@ -451,6 +443,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
       <jump line="8" column="23" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/model/CompanyEntity.java" />
       <jump line="30" column="29" filename="$USER_HOME$/Downloads/PonyExpress/app/build.gradle" />
+      <jump line="68" column="37" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
+      <jump line="60" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
+      <jump line="80" column="44" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
+      <jump line="46" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
