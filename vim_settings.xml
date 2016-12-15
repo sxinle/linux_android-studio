@@ -162,7 +162,7 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/anim/popwindow_in.xml" timestamp="1481782355551">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/anim/popwindow_in.xml" timestamp="1481785440898">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -262,7 +262,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" timestamp="1481619957653">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" timestamp="1481785462933">
+        <mark key="'" line="37" column="37" />
         <mark key="[" line="54" column="36" />
         <mark key="]" line="54" column="38" />
         <mark key="." line="54" column="38" />
@@ -375,10 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_splash.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_splash.xml" />
       <jump line="7" column="39" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="6" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
@@ -475,6 +472,10 @@
       <jump line="0" column="9" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/test.xml" />
       <jump line="1" column="39" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/test.xml" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="15" column="50" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" />
+      <jump line="17" column="42" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" />
+      <jump line="37" column="37" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
