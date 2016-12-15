@@ -23,11 +23,13 @@
       <file name="/a.dummy" timestamp="1481616426684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1481790816128">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1481791453112">
+        <mark key="'" line="86" column="40" />
+        <mark key="[" line="24" column="49" />
+        <mark key="k" line="88" column="18" />
+        <mark key="]" line="27" column="51" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="27" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" timestamp="1481708028955">
         <mark key="'" line="190" column="15" />
@@ -339,9 +341,10 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" timestamp="1481789824465">
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="29" column="34" />
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" timestamp="1481791524713">
+        <mark key="'" line="30" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="13" />
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="34" />
       </file>
@@ -351,10 +354,10 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" timestamp="1481790851698">
-        <mark key="'" line="95" column="12" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="48" column="20" />
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" timestamp="1481791458888">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="97" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/values/styles.xml" timestamp="1481179632208">
         <mark key="'" line="455" column="17" />
@@ -398,12 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
-      <jump line="48" column="38" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
-      <jump line="28" column="30" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
-      <jump line="44" column="51" filename="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" />
-      <jump line="376" column="0" filename="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" />
-      <jump line="107" column="18" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
       <jump line="5125" column="36" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
       <jump line="5149" column="40" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
       <jump line="15" column="0" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
@@ -498,43 +495,49 @@
       <jump line="99" column="8" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" />
       <jump line="1" column="10" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/values/attrs.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/attrs.xml" />
+      <jump line="82" column="40" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
+      <jump line="24" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
+      <jump line="86" column="40" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
+      <jump line="36" column="31" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>IndexBar_indexTextColor</text>
+        <text>showIn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0dkluZGljYXRvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBlZEFycmF5IHRhID0gZ2V0Q29udGV4dCgpLm9idGFpblN0eWxlZEF0dHJpYnV0ZXMoYXR0cnMsIFIuc3R5bGVhYmxlLkluZGV4QmFyKTsKICAgICAgICBmbG9hdCBpbmRleFRleHRTaXplID0gdGEuZ2V0RGltZW5zaW9uKFIuc3R5bGVhYmxlLkluZGV4QmFyX2luZGV4VGV4dFNpemUsIFV0aWxzLnNwMnB4KGdldENvbnRleHQoKSwgMTIpKTsKICAgICAgICBpbnQgaW5kZXhUZXh0Q29sb3IgPSB0YS5nZXRDb2xvcihSLnN0eWxlYWJsZS5JbmRleEJhcl9pbmRleFRleHRDb2xvciwgMHhGRjYxNjE2MSk7CiAgICAgICAgdGEucmVjeWNsZSgpOwo=</text>
+        <text encoding="base64">PEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmluZGV4QmFyPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmZpdHNTeXN0ZW1XaW5kb3dzPSJ0cnVlIj4KCiAgICA8TGlzdFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2x2X2NvbXBhbnkiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmRpdmlkZXJIZWlnaHQ9IkBkaW1lbi9kaXZpZGVyX2hlaWdodCIgLz4KCiAgICA8bWUud2N5LmV4cHJlc3Mud2lkZ2V0LkluZGV4QmFyCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pYl9pbmRpY2F0b3IiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjI1ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0icmlnaHQiCiAgICAgICAgaW5kZXhCYXI6aW5kZXhUZXh0Q29sb3I9IkBjb2xvci9ncmV5XzcwMCIKICAgICAgICBpbmRleEJhcjppbmRleFRleHRTaXplPSIxMnNwIiAvPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdHZfaW5kaWNhdG9yIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2luZGV4X2Jhcl9pbmRpY2F0b3JfYmciCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIzNnNwIgogICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIgLz4KPC9GcmFtZUxheW91dD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkZWNsYXJlLXN0eWxlYWJsZSBuYW1lPSJSb3VuZEltYWdlVmlldyI+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXMiIGZvcm1hdD0iZGltZW5zaW9uIi8+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXNfdG9wX2xlZnQiIGZvcm1hdD0iZGltZW5zaW9uIi8+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXNfdG9wX3JpZ2h0IiBmb3JtYXQ9ImRpbWVuc2lvbiIvPgogICAgICAgIDxhdHRyIG5hbWU9InJpdl9jb3JuZXJfcmFkaXVzX2JvdHRvbV9yaWdodCIgZm9ybWF0PSJkaW1lbnNpb24iLz4KICAgICAgICA8YXR0ciBuYW1lPSJyaXZfY29ybmVyX3JhZGl1c19ib3R0b21fbGVmdCIgZm9ybWF0PSJkaW1lbnNpb24iLz4KICAgICAgICA8YXR0ciBuYW1lPSJyaXZfYm9yZGVyX3dpZHRoIiBmb3JtYXQ9ImRpbWVuc2lvbiIvPgogICAgICAgIDxhdHRyIG5hbWU9InJpdl9ib3JkZXJfY29sb3IiIGZvcm1hdD0iY29sb3IiLz4KICAgIDwvZGVjbGFyZS1zdHlsZWFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgYm9vbGVhbiBvblRvdWNoKFZpZXcgdiwgTW90aW9uRXZlbnQgZXZlbnQpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9yZXNvdXJjZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHJlc291cmNlcz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm8K</text>
+        <text encoding="base64">ICAgIDxkZWNsYXJlLXN0eWxlYWJsZSBuYW1lPSJSb3VuZEltYWdlVmlldyI+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXMiIGZvcm1hdD0iZGltZW5zaW9uIi8+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXNfdG9wX2xlZnQiIGZvcm1hdD0iZGltZW5zaW9uIi8+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXNfdG9wX3JpZ2h0IiBmb3JtYXQ9ImRpbWVuc2lvbiIvPgogICAgICAgIDxhdHRyIG5hbWU9InJpdl9jb3JuZXJfcmFkaXVzX2JvdHRvbV9yaWdodCIgZm9ybWF0PSJkaW1lbnNpb24iLz4KICAgICAgICA8YXR0ciBuYW1lPSJyaXZfY29ybmVyX3JhZGl1c19ib3R0b21fbGVmdCIgZm9ybWF0PSJkaW1lbnNpb24iLz4KICAgICAgICA8YXR0ciBuYW1lPSJyaXZfYm9yZGVyX3dpZHRoIiBmb3JtYXQ9ImRpbWVuc2lvbiIvPgogICAgICAgIDxhdHRyIG5hbWU9InJpdl9ib3JkZXJfY29sb3IiIGZvcm1hdD0iY29sb3IiLz4KICAgIDwvZGVjbGFyZS1zdHlsZWFibGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIHB1YmxpYyB2b2lkICAK</text>
+        <text encoding="base64">PC9yZXNvdXJjZXM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHJlc291cmNlcz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgICDml7bpl7QgMC4y56eSCiAgICAgICAg5byA5aeL55qE5pe25YCZIHggeSDlhajmmK8wIOayoeacieWkp+WwjwogICAgICAgIOe7k+adn+eahOaXtuWAmSB4IHkg5YWo5pivMSDlrp7pmYXlpKflsI8KICAgICAgICBwaXZvdFggMTAwJSDooajnpLrmnIDlj7PovrkKICAgICAgICBwaXZvdFkgMCUg6KGo56S65pyA6aG26L65CiAgICAgICAg5Lul5LiK5a6a5L2N5Y+z5LiK6KeSIOe8qeaUvuaXtuS4jeWPmOS9jee9rgogICAgLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
