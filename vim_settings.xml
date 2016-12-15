@@ -20,7 +20,7 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1481616426684">
+      <file name="/a.dummy" timestamp="1481792783306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1481791453112">
@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481782385927">
         <mark key="'" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/attrs.xml" timestamp="1481790555081">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/attrs.xml" timestamp="1481792950024">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" timestamp="1481703953013">
         <mark key="'" line="0" column="6" />
@@ -286,7 +286,7 @@
         <mark key="^" line="297" column="3" />
         <mark key="." line="301" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481781155025">
+      <file name="/Dummy.txt" timestamp="1481792339820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/main.xml" timestamp="1481183958058">
@@ -329,6 +329,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/tab_frd.xml" timestamp="1481792981761">
+        <mark key="'" line="13" column="38" />
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="61" />
+      </file>
       <file name="/opt/android/Sdk/platforms/android-25/android.jar!/android/widget/ListView.class" timestamp="1481532016484">
         <mark key="'" line="33" column="38" />
       </file>
@@ -341,10 +348,10 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" timestamp="1481791524713">
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" timestamp="1481792634918">
         <mark key="'" line="30" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="13" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="59" />
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="34" />
       </file>
@@ -401,7 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5125" column="36" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
       <jump line="5149" column="40" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
       <jump line="15" column="0" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
       <jump line="137" column="1" filename="/opt/android/Sdk/sources/android-23/android/view/View.java" />
@@ -501,52 +507,53 @@
       <jump line="36" column="31" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
       <jump line="102" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
       <jump line="30" column="13" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" />
+      <jump line="12" column="38" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/tab_frd.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>showIn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0dkluZGljYXRvclw+</text>
+        <text>indexBar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PEZyYW1lTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmluZGV4QmFyPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmZpdHNTeXN0ZW1XaW5kb3dzPSJ0cnVlIj4KCiAgICA8TGlzdFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2x2X2NvbXBhbnkiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmRpdmlkZXJIZWlnaHQ9IkBkaW1lbi9kaXZpZGVyX2hlaWdodCIgLz4KCiAgICA8bWUud2N5LmV4cHJlc3Mud2lkZ2V0LkluZGV4QmFyCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pYl9pbmRpY2F0b3IiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjI1ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0icmlnaHQiCiAgICAgICAgaW5kZXhCYXI6aW5kZXhUZXh0Q29sb3I9IkBjb2xvci9ncmV5XzcwMCIKICAgICAgICBpbmRleEJhcjppbmRleFRleHRTaXplPSIxMnNwIiAvPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdHZfaW5kaWNhdG9yIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2luZGV4X2Jhcl9pbmRpY2F0b3JfYmciCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIzNnNwIgogICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIgLz4KPC9GcmFtZUxheW91dD4K</text>
+        <text encoding="base64">ICAgIHhtbG5zOmluZGV4QmFyPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0dGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgYm9vbGVhbiBvblRvdWNoKFZpZXcgdiwgTW90aW9uRXZlbnQgZXZlbnQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0dGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhCYXI6cGFkZGluZ0VuZD0iIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9jb20ud3gudmlldy5jdXN0b20uTGV0dGVySW5kZXhCYXI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZWNsYXJlLXN0eWxlYWJsZSBuYW1lPSJSb3VuZEltYWdlVmlldyI+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXMiIGZvcm1hdD0iZGltZW5zaW9uIi8+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXNfdG9wX2xlZnQiIGZvcm1hdD0iZGltZW5zaW9uIi8+CiAgICAgICAgPGF0dHIgbmFtZT0icml2X2Nvcm5lcl9yYWRpdXNfdG9wX3JpZ2h0IiBmb3JtYXQ9ImRpbWVuc2lvbiIvPgogICAgICAgIDxhdHRyIG5hbWU9InJpdl9jb3JuZXJfcmFkaXVzX2JvdHRvbV9yaWdodCIgZm9ybWF0PSJkaW1lbnNpb24iLz4KICAgICAgICA8YXR0ciBuYW1lPSJyaXZfY29ybmVyX3JhZGl1c19ib3R0b21fbGVmdCIgZm9ybWF0PSJkaW1lbnNpb24iLz4KICAgICAgICA8YXR0ciBuYW1lPSJyaXZfYm9yZGVyX3dpZHRoIiBmb3JtYXQ9ImRpbWVuc2lvbiIvPgogICAgICAgIDxhdHRyIG5hbWU9InJpdl9ib3JkZXJfY29sb3IiIGZvcm1hdD0iY29sb3IiLz4KICAgIDwvZGVjbGFyZS1zdHlsZWFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9yZXNvdXJjZXM+Cg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IumAmuiur+W9lSIKICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIzMHNwIj4KICAgIDwvVGV4dFZpZXc+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHJlc291cmNlcz4K</text>
+        <text encoding="base64">ICAgIDwvTGlzdFZpZXc+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0dkluZGljYXRvclw+</last-search>
+      <last-search>indexBar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0dkluZGljYXRvclw+</last-pattern>
+      <last-pattern>indexBar</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -572,6 +579,7 @@
         <entry encoding="base64">XDxiYWNrQnRuXD4=</entry>
         <entry encoding="base64">XDxtTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDx0dkluZGljYXRvclw+</entry>
+        <entry>indexBar</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAv</entry>
