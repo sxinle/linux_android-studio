@@ -152,8 +152,8 @@
       <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
         <mark key="'" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481772928146">
-        <mark key="'" line="193" column="8" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481782385927">
+        <mark key="'" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" timestamp="1481703953013">
         <mark key="'" line="0" column="6" />
@@ -162,7 +162,7 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/anim/popwindow_in.xml" timestamp="1481707156859">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/anim/popwindow_in.xml" timestamp="1481782355551">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -375,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
       <jump line="16" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/splash.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_splash.xml" />
@@ -475,6 +474,7 @@
       <jump line="4" column="56" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/test.xml" />
       <jump line="0" column="9" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/test.xml" />
       <jump line="1" column="39" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/drawable/test.xml" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -487,31 +487,31 @@
         <text>RelativeLayout</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwhLS0KICAgICAgICDml7bpl7QgMC4y56eSCiAgICAgICAg5byA5aeL55qE5pe25YCZIHggeSDlhajmmK8wIOayoeacieWkp+WwjwogICAgICAgIOe7k+adn+eahOaXtuWAmSB4IHkg5YWo5pivMSDlrp7pmYXlpKflsI8KICAgICAgICBwaXZvdFggMTAwJSDooajnpLrmnIDlj7PovrkKICAgICAgICBwaXZvdFkgMCUg6KGo56S65pyA6aG26L65CiAgICAgICAg5Lul5LiK5a6a5L2N5Y+z5LiK6KeSIOe8qeaUvuaXtuS4jeWPmOS9jee9rgogICAgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkcmEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIDwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSIiCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBkcmEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSIiCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIgPgogICAgPGl0ZW0gYW5kcm9pZDpzdGF0ZV9wcmVzc2VkPSJ0cnVlIi8+Cjwvc2VsZWN0b3I+Cgo=</text>
+        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
