@@ -185,6 +185,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" timestamp="1481789131594">
+        <mark key="'" line="177" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/wx/com/wx/SplashActivity.java" timestamp="1481277470509">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="17" />
@@ -225,6 +228,9 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" timestamp="1481789038215">
+        <mark key="'" line="119" column="0" />
       </file>
       <file name="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" timestamp="1481534119778">
         <mark key="'" line="376" column="0" />
@@ -376,12 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="39" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
-      <jump line="0" column="6" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
-      <jump line="14" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/wx/com/wx/AppUtil.java" />
-      <jump line="10" column="26" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
-      <jump line="68" column="4" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
       <jump line="35" column="135" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/list_chat_item.xml" />
       <jump line="15" column="13" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="17" column="13" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
@@ -476,6 +476,12 @@
       <jump line="64" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" />
       <jump line="17" column="42" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" />
       <jump line="37" column="37" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_search.xml" />
+      <jump line="16" column="34" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
+      <jump line="104" column="30" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
+      <jump line="17" column="27" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
+      <jump line="119" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
+      <jump line="26" column="13" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" />
+      <jump line="177" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
