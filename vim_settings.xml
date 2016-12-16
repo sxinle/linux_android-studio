@@ -35,13 +35,13 @@
       <file name="/a.dummy" timestamp="1481792783306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1481855679419">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1481865841457">
         <mark key="'" line="61" column="0" />
         <mark key="k" line="96" column="18" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="101" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" timestamp="1481857248771">
         <mark key="'" line="190" column="15" />
@@ -73,8 +73,8 @@
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481534446125">
         <mark key="'" line="33" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1481855914783">
-        <mark key="'" line="37" column="0" />
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1481865624994">
+        <mark key="'" line="76" column="0" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="99" column="75" />
       </file>
@@ -143,8 +143,8 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1481857210689">
-        <mark key="'" line="63" column="12" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1481865768521">
+        <mark key="'" line="68" column="16" />
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
@@ -384,7 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="104" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="146" column="49" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="3" column="25" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
@@ -465,7 +464,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
       <jump line="8" column="23" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/model/CompanyEntity.java" />
       <jump line="30" column="29" filename="$USER_HOME$/Downloads/PonyExpress/app/build.gradle" />
-      <jump line="68" column="37" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="119" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="60" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="80" column="44" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
@@ -484,6 +482,8 @@
       <jump line="58" column="27" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="67" column="12" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="460" column="26" filename="/opt/android/Sdk/sources/android-23/android/text/TextUtils.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" />
+      <jump line="68" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
