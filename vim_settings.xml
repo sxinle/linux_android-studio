@@ -35,15 +35,15 @@
       <file name="/a.dummy" timestamp="1481792783306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1481793767868">
-        <mark key="'" line="52" column="0" />
-        <mark key="k" line="87" column="18" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="39" column="92" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1481855679419">
+        <mark key="'" line="61" column="0" />
+        <mark key="k" line="96" column="18" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="35" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" timestamp="1481708028955">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" timestamp="1481854394694">
         <mark key="'" line="190" column="15" />
         <mark key="[" line="174" column="26" />
         <mark key="]" line="175" column="7" />
@@ -70,10 +70,10 @@
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481534446125">
         <mark key="'" line="33" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1481851119373">
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1481855914783">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="72" column="4" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="99" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/tab_chat.xml" timestamp="1481532447512">
         <mark key="'" line="7" column="0" />
@@ -137,11 +137,12 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1481853740742">
-        <mark key="[" line="92" column="74" />
-        <mark key="]" line="92" column="84" />
-        <mark key="." line="92" column="84" />
-        <mark key="^" line="92" column="84" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1481856317270">
+        <mark key="'" line="63" column="12" />
+        <mark key="[" line="89" column="32" />
+        <mark key="]" line="89" column="46" />
+        <mark key="." line="89" column="46" />
+        <mark key="^" line="89" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/fragment/NewsFragment.java" timestamp="1481250277296">
         <mark key="'" line="120" column="16" />
@@ -170,11 +171,11 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/fragement_frd.xml" timestamp="1481793752636">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="37" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="11" column="37" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/fragement_frd.xml" timestamp="1481856129573">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/list_chat_item.xml" timestamp="1481513665340">
         <mark key="'" line="34" column="135" />
@@ -314,16 +315,21 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" timestamp="1481851568441">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="31" column="4" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" timestamp="1481855448817">
+        <mark key="'" line="77" column="10" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="0" />
       </file>
       <file name="/opt/android/Sdk/platforms/android-25/android.jar!/android/widget/ListView.class" timestamp="1481532016484">
         <mark key="'" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
         <mark key="'" line="461" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/BaseActivity.java" timestamp="1481855769559">
+        <mark key="'" line="47" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" timestamp="1481793093667">
         <mark key="'" line="30" column="13" />
@@ -373,12 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="8" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_more.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_item.xml" />
-      <jump line="104" column="10" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="29" column="36" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="144" column="12" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="148" column="104" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="146" column="49" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
@@ -473,52 +473,58 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
       <jump line="119" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_devider_item.xml" />
+      <jump line="66" column="45" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
+      <jump line="77" column="10" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" />
+      <jump line="46" column="19" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/BaseActivity.java" />
+      <jump line="47" column="14" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/BaseActivity.java" />
+      <jump line="58" column="27" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
+      <jump line="67" column="12" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>c.code.isEmpty();</text>
       </register>
       <register name="/" type="4">
-        <text>.gif</text>
+        <text encoding="base64">XDxvblN0YXJ0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>isDevider</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgcG9zaXRpb24gPSAtMTsKICAgICAgICBmb3IgKENvbXBhbnlFbnRpdHkgY29tcGFueSA6IG1Db21wYW55TGlzdCkgewogICAgICAgICAgICBpZiAoVGV4dFV0aWxzLmVxdWFscyhjb21wYW55LmdldE5hbWUoKSwgaW5kZXgpKSB7CiAgICAgICAgICAgICAgICBwb3NpdGlvbiA9IG1Db21wYW55TGlzdC5pbmRleE9mKGNvbXBhbnkpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaWYgKHBvc2l0aW9uICE9IC0xKSB7CiAgICAgICAgICAgIGx2Q29tcGFueS5zZXRTZWxlY3Rpb24ocG9zaXRpb24pOwogICAgICAgIH0KICAgICAgICB0dkluZGljYXRvci5zZXRUZXh0KGluZGV4KTsKICAgICAgICB0dkluZGljYXRvci5zZXRWaXNpYmlsaXR5KHNob3dJbmRpY2F0b3IgPyBWaWV3LlZJU0lCTEUgOiBWaWV3LkdPTkUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdFZpZXcgICAgICAgY29udGFjdExpc3RWaWV3Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpZGVIb2xkZXIuZGl2aWRlci5zZXRUZXh0KGMuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGFjdExpc3RWaWV3LnNldFNlbGVjdGlvbihwb3NpdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoY29kZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb250YWN0TGlzdFZpZXcgPSAoTGlzdFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL1IiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2kK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.gif</last-search>
+      <last-search encoding="base64">XDxvblN0YXJ0XD4=</last-search>
       <last-offset />
-      <last-pattern>.gif</last-pattern>
+      <last-pattern encoding="base64">XDxvblN0YXJ0XD4=</last-pattern>
       <last-replace />
       <last-substitute>.gif</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdzTGlzdFw+</entry>
         <entry>onclick</entry>
         <entry>source</entry>
         <entry>sourceUrl</entry>
@@ -546,6 +551,7 @@
         <entry>56\/</entry>
         <entry>.png</entry>
         <entry>.gif</entry>
+        <entry encoding="base64">XDxvblN0YXJ0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAv</entry>
