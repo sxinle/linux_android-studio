@@ -152,6 +152,11 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add_item.xml" timestamp="1482132032211">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_normal_item.xml" timestamp="1482129934124">
         <mark key="'" line="5" column="49" />
         <mark key="[" line="3" column="49" />
@@ -340,31 +345,31 @@
         <text>devideHolder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXZpZGVWaWV3SG9sZGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIuaW1nID0gKEltYWdlVmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9sb2dvKTsKICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIubmFtZSA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXZpZGVWaWV3SG9sZGVyLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGV2aWRlSG9sZGVyLmRpdmlkZXIgPSAoVGV4dFZpZXcpIGNvbnZlcnRWaWV3LmZpbmRWaWV3QnlJZChSLmlkLmNvbnRhY3RfZGl2aWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIuaW1nID0gKEltYWdlVmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9sb2dvKTsKICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIubmFtZSA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9uYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpZGVIb2xkZXIuZGl2aWRlciA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9kaXZpZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGV2aWRlSG9sZGVyLmRpdmlkZXIgPSAoVGV4dFZpZXcpIGNvbnZlcnRWaWV3LmZpbmRWaWV3QnlJZChSLmlkLmNvbnRhY3RfZGl2aWRlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpZGVIb2xkZXIuZGl2aWRlciA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpZGVIb2xkZXIuZGl2aWRlciA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9kaXZpZGVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEcml2ZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpZGVIb2xkZXIuZGl2aWRlciA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBESVZJREVSLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEcml2ZXIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBESVZJREVSLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -377,7 +382,7 @@
       <last-replace />
       <last-substitute>56\/</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
