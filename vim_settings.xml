@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" timestamp="1481179009587">
         <mark key="'" line="64" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1481880568521">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1482117626300">
         <mark key="'" line="193" column="0" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="126" column="65" />
-        <mark key="." line="123" column="0" />
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="56" column="15" />
+        <mark key="." line="56" column="15" />
       </file>
       <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
         <mark key="'" line="9" column="23" />
@@ -108,7 +108,6 @@
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/bottom.xml" timestamp="1481591509820">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="/opt/android/Sdk/sources/android-23/android/widget/AbsListView.java" timestamp="1481880404857" />
       <file name="/opt/android/Sdk/sources/android-23/android/view/inputmethod/EditorInfo.java" timestamp="1481609184994">
         <mark key="'" line="67" column="28" />
       </file>
@@ -319,7 +318,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>convertView</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>anxl</text>
@@ -368,7 +367,7 @@
       <last-replace />
       <last-substitute>56\/</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
