@@ -225,12 +225,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/build.gradle" timestamp="1482137034402">
+      <file name="$USER_HOME$/workspace/Android/Wx/app/build.gradle" timestamp="1482139287729">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="30" column="40" />
-        <mark key="." line="30" column="40" />
-        <mark key="^" line="30" column="40" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1482128942790">
         <mark key="i" line="0" column="66" />
@@ -350,13 +350,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2500</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>listview</text>
       </register>
       <register name="0" type="4">
-        <text>devideHolder</text>
+        <text>compile</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbS5nb29nbGUuenhpbmc6Y29yZTozLjIuMQo=</text>
@@ -396,7 +396,7 @@
       <last-replace />
       <last-substitute>56\/</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
