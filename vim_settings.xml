@@ -189,6 +189,9 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" timestamp="1482134764452">
+        <mark key="'" line="357" column="0" />
+      </file>
       <file name="/opt/android/Sdk/platforms/android-25/android.jar!/android/widget/ListView.class" timestamp="1481532016484">
         <mark key="'" line="33" column="38" />
       </file>
@@ -233,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="27" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
-      <jump line="26" column="13" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" />
       <jump line="177" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" />
       <jump line="25" column="35" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
       <jump line="28" column="8" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
@@ -333,6 +334,8 @@
       <jump line="89" column="11" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="194" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="145" column="20" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="71" column="48" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" />
+      <jump line="357" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
