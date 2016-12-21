@@ -6,6 +6,9 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" timestamp="1481868078150">
+        <mark key="'" line="116" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_devider_item.xml" timestamp="1482129712129">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="10" column="0" />
@@ -34,17 +37,27 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="29" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/QRCodeScanActivity.java" timestamp="1482287636290">
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
+        <mark key="'" line="96" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/QRCodeScanActivity.java" timestamp="1482288931034">
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="42" />
         <mark key="." line="62" column="42" />
         <mark key="^" line="62" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" timestamp="1482288472060">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="16" column="0" />
+      <file name="/opt/android/Sdk/sources/android-23/android/text/TextUtils.java" timestamp="1481856785605">
+        <mark key="'" line="460" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" timestamp="1482290477106">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="77" column="189" />
+        <mark key="]" line="78" column="11" />
+        <mark key="." line="78" column="11" />
+        <mark key="^" line="78" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481534446125">
+        <mark key="'" line="33" column="52" />
       </file>
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1482125682160">
         <mark key="'" line="75" column="28" />
@@ -59,11 +72,17 @@
         <mark key="]" line="68" column="4" />
         <mark key="." line="71" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_chat_list.xml" timestamp="1481794127351">
+        <mark key="'" line="20" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/SplashActivity.java" timestamp="1482129555664">
         <mark key="[" line="34" column="11" />
         <mark key="]" line="34" column="11" />
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
+        <mark key="'" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/layout/scanner_toolbar.xml" timestamp="1482285600527">
         <mark key="[" line="19" column="33" />
@@ -74,12 +93,18 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" timestamp="1481187263103">
+        <mark key="'" line="46" column="74" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/scan_window.xml" timestamp="1482288339412">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="62" />
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" timestamp="1481179009587">
+        <mark key="'" line="64" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" timestamp="1482286783961">
         <mark key="[" line="14" column="30" />
@@ -102,6 +127,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
+        <mark key="'" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1482288683026">
         <mark key="'" line="256" column="0" />
@@ -135,14 +163,50 @@
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
       </file>
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" timestamp="1481789131594">
+        <mark key="'" line="177" column="0" />
+      </file>
+      <file name="/opt/android/Sdk/sources/android-23/android/graphics/Paint.java" timestamp="1482289813315">
+        <mark key="'" line="935" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/bottom.xml" timestamp="1481591509820">
+        <mark key="'" line="36" column="0" />
+      </file>
+      <file name="/opt/android/Sdk/sources/android-23/android/view/inputmethod/EditorInfo.java" timestamp="1481609184994">
+        <mark key="'" line="67" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" timestamp="1481179437336">
+        <mark key="'" line="29" column="39" />
+      </file>
       <file name="/Python Console" timestamp="1481090050461">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/CityDetailResp.java" timestamp="1481102510553">
+        <mark key="'" line="165" column="0" />
+      </file>
+      <file name="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" timestamp="1481534119778">
+        <mark key="'" line="376" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" timestamp="1482136977431">
+        <mark key="'" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/RecordEat/build.gradle" timestamp="1481274773270">
+        <mark key="'" line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
+        <mark key="'" line="161" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add_item.xml" timestamp="1482136904121">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.3.0/276c6614a45631e0293c08409b1264a6f800b391/zxing-android-embedded-3.3.0-sources.jar!/com/journeyapps/barcodescanner/ViewfinderView.java" timestamp="1482289549825">
+        <mark key="'" line="55" column="24" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/java/com/google/zxing/view/ViewfinderView.java" timestamp="1482290241722">
+        <mark key="'" line="65" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_normal_item.xml" timestamp="1482129934124">
         <mark key="'" line="5" column="49" />
@@ -151,7 +215,10 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482288359190">
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
+        <mark key="'" line="83" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1482288913535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/colors.xml" timestamp="1482283556924">
@@ -170,6 +237,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" timestamp="1482283287443">
+        <mark key="'" line="2024" column="93" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/AppManager.java" timestamp="1481703521942">
+        <mark key="'" line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" timestamp="1481855448817">
         <mark key="'" line="77" column="10" />
         <mark key="[" line="81" column="0" />
@@ -177,16 +250,34 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" timestamp="1482134764452">
+        <mark key="'" line="357" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/attrs.xml" timestamp="1482283459446">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="20" column="23" />
+      </file>
+      <file name="/opt/android/Sdk/platforms/android-25/android.jar!/android/widget/ListView.class" timestamp="1481532016484">
+        <mark key="'" line="33" column="38" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
+        <mark key="'" line="461" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/strings.xml" timestamp="1482283539193">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="6" column="48" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/BaseActivity.java" timestamp="1481855769559">
+        <mark key="'" line="47" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/values/styles.xml" timestamp="1481179632208">
+        <mark key="'" line="455" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/listener/BackGestureListener.java" timestamp="1481179155002">
+        <mark key="'" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/barcode_scanner.xml" timestamp="1482288491501">
         <mark key="[" line="12" column="5" />
@@ -201,18 +292,21 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1482288410275">
+      <file name="/fragment.java" timestamp="1482289792609">
         <mark key="i" line="0" column="66" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/bean/NewsEntity.java" timestamp="1481185274638">
+        <mark key="'" line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" timestamp="1481177508911">
+        <mark key="'" line="56" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="19" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/BaseActivity.java" />
-      <jump line="47" column="14" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/BaseActivity.java" />
-      <jump line="58" column="27" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="67" column="12" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="460" column="26" filename="/opt/android/Sdk/sources/android-23/android/text/TextUtils.java" />
       <jump line="76" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" />
@@ -310,52 +404,55 @@
       <jump line="6" column="33" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" />
       <jump line="29" column="21" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" />
+      <jump line="55" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.3.0/276c6614a45631e0293c08409b1264a6f800b391/zxing-android-embedded-3.3.0-sources.jar!/com/journeyapps/barcodescanner/ViewfinderView.java" />
+      <jump line="935" column="18" filename="/opt/android/Sdk/sources/android-23/android/graphics/Paint.java" />
+      <jump line="65" column="20" filename="$USER_HOME$/Downloads/ZXingDemo/app/src/main/java/com/google/zxing/view/ViewfinderView.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>com.coofond.zxingdemo.CustomViewfinderView</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
-        <text>addBtn</text>
+        <text encoding="base64">XDxsYXNlckNvbG9yXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>com.adouble.zxingdemo.R</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaW50LnNldENvbG9yKHJlc3VsdFBvaW50Q29sb3IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaHNvbmcgb24gMTYtMTItMjEuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcGFpbnQuc2V0Q29sb3IoMHhGRjAwMDBGRik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIOiHquWumuS5iXp4aW5n5LqM57u056CB5omr5o+P55WM6Z2iCiAqIENyZWF0ZWQgYnkgSUJNIG9uIDIwMTYvMTAvMjAuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcGFpbnQuc2V0Q29sb3IoMHhGRjAwMDBGRik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIOiHquWumuS5iXp4aW5n5LqM57u056CB5omr5o+P55WM6Z2iCiAqIENyZWF0ZWQgYnkgSUJNIG9uIDIwMTYvMTAvMjAuCiAqLwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaW50LnNldENvbG9yKDB4MEFGRkZGRkYpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFpbnQuc2V0QWxwaGEoMTAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEN1c3RvbVZpZXdGaW5kZXJWaWV3IHsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaHNvbmcgb24gMTYtMTItMjEuCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cgo8L0xpbmVhckxheW91dD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgenhpbgo=</text>
+        <text encoding="base64">LyoqCiAqIOiHquWumuS5iXp4aW5n5LqM57u056CB5omr5o+P55WM6Z2iCiAqIENyZWF0ZWQgYnkgSUJNIG9uIDIwMTYvMTAvMjAuCiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addBtn</last-search>
+      <last-search encoding="base64">XDxsYXNlckNvbG9yXD4=</last-search>
       <last-offset />
-      <last-pattern>addBtn</last-pattern>
+      <last-pattern encoding="base64">XDxsYXNlckNvbG9yXD4=</last-pattern>
       <last-replace />
       <last-substitute>56\/</last-substitute>
       <last-dir>1</last-dir>
@@ -363,8 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0dkluZGljYXRvclw+</entry>
-        <entry>indexBar</entry>
         <entry>ViewBin</entry>
         <entry>.png</entry>
         <entry>.gif</entry>
@@ -383,6 +478,8 @@
         <entry>.idea</entry>
         <entry>style</entry>
         <entry>addBtn</entry>
+        <entry encoding="base64">XDxyZXN1bHRQb2ludENvbG9yXD4=</entry>
+        <entry encoding="base64">XDxsYXNlckNvbG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAv</entry>

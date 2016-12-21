@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gradient" />
+      <item value="shader" />
+      <item value="opaque" />
+      <item value="exterior" />
       <item value="desired" />
       <item value="divider" />
       <item value="Fragment Frd" />
