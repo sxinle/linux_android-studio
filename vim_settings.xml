@@ -33,6 +33,11 @@
         <mark key="." line="175" column="7" />
         <mark key="^" line="175" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/ids.xml" timestamp="1482283497756">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="29" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
         <mark key="'" line="96" column="34" />
       </file>
@@ -72,10 +77,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/constants/Constants.java" timestamp="1481852099412">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="59" />
-      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,17 +97,22 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/ids.xml" timestamp="1482283512321">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
         <mark key="'" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1482129527032">
         <mark key="'" line="145" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/attrs.xml" timestamp="1482129452162">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="3" column="41" />
-        <mark key="^" line="3" column="41" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/attrs.xml" timestamp="1482283464898">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/fragement_frd.xml" timestamp="1482129706329">
         <mark key="'" line="33" column="0" />
@@ -179,9 +185,24 @@
       <file name="/Dummy.txt" timestamp="1482139941501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/opt/android/Sdk/sources/android-23/android/content/res/Resources.java" timestamp="1481867468470">
-        <mark key="[" line="2196" column="15" />
-        <mark key="]" line="2196" column="27" />
+      <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/colors.xml" timestamp="1482283556924">
+        <mark key="'" line="2" column="32" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="36" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/strings.xml" timestamp="1482283534299">
+        <mark key="'" line="1" column="30" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/colors.xml" timestamp="1482283569156">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" timestamp="1482283287443">
+        <mark key="'" line="2024" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/AppManager.java" timestamp="1481703521942">
         <mark key="'" line="103" column="0" />
@@ -196,18 +217,25 @@
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" timestamp="1482134764452">
         <mark key="'" line="357" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/attrs.xml" timestamp="1482283459446">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="20" column="23" />
+      </file>
       <file name="/opt/android/Sdk/platforms/android-25/android.jar!/android/widget/ListView.class" timestamp="1481532016484">
         <mark key="'" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
         <mark key="'" line="461" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/strings.xml" timestamp="1482283539193">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/BaseActivity.java" timestamp="1481855769559">
         <mark key="'" line="47" column="14" />
-      </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" timestamp="1482123938223">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" timestamp="1481791458888">
         <mark key="'" line="102" column="0" />
@@ -225,19 +253,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/build.gradle" timestamp="1482139287729">
-        <mark key="'" line="7" column="4" />
+      <file name="$USER_HOME$/workspace/Android/Wx/app/build.gradle" timestamp="1482283341541">
+        <mark key="'" line="21" column="13" />
         <mark key="[" line="30" column="11" />
         <mark key="]" line="30" column="11" />
         <mark key="^" line="30" column="11" />
         <mark key="." line="30" column="11" />
-      </file>
-      <file name="/fragment.java" timestamp="1482128942790">
-        <mark key="i" line="0" column="66" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/bean/NewsEntity.java" timestamp="1481185274638">
         <mark key="'" line="27" column="19" />
@@ -247,24 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="40" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
-      <jump line="24" column="16" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
-      <jump line="86" column="40" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
-      <jump line="36" column="31" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
-      <jump line="102" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/IndexBar.java" />
-      <jump line="30" column="13" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/activity_company.xml" />
-      <jump line="12" column="38" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/tab_frd.xml" />
-      <jump line="48" column="45" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
-      <jump line="60" column="12" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/adapter/CompanyAdapter.java" />
-      <jump line="23" column="42" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
-      <jump line="18" column="11" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" />
-      <jump line="20" column="63" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_chat_list.xml" />
-      <jump line="13" column="34" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/view_holder_company_index.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/res/layout/view_holder_company_index.xml" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_letter_item.xml" />
       <jump line="79" column="47" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/adapter/CompanyAdapter.java" />
@@ -347,61 +350,77 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" />
       <jump line="7" column="4" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
+      <jump line="9" column="38" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="1883" column="27" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="17" column="18" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="2055" column="93" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="2079" column="93" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="2084" column="93" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="2108" column="93" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="2136" column="93" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="2220" column="63" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="16" column="19" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="2024" column="93" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
+      <jump line="21" column="13" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
+      <jump line="3" column="0" filename="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/attrs.xml" />
+      <jump line="17" column="22" filename="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/ids.xml" />
+      <jump line="15" column="3" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/ids.xml" />
+      <jump line="1" column="30" filename="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/strings.xml" />
+      <jump line="2" column="32" filename="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/values/colors.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/colors.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>listview</text>
+        <text>.idea</text>
       </register>
-      <register name="0" type="4">
-        <text>compile</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50Ij4jRkY0MDgxPC9jb2xvcj4KCgogICAgPCEtLSBRUkNvZGUgc2Nhbm5lciBjb2xvciBiZWdpbiAtLT4KICAgIDxjb2xvciBuYW1lPSJ2aWV3ZmluZGVyX21hc2siPiM2MDAwMDAwMDwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0icmVzdWx0X3ZpZXciPiNCMDAwMDAwMDwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0idmlld2ZpbmRlcl9mcmFtZSI+IzkwRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJyZXN1bHRfcG9pbnRfY29sb3IiPiNDMEZGRkYwMDwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ibGFzZXJfY29sb3IiPiMwRjA8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvcm5lcl9jb2xvciI+IzAwRkYwMDwvY29sb3I+CiAgICA8IS0tIFFSQ29kZSBzY2FubmVyIGNvbG9yIGVuZCAtLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbS5nb29nbGUuenhpbmc6Y29yZTozLjIuMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50Ij4jRkY0MDgxPC9jb2xvcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXZpZGVWaWV3SG9sZGVyLgo=</text>
+        <text encoding="base64">PCEtLQogQ29weXJpZ2h0IChDKSAyMDA4IFpYaW5nIGF1dGhvcnMKCiBMaWNlbnNlZCB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wICh0aGUgIkxpY2Vuc2UiKTsKIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KIFlvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAoKICAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCgogVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAtLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIuaW1nID0gKEltYWdlVmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9sb2dvKTsKICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIubmFtZSA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9uYW1lKTsK</text>
+        <text encoding="base64">ICAgIGNvbS5nb29nbGUuenhpbmc6Y29yZTozLjIuMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGV2aWRlSG9sZGVyLmRpdmlkZXIgPSAoVGV4dFZpZXcpIGNvbnZlcnRWaWV3LmZpbmRWaWV3QnlJZChSLmlkLmNvbnRhY3RfZGl2aWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpZGVIb2xkZXIuZGl2aWRlciA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9kaXZpZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpZGVIb2xkZXIuZGl2aWRlciA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXZpZGVWaWV3SG9sZGVyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEcml2ZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIuaW1nID0gKEltYWdlVmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9sb2dvKTsKICAgICAgICAgICAgICAgICAgICBub3JtYWxIb2xkZXIubmFtZSA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY29udGFjdF9uYW1lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>listview</last-search>
+      <last-search>.idea</last-search>
       <last-offset />
-      <last-pattern>listview</last-pattern>
+      <last-pattern>.idea</last-pattern>
       <last-replace />
       <last-substitute>56\/</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWFyY2hUZXh0XD4=</entry>
-        <entry encoding="base64">IA==</entry>
         <entry encoding="base64">XDxiYWNrQnRuXD4=</entry>
         <entry encoding="base64">XDxtTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDx0dkluZGljYXRvclw+</entry>
@@ -420,6 +439,8 @@
         <entry>anxl</entry>
         <entry>adapter</entry>
         <entry>listview</entry>
+        <entry>exclude</entry>
+        <entry>.idea</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAv</entry>
