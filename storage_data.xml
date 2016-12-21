@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regardless" />
+      <item value="premultiplied" />
       <item value="Gradient" />
       <item value="shader" />
       <item value="opaque" />
