@@ -194,6 +194,11 @@
       <file name="$USER_HOME$/workspace/Android/RecordEat/build.gradle" timestamp="1481274773270">
         <mark key="'" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/cmp_title.xml" timestamp="1482372399965">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="9" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
@@ -400,7 +405,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>base</text>
