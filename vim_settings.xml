@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" timestamp="1481868078150">
         <mark key="'" line="116" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/proguard-rules.pro" timestamp="1482376594289">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_devider_item.xml" timestamp="1482129712129">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="10" column="0" />
@@ -66,11 +71,12 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1482373946754">
-        <mark key="'" line="15" column="18" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1482376878418">
+        <mark key="'" line="32" column="47" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/adapter/CompanyAdapter.java" timestamp="1482128583227">
         <mark key="'" line="32" column="37" />
@@ -123,6 +129,16 @@
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/ids.xml" timestamp="1482283512321">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/activity_main.xml" timestamp="1482287859634">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/config/AutoLayoutConifg.java" timestamp="1482375074537">
         <mark key="'" line="12" column="13" />
@@ -314,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="2" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="20" column="14" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="119" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
@@ -414,43 +429,44 @@
       <jump line="12" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/config/AutoLayoutConifg.java" />
       <jump line="31" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" />
       <jump line="69" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" />
+      <jump line="33" column="47" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>6</text>
+        <text>Your AppKey</text>
       </register>
       <register name="/" type="4">
         <text>base</text>
       </register>
       <register name="0" type="4">
-        <text>RelativeLayout</text>
+        <text>ACCESS_MOCK_LOCATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMzBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjMwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkFDQ0VTU19NT0NLX0xPQ0FUSU9OIi8+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxtZXRhLWRhdGEgYW5kcm9pZDpuYW1lPSJkZXNpZ25fd2lkdGgiIGFuZHJvaWQ6dmFsdWU9Ijc2OCIvPgogICAgPG1ldGEtZGF0YSBhbmRyb2lkOm5hbWU9ImRlc2lnbl9oZWlnaHQiIGFuZHJvaWQ6dmFsdWU9IjEyODAiLz4K</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iZGVzaWduX3dpZHRoIiBhbmRyb2lkOnZhbHVlPSI3NjgiLz4KICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iZGVzaWduX2hlaWdodCIgYW5kcm9pZDp2YWx1ZT0iMTI4MCIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvbWV0YS1kYXRhPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjIiCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImNlbnRlckluc2lkZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMzBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjMwZHAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOndlaWdodFN1bT0iMyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgo=</text>
+        <text encoding="base64">ICAgIDxtZXRhLWRhdGEgYW5kcm9pZDpuYW1lPSJkZXNpZ25fd2lkdGgiIGFuZHJvaWQ6dmFsdWU9Ijc2OCIvPgogICAgPG1ldGEtZGF0YSBhbmRyb2lkOm5hbWU9ImRlc2lnbl9oZWlnaHQiIGFuZHJvaWQ6dmFsdWU9IjEyODAiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjMwZHAiCg==</text>
+        <text encoding="base64">ICAgIDwvbWV0YS1kYXRhPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
