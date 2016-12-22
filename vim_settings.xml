@@ -124,6 +124,9 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/config/AutoLayoutConifg.java" timestamp="1482375074537">
+        <mark key="'" line="12" column="13" />
+      </file>
       <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
         <mark key="'" line="9" column="23" />
       </file>
@@ -182,8 +185,8 @@
       <file name="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" timestamp="1481534119778">
         <mark key="'" line="376" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482373668489">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482375030729">
+        <mark key="'" line="21" column="13" />
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="38" />
         <mark key="^" line="27" column="3" />
@@ -229,7 +232,7 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
         <mark key="'" line="83" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482372069664">
+      <file name="/Dummy.txt" timestamp="1482374650934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/utils/DimenUtils.java" timestamp="1482374128408" />
@@ -286,6 +289,9 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" timestamp="1482375083729">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/build.gradle" timestamp="1482287231688">
         <mark key="'" line="22" column="52" />
         <mark key="[" line="30" column="12" />
@@ -308,10 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/assets/company.json" />
-      <jump line="108" column="35" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
-      <jump line="11" column="12" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="118" column="2" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="20" column="14" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="119" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
@@ -408,6 +410,10 @@
       <jump line="10" column="91" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_login.xml" />
       <jump line="12" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="21" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="12" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/config/AutoLayoutConifg.java" />
+      <jump line="31" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
