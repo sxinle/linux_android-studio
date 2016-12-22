@@ -26,7 +26,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="/a.dummy" timestamp="1481792783306">
+      <file name="/a.dummy" timestamp="1482381127480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/scanner_toolbar.xml" timestamp="1482286759281">
@@ -42,6 +42,7 @@
         <mark key="." line="175" column="7" />
         <mark key="^" line="175" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/src/com/hyphenate/chatuidemo/ui/RegisterActivity.java" timestamp="1482381169563" />
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
         <mark key="'" line="96" column="34" />
       </file>
@@ -256,7 +257,6 @@
       <file name="/Dummy.txt" timestamp="1482376950605">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/utils/DimenUtils.java" timestamp="1482374128408" />
       <file name="/opt/android/Sdk/sources/android-23/android/graphics/Rect.java" timestamp="1482291479281">
         <mark key="'" line="39" column="6" />
       </file>
@@ -333,15 +333,14 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" timestamp="1481177508911">
         <mark key="'" line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" timestamp="1482381481308">
+        <mark key="'" line="488" column="35" />
+        <mark key="[" line="455" column="27" />
+        <mark key="]" line="455" column="51" />
+        <mark key="." line="455" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2563" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
-      <jump line="2579" column="41" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
-      <jump line="2364" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
-      <jump line="2314" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
-      <jump line="2571" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
-      <jump line="123" column="55" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
-      <jump line="193" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
       <jump line="146" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
       <jump line="199" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
@@ -435,13 +434,20 @@
       <jump line="24" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
+      <jump line="196" column="47" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
+      <jump line="321" column="47" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
+      <jump line="452" column="23" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
+      <jump line="454" column="37" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
+      <jump line="486" column="22" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
+      <jump line="488" column="35" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Your AppKey</text>
+        <text>easemob-demo#chatdemoui</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text>key</text>
       </register>
       <register name="0" type="4">
         <text>ACCESS_MOCK_LOCATION</text>
@@ -478,9 +484,9 @@
       </register>
     </registers>
     <search>
-      <last-search>base</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern>key</last-pattern>
       <last-replace />
       <last-substitute>56\/</last-substitute>
       <last-dir>1</last-dir>
@@ -488,7 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.png</entry>
         <entry>.gif</entry>
         <entry encoding="base64">XDxvblN0YXJ0XD4=</entry>
         <entry encoding="base64">XDxsdkNvbXBhbnlcPg==</entry>
@@ -508,6 +513,7 @@
         <entry encoding="base64">XDxyZXN1bHRQb2ludENvbG9yXD4=</entry>
         <entry encoding="base64">XDxsYXNlckNvbG9yXD4=</entry>
         <entry>base</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAv</entry>
