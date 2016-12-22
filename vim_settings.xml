@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" timestamp="1482377179445">
+        <mark key="'" line="56" column="0" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,7 +251,7 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
         <mark key="'" line="83" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482374650934">
+      <file name="/Dummy.txt" timestamp="1482376950605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/utils/DimenUtils.java" timestamp="1482374128408" />
@@ -330,8 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="14" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
-      <jump line="119" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="116" column="2" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
       <jump line="2370" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
@@ -430,6 +431,8 @@
       <jump line="31" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" />
       <jump line="69" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" />
       <jump line="33" column="47" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="32" column="26" filename="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" />
+      <jump line="56" column="0" filename="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
