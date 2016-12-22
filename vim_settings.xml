@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" timestamp="1482377179445">
-        <mark key="'" line="56" column="0" />
+      <file name="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" timestamp="1482377194452">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
@@ -204,8 +208,8 @@
       <file name="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" timestamp="1481534119778">
         <mark key="'" line="376" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482375030729">
-        <mark key="'" line="21" column="13" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482377225446">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="38" />
         <mark key="^" line="27" column="3" />
@@ -333,10 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
-      <jump line="116" column="2" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" />
-      <jump line="2370" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
-      <jump line="2564" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
       <jump line="2563" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
       <jump line="2579" column="41" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
       <jump line="2364" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/build/generated/source/r/debug/com/wx/R.java" />
@@ -433,6 +433,10 @@
       <jump line="33" column="47" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="32" column="26" filename="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" />
       <jump line="56" column="0" filename="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" />
+      <jump line="8" column="0" filename="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" />
+      <jump line="24" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
