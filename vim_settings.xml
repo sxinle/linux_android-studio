@@ -204,7 +204,8 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" timestamp="1482409724882">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" timestamp="1482409823891">
+        <mark key="'" line="35" column="42" />
         <mark key="[" line="51" column="17" />
         <mark key="]" line="51" column="25" />
         <mark key="^" line="51" column="25" />
@@ -314,7 +315,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.3.0/276c6614a45631e0293c08409b1264a6f800b391/zxing-android-embedded-3.3.0-sources.jar!/com/journeyapps/barcodescanner/ViewfinderView.java" timestamp="1482289549825">
         <mark key="'" line="55" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482409614454">
+      <file name="/Dummy.txt" timestamp="1482409800198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/entity/AlarmInfo.java" timestamp="1482406552726">
@@ -387,9 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" />
-      <jump line="55" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.3.0/276c6614a45631e0293c08409b1264a6f800b391/zxing-android-embedded-3.3.0-sources.jar!/com/journeyapps/barcodescanner/ViewfinderView.java" />
-      <jump line="935" column="18" filename="/opt/android/Sdk/sources/android-23/android/graphics/Paint.java" />
       <jump line="65" column="20" filename="$USER_HOME$/Downloads/ZXingDemo/app/src/main/java/com/google/zxing/view/ViewfinderView.java" />
       <jump line="39" column="6" filename="/opt/android/Sdk/sources/android-23/android/graphics/Rect.java" />
       <jump line="34" column="31" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/DataManager.java" />
@@ -487,6 +485,9 @@
       <jump line="79" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
       <jump line="84" column="9" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
       <jump line="60" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
+      <jump line="51" column="25" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="35" column="42" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
