@@ -138,11 +138,12 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
         <mark key="'" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/list_alarm_item.xml" timestamp="1482406451830">
-        <mark key="'" line="31" column="15" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/list_alarm_item.xml" timestamp="1482409256211">
+        <mark key="'" line="30" column="15" />
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/checkbox.xml" timestamp="1482404664510">
         <mark key="[" line="0" column="0" />
@@ -196,19 +197,19 @@
       <file name="/opt/android/Sdk/sources/android-23/android/text/TextUtils.java" timestamp="1481856785605">
         <mark key="'" line="460" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1482125682160">
-        <mark key="'" line="75" column="28" />
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1482408789921">
+        <mark key="'" line="22" column="30" />
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="24" />
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" timestamp="1482406855585">
-        <mark key="'" line="90" column="58" />
-        <mark key="[" line="91" column="109" />
-        <mark key="]" line="91" column="124" />
-        <mark key="." line="91" column="124" />
-        <mark key="^" line="91" column="124" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" timestamp="1482409309643">
+        <mark key="'" line="84" column="9" />
+        <mark key="[" line="92" column="20" />
+        <mark key="]" line="92" column="21" />
+        <mark key="." line="92" column="21" />
+        <mark key="^" line="39" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1482406873768">
         <mark key="'" line="22" column="47" />
@@ -217,8 +218,8 @@
         <mark key="." line="52" column="65" />
         <mark key="^" line="52" column="65" />
       </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/adapter/CompanyAdapter.java" timestamp="1482403636442">
-        <mark key="'" line="32" column="37" />
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/adapter/CompanyAdapter.java" timestamp="1482408784851">
+        <mark key="'" line="96" column="33" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="122" column="8" />
         <mark key="." line="71" column="48" />
@@ -301,12 +302,12 @@
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" timestamp="1482136977431">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_alarm_handle.xml" timestamp="1482408499064">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="51" column="44" />
-        <mark key="." line="51" column="44" />
-        <mark key="^" line="8" column="90" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_alarm_handle.xml" timestamp="1482409553410">
+        <mark key="'" line="60" column="18" />
+        <mark key="[" line="84" column="25" />
+        <mark key="]" line="85" column="52" />
+        <mark key="." line="85" column="52" />
+        <mark key="^" line="85" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/Android/RecordEat/build.gradle" timestamp="1481274773270">
         <mark key="'" line="15" column="17" />
@@ -314,7 +315,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.3.0/276c6614a45631e0293c08409b1264a6f800b391/zxing-android-embedded-3.3.0-sources.jar!/com/journeyapps/barcodescanner/ViewfinderView.java" timestamp="1482289549825">
         <mark key="'" line="55" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482408523524">
+      <file name="/Dummy.txt" timestamp="1482408526155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/entity/AlarmInfo.java" timestamp="1482406552726">
@@ -387,18 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/scan_window.xml" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/scan_window.xml" />
-      <jump line="6" column="31" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/QRCodeScanActivity.java" />
-      <jump line="163" column="20" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="170" column="36" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="28" column="23" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="34" column="12" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="256" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="11" column="61" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/barcode_scanner.xml" />
-      <jump line="6" column="33" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" />
-      <jump line="29" column="21" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/custom/CustomViewFinderView.java" />
       <jump line="55" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.3.0/276c6614a45631e0293c08409b1264a6f800b391/zxing-android-embedded-3.3.0-sources.jar!/com/journeyapps/barcodescanner/ViewfinderView.java" />
       <jump line="935" column="18" filename="/opt/android/Sdk/sources/android-23/android/graphics/Paint.java" />
@@ -487,69 +476,71 @@
       <jump line="90" column="58" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
+      <jump line="48" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="53" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="58" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="63" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="68" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="96" column="33" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/adapter/CompanyAdapter.java" />
+      <jump line="22" column="30" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" />
+      <jump line="142" column="4" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="79" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="84" column="9" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
+      <jump line="60" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>android:layout_weight=&quot;5&quot;</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ListView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIudmlldy5hY3Rpdml0eS5Mb2dpbkFjdGl2aXR5Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGFybXMuYWRkKGE2KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpmYWRpbmdFZGdlPSJub25lIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iNSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmFkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBsYXlvdXR3ZWkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpmYWRpbmdFZGdlTGVuZ3RoPSJAYW5kcm9pZDpkaW1lbi9hcHBfaWNvbl9zaXplIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpmYWRpbmdFZGdlPSJub25lIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOndlaWdodFN1bT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgY2VuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSIyMHB4Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZ3JhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbGF5b3V0Z3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVg9IjAuNSIKICAgICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVk9IjAuNSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search>ListView</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
-      <last-replace>\n</last-replace>
-      <last-substitute encoding="base64">IA==</last-substitute>
+      <last-pattern>ListView</last-pattern>
+      <last-replace>a8</last-replace>
+      <last-substitute>a7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
-        <entry>anneng</entry>
-        <entry>anxl</entry>
-        <entry>adapter</entry>
-        <entry>listview</entry>
-        <entry>exclude</entry>
-        <entry>.idea</entry>
-        <entry>style</entry>
-        <entry>addBtn</entry>
-        <entry encoding="base64">XDxyZXN1bHRQb2ludENvbG9yXD4=</entry>
         <entry encoding="base64">XDxsYXNlckNvbG9yXD4=</entry>
         <entry>base</entry>
         <entry>key</entry>
@@ -560,6 +551,16 @@
         <entry encoding="base64">XDxtVHJpYW5nbGVQYXRoXD4=</entry>
         <entry encoding="base64">XDxtT25DaGVja2VkQ2hhbmdlTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>a1</entry>
+        <entry>a2</entry>
+        <entry>a3</entry>
+        <entry>a4</entry>
+        <entry>a5</entry>
+        <entry encoding="base64">XDxDb21wYW55QWRhcHRlclw+</entry>
+        <entry>scale</entry>
+        <entry>a6</entry>
+        <entry>a7</entry>
+        <entry>ListView</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
@@ -570,6 +571,13 @@
         <entry encoding="base64">JzwsJz5zLyAv</entry>
         <entry encoding="base64">JzwsJz5zLyAvXG4vZw==</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL2ExL2EyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2EyL2EzL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2EzL2E0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2E0L2E1L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2E1L2E2L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2E2L2E3L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2E3L2E4L2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
