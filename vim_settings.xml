@@ -8,26 +8,162 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/File Header.txt.ft" timestamp="1481094374135">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/assets/company.json" timestamp="1481868078150">
         <mark key="'" line="116" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
+        <mark key="'" line="96" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/colors.xml" timestamp="1482394097682">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/app/build.gradle" timestamp="1482391460343">
+        <mark key="'" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481534446125">
+        <mark key="'" line="33" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1482394191840">
+        <mark key="'" line="43" column="14" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="26" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_splash.xml" timestamp="1482374445692">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_chat_list.xml" timestamp="1481794127351">
+        <mark key="'" line="20" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/SwitchButton.java" timestamp="1482394370608">
+        <mark key="'" line="130" column="68" />
+        <mark key="[" line="40" column="61" />
+        <mark key="]" line="40" column="68" />
+        <mark key="." line="40" column="68" />
+        <mark key="^" line="40" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
+        <mark key="'" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/res/values/colors.xml" timestamp="1482394089529">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="16" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/styles.xml" timestamp="1482394361116">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" timestamp="1481187263103">
+        <mark key="'" line="46" column="74" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" timestamp="1482286783961">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1482129816545">
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/github.hellocsl/CursorWheelLayout/1.0.2/822512c29c432ab7a029956ffa0eadecd40614c3/CursorWheelLayout-1.0.2-sources.jar!/github/hellocsl/cursorwheel/CursorWheelLayout.java" timestamp="1482393865246">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="946" column="0" />
+      </file>
+      <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
+        <mark key="'" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" timestamp="1481789131594">
+        <mark key="'" line="177" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1482394442526">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+      </file>
+      <file name="/opt/android/Sdk/sources/android-23/android/view/inputmethod/EditorInfo.java" timestamp="1481609184994">
+        <mark key="'" line="67" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/java/github/hellocsl/cursorwheel/CursorWheelLayout.java" timestamp="1482394013769">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/DataManager.java" timestamp="1482369661345">
+        <mark key="'" line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/custom/CursorWheelLayout.java" timestamp="1482394060513">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
+        <mark key="'" line="161" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add_item.xml" timestamp="1482136904121">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/java/com/google/zxing/view/ViewfinderView.java" timestamp="1482290241722">
+        <mark key="'" line="65" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
+        <mark key="'" line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/java/github/hellocsl/cursorwheellayout/adapter/SimpleImageAdapter.java" timestamp="1482390623390">
+        <mark key="'" line="16" column="30" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" timestamp="1482283287443">
+        <mark key="'" line="2024" column="93" />
+      </file>
+      <file name="/opt/android/Sdk/platforms/android-25/android.jar!/android/widget/ListView.class" timestamp="1481532016484">
+        <mark key="'" line="33" column="38" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
+        <mark key="'" line="461" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/java/github/hellocsl/cursorwheellayout/widget/SwitchButton.java" timestamp="1482394287094">
+        <mark key="'" line="459" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/barcode_scanner.xml" timestamp="1482288491501">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" timestamp="1482375083729">
+        <mark key="'" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" timestamp="1482381481308">
+        <mark key="'" line="488" column="35" />
+        <mark key="[" line="455" column="27" />
+        <mark key="]" line="455" column="51" />
+        <mark key="." line="455" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/proguard-rules.pro" timestamp="1482376594289">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="27" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_devider_item.xml" timestamp="1482129712129">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="59" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="4" column="48" />
-      </file>
-      <file name="/a.dummy" timestamp="1482381127480">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/res/values-wheel/ids-wheel.xml" timestamp="1482394204568">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/scanner_toolbar.xml" timestamp="1482286759281">
         <mark key="[" line="17" column="37" />
@@ -35,16 +171,9 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" timestamp="1482123799415">
-        <mark key="'" line="199" column="0" />
-        <mark key="[" line="174" column="26" />
-        <mark key="]" line="175" column="7" />
-        <mark key="." line="175" column="7" />
-        <mark key="^" line="175" column="7" />
-      </file>
-      <file name="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/src/com/hyphenate/chatuidemo/ui/RegisterActivity.java" timestamp="1482381169563" />
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/view/HeadListView.java" timestamp="1481188548949">
-        <mark key="'" line="96" column="34" />
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/res/values/styles.xml" timestamp="1482394355217">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/SplashActivity.java" timestamp="1482369866550">
         <mark key="[" line="7" column="36" />
@@ -61,28 +190,12 @@
       <file name="/opt/android/Sdk/sources/android-23/android/text/TextUtils.java" timestamp="1481856785605">
         <mark key="'" line="460" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/tab/MainActivity.java" timestamp="1481534446125">
-        <mark key="'" line="33" column="52" />
-      </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" timestamp="1482125682160">
-        <mark key="'" line="75" column="28" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_splash.xml" timestamp="1482374445692">
-        <mark key="[" line="3" column="52" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1482376878418">
-        <mark key="'" line="32" column="47" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="41" column="14" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1482392683670">
+        <mark key="'" line="22" column="47" />
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="60" />
+        <mark key="." line="52" column="60" />
+        <mark key="^" line="52" column="60" />
       </file>
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/adapter/CompanyAdapter.java" timestamp="1482128583227">
         <mark key="'" line="32" column="37" />
@@ -90,51 +203,19 @@
         <mark key="]" line="68" column="4" />
         <mark key="." line="71" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_chat_list.xml" timestamp="1481794127351">
-        <mark key="'" line="20" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
-        <mark key="'" line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/res/layout/scanner_toolbar.xml" timestamp="1482285600527">
         <mark key="[" line="19" column="33" />
         <mark key="]" line="19" column="40" />
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/res/values-wheel/attrs-wheel.xml" timestamp="1482393942513">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482370063277">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/adapter/NewsAdapter.java" timestamp="1481187263103">
-        <mark key="'" line="46" column="74" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/scan_window.xml" timestamp="1482288339412">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="62" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="23" column="11" />
+        <mark key="]" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/db/DBUtil.java" timestamp="1481179009587">
         <mark key="'" line="64" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/search_bar.xml" timestamp="1482286783961">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" timestamp="1482129816545">
-        <mark key="'" line="202" column="0" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/values/ids.xml" timestamp="1482283512321">
         <mark key="[" line="1" column="0" />
@@ -149,32 +230,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/config/AutoLayoutConifg.java" timestamp="1482375074537">
         <mark key="'" line="12" column="13" />
       </file>
-      <file name="/opt/android/Sdk/platforms/android-23/android.jar!/android/util/FloatMath.class" timestamp="1481177828708">
-        <mark key="'" line="9" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1482288683026">
-        <mark key="'" line="256" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="120" column="87" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/AndroidManifest.xml" timestamp="1482291303416">
-        <mark key="'" line="11" column="61" />
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="64" />
-        <mark key="^" line="12" column="64" />
-        <mark key="." line="12" column="64" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/fragement_frd.xml" timestamp="1482129706329">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-      </file>
-      <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/widget/RoundImageView.java" timestamp="1481789131594">
-        <mark key="'" line="177" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/CursorWheelLayout.java" timestamp="1482393903838">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="/opt/android/Sdk/sources/android-23/android/graphics/Paint.java" timestamp="1482289813315">
         <mark key="'" line="935" column="18" />
@@ -182,43 +242,32 @@
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/bottom.xml" timestamp="1481591509820">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="/opt/android/Sdk/sources/android-23/android/view/inputmethod/EditorInfo.java" timestamp="1481609184994">
-        <mark key="'" line="67" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Utils.java" timestamp="1482369672247">
         <mark key="'" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/channel.xml" timestamp="1481179437336">
         <mark key="'" line="29" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1481090050461">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/CityDetailResp.java" timestamp="1481102510553">
         <mark key="'" line="165" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" timestamp="1482374546816">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="32" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="33" column="32" />
       </file>
       <file name="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/ListFragment.java" timestamp="1481534119778">
         <mark key="'" line="376" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482377225446">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="38" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="27" column="4" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482394039132">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/res/layout/activity_main.xml" timestamp="1482394388947">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="44" column="9" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" timestamp="1482136977431">
         <mark key="'" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/DataManager.java" timestamp="1482369661345">
-        <mark key="'" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/RecordEat/build.gradle" timestamp="1481274773270">
         <mark key="'" line="15" column="17" />
@@ -229,33 +278,12 @@
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
-        <mark key="'" line="161" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add_item.xml" timestamp="1482136904121">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.3.0/276c6614a45631e0293c08409b1264a6f800b391/zxing-android-embedded-3.3.0-sources.jar!/com/journeyapps/barcodescanner/ViewfinderView.java" timestamp="1482289549825">
         <mark key="'" line="55" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/ZXingDemo/app/src/main/java/com/google/zxing/view/ViewfinderView.java" timestamp="1482290241722">
-        <mark key="'" line="65" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_normal_item.xml" timestamp="1482129934124">
-        <mark key="'" line="5" column="49" />
-        <mark key="[" line="3" column="49" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/layout/news_fragment.xml" timestamp="1481178196802">
-        <mark key="'" line="83" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1482376950605">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/java/github/hellocsl/cursorwheellayout/MainActivity.java" timestamp="1482392547546">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="40" />
       </file>
       <file name="/opt/android/Sdk/sources/android-23/android/graphics/Rect.java" timestamp="1482291479281">
         <mark key="'" line="39" column="6" />
@@ -266,37 +294,14 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" timestamp="1482283287443">
-        <mark key="'" line="2024" column="93" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/AppManager.java" timestamp="1481703521942">
         <mark key="'" line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" timestamp="1481855448817">
-        <mark key="'" line="77" column="10" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" timestamp="1482134764452">
         <mark key="'" line="357" column="0" />
       </file>
-      <file name="/opt/android/Sdk/platforms/android-25/android.jar!/android/widget/ListView.class" timestamp="1481532016484">
-        <mark key="'" line="33" column="38" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
-        <mark key="'" line="461" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/BaseActivity.java" timestamp="1481855769559">
         <mark key="'" line="47" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_login.xml" timestamp="1482374413480">
-        <mark key="'" line="11" column="91" />
-        <mark key="[" line="46" column="31" />
-        <mark key="]" line="46" column="32" />
-        <mark key="." line="46" column="32" />
-        <mark key="^" line="46" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/res/values/styles.xml" timestamp="1481179632208">
         <mark key="'" line="455" column="17" />
@@ -304,23 +309,13 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/listener/BackGestureListener.java" timestamp="1481179155002">
         <mark key="'" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/barcode_scanner.xml" timestamp="1482288491501">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="43" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/CursorWheelLayout.java" timestamp="1482394595862">
+        <mark key="'" line="574" column="12" />
+        <mark key="[" line="96" column="19" />
+        <mark key="]" line="96" column="19" />
+        <mark key="." line="96" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/attr/MaxWidthAttr.java" timestamp="1482375083729">
-        <mark key="'" line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/Wx/app/build.gradle" timestamp="1482287231688">
-        <mark key="'" line="22" column="52" />
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="13" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="13" />
-      </file>
-      <file name="/fragment.java" timestamp="1482374129336">
+      <file name="/fragment.java" timestamp="1482394292260">
         <mark key="i" line="0" column="66" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -333,41 +328,8 @@
       <file name="$USER_HOME$/workspace/Android/TopNews/TopNews/src/com/topnews/Welcome.java" timestamp="1481177508911">
         <mark key="'" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" timestamp="1482381481308">
-        <mark key="'" line="488" column="35" />
-        <mark key="[" line="455" column="27" />
-        <mark key="]" line="455" column="51" />
-        <mark key="." line="455" column="27" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
-      <jump line="199" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
-      <jump line="14" column="32" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/fragement_frd.xml" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/fragement_frd.xml" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/fragement_frd.xml" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/fragement_frd.xml" />
-      <jump line="5" column="49" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/view_holder_contact_normal_item.xml" />
-      <jump line="53" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" />
-      <jump line="75" column="28" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/me/wcy/express/activity/CompanyActivity.java" />
-      <jump line="89" column="11" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
-      <jump line="194" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentFrd.java" />
-      <jump line="145" column="20" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="71" column="48" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" />
-      <jump line="357" column="0" filename="$USER_HOME$/Downloads/PonyExpress/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" />
-      <jump line="15" column="16" filename="$USER_HOME$/Downloads/PonyExpress/app/build.gradle" />
-      <jump line="16" column="20" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add_item.xml" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add_item.xml" />
-      <jump line="6" column="5" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" />
-      <jump line="14" column="6" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" />
-      <jump line="8" column="5" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" />
-      <jump line="9" column="35" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/Android/Wx/app/src/main/res/layout/popup_btn_add.xml" />
-      <jump line="7" column="4" filename="$USER_HOME$/workspace/Android/Wx/app/build.gradle" />
-      <jump line="9" column="38" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
-      <jump line="1883" column="27" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
       <jump line="17" column="18" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
       <jump line="2055" column="93" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
       <jump line="2079" column="93" filename="$USER_HOME$/workspace/Android/Wx/.idea/workspace.xml" />
@@ -441,52 +403,79 @@
       <jump line="454" column="37" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
       <jump line="486" column="22" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
       <jump line="488" column="35" filename="$USER_HOME$/Downloads/hx/examples/ChatDemoUI3.0/AndroidManifest.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="16" column="30" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/java/github/hellocsl/cursorwheellayout/adapter/SimpleImageAdapter.java" />
+      <jump line="25" column="2" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/java/github/hellocsl/cursorwheel/CursorWheelLayout.java" />
+      <jump line="946" column="0" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/java/github/hellocsl/cursorwheel/CursorWheelLayout.java" />
+      <jump line="11" column="24" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/app/build.gradle" />
+      <jump line="22" column="47" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="71" column="6" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/java/github/hellocsl/cursorwheel/CursorWheelLayout.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/java/github/hellocsl/cursorwheel/CursorWheelLayout.java" />
+      <jump line="135" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/github.hellocsl/CursorWheelLayout/1.0.2/822512c29c432ab7a029956ffa0eadecd40614c3/CursorWheelLayout-1.0.2-sources.jar!/github/hellocsl/cursorwheel/CursorWheelLayout.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/github.hellocsl/CursorWheelLayout/1.0.2/822512c29c432ab7a029956ffa0eadecd40614c3/CursorWheelLayout-1.0.2-sources.jar!/github/hellocsl/cursorwheel/CursorWheelLayout.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/res/values-wheel/attrs-wheel.xml" />
+      <jump line="24" column="13" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/library/src/main/java/github/hellocsl/cursorwheel/CursorWheelLayout.java" />
+      <jump line="15" column="16" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="43" column="14" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="266" column="61" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/CursorWheelLayout.java" />
+      <jump line="88" column="33" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/java/github/hellocsl/cursorwheellayout/widget/SwitchButton.java" />
+      <jump line="32" column="21" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/java/github/hellocsl/cursorwheellayout/widget/SwitchButton.java" />
+      <jump line="459" column="0" filename="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/java/github/hellocsl/cursorwheellayout/widget/SwitchButton.java" />
+      <jump line="39" column="57" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/SwitchButton.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/SwitchButton.java" />
+      <jump line="457" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/SwitchButton.java" />
+      <jump line="130" column="68" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/SwitchButton.java" />
+      <jump line="96" column="19" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/CursorWheelLayout.java" />
+      <jump line="100" column="30" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/CursorWheelLayout.java" />
+      <jump line="574" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/wheel/CursorWheelLayout.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>easemob-demo#chatdemoui</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>key</text>
+        <text encoding="base64">XDxtV2hlZWxBZGFwdGVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ACCESS_MOCK_LOCATION</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8Z2l0aHViLmhlbGxvY3NsLmN1cnNvcndoZWVsbGF5b3V0LndpZGdldC5Td2l0Y2hCdXR0b24KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkBpZC9pZF93aGVlbF9tZW51X2NlbnRlcl9pdGVtIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYXBwOmJvYXJkV2lkdGg9IjBkaXAiCiAgICAgICAgICAgICAgICBhcHA6dW5jaGVja1JldmVhbENvbG9yPSIjZmYyYTJmMzYiCiAgICAgICAgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SW1hZ2VWaWV3IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ljX2JhbmtfYmMiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgfQogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjEuMScKICAgIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0IGdpdGh1Yi5oZWxsb2NzbC5jdXJzb3J3aGVlbGxheW91dC5SOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkFDQ0VTU19NT0NLX0xPQ0FUSU9OIi8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWNlbm9kZS5SLnN0eWxlYWJsZS5DdXJzb3JXaGVlbExheW91dDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdpdGh1Yi5oZWxsb2NzbC5jdXJzb3J3aGVlbC5DdXJzb3JXaGVlbExheW91dDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iZGVzaWduX3dpZHRoIiBhbmRyb2lkOnZhbHVlPSI3NjgiLz4KICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iZGVzaWduX2hlaWdodCIgYW5kcm9pZDp2YWx1ZT0iMTI4MCIvPgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLkNvbG9ySW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2dpdGh1Yi5oZWxsb2NzbDpDdXJzb3JXaGVlbExheW91dDoxLjAuMicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+        <text encoding="base64">ICogQHNlZSBSLmdpdGh1Yi5oZWxsb2NzbC5jdXJzb3J3aGVlbC5SLmF0dHIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMzBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjMwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6d2hlZWxTZWxlY3RlZEFuZ2xlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>key</last-search>
+      <last-search encoding="base64">XDxtV2hlZWxBZGFwdGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
+      <last-pattern encoding="base64">XDxtV2hlZWxBZGFwdGVyXD4=</last-pattern>
       <last-replace />
       <last-substitute>56\/</last-substitute>
       <last-dir>1</last-dir>
@@ -494,10 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.gif</entry>
-        <entry encoding="base64">XDxvblN0YXJ0XD4=</entry>
-        <entry encoding="base64">XDxsdkNvbXBhbnlcPg==</entry>
-        <entry>.1</entry>
         <entry>\.1</entry>
         <entry>\\.1</entry>
         <entry>56\/</entry>
@@ -514,6 +499,10 @@
         <entry encoding="base64">XDxsYXNlckNvbG9yXD4=</entry>
         <entry>base</entry>
         <entry>key</entry>
+        <entry>splash</entry>
+        <entry encoding="base64">XDx3aGVlbFNlbGVjdGVkQW5nbGVcPg==</entry>
+        <entry encoding="base64">XDxtU3RhcnRBbmdsZVw+</entry>
+        <entry encoding="base64">XDxtV2hlZWxBZGFwdGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAv</entry>
