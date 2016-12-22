@@ -3,11 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" timestamp="1482377194452">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="35" />
+      <file name="$USER_HOME$/Downloads/a/examples/easeui/build.gradle" timestamp="1482378049246">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1481094374135">
@@ -449,31 +447,31 @@
         <text>ACCESS_MOCK_LOCATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkFDQ0VTU19NT0NLX0xPQ0FUSU9OIi8+Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgfQogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjEuMScKICAgIH0KfQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iZGVzaWduX3dpZHRoIiBhbmRyb2lkOnZhbHVlPSI3NjgiLz4KICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iZGVzaWduX2hlaWdodCIgYW5kcm9pZDp2YWx1ZT0iMTI4MCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkFDQ0VTU19NT0NLX0xPQ0FUSU9OIi8+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iZGVzaWduX3dpZHRoIiBhbmRyb2lkOnZhbHVlPSI3NjgiLz4KICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iZGVzaWduX2hlaWdodCIgYW5kcm9pZDp2YWx1ZT0iMTI4MCIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMzBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjMwZHAiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtZXRhLWRhdGEgYW5kcm9pZDpuYW1lPSJkZXNpZ25fd2lkdGgiIGFuZHJvaWQ6dmFsdWU9Ijc2OCIvPgogICAgPG1ldGEtZGF0YSBhbmRyb2lkOm5hbWU9ImRlc2lnbl9oZWlnaHQiIGFuZHJvaWQ6dmFsdWU9IjEyODAiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMzBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjMwZHAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvbWV0YS1kYXRhPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
