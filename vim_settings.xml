@@ -148,7 +148,7 @@
         <mark key="." line="8" column="49" />
         <mark key="^" line="8" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482476580695">
+      <file name="/Dummy.txt" timestamp="1482477833674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/entity/AlarmInfo.java" timestamp="1482471894375">
@@ -228,8 +228,8 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1482477706231">
-        <mark key="'" line="102" column="29" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1482477884802">
+        <mark key="'" line="88" column="22" />
         <mark key="[" line="104" column="12" />
         <mark key="]" line="104" column="22" />
         <mark key="." line="104" column="22" />
@@ -297,8 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_login.xml" />
-      <jump line="10" column="91" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_login.xml" />
       <jump line="12" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="21" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
@@ -397,6 +395,8 @@
       <jump line="28" column="7" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="102" column="29" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="36" column="53" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="88" column="22" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
