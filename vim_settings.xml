@@ -99,7 +99,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482481060386">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482481982898">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -466,7 +466,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
