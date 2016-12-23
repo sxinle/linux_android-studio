@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lime" />
+      <item value="bright" />
+      <item value="blight" />
       <item value="wheel Selected Angle" />
       <item value="Fling" />
       <item value="butterknife" />
