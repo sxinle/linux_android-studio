@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
+      <item value="间隔" />
       <item value="lime" />
       <item value="bright" />
       <item value="blight" />
