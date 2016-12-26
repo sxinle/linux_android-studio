@@ -18,6 +18,9 @@
       <file name="/a.dummy" timestamp="1482731638732">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DBHelper.java" timestamp="1482740910398">
+        <mark key="'" line="93" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Api.java" timestamp="1482733895821">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="14" column="20" />
@@ -53,7 +56,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482739185345">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482741016124">
         <mark key="'" line="180" column="0" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -72,19 +75,10 @@
       <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh/em_strings.xml" timestamp="1482735395025">
         <mark key="'" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/AppApplication.java" timestamp="1482729275652">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/Myinfo.java" timestamp="1482730752183">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/AndroidManifest.xml" timestamp="1482730854573">
-        <mark key="[" line="89" column="27" />
-        <mark key="]" line="89" column="51" />
-        <mark key="." line="89" column="27" />
-      </file>
+      <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/layout/item_message_received.xml" timestamp="1482740858063" />
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/widget/CircleLayout.java" timestamp="1482550074544">
         <mark key="'" line="34" column="0" />
       </file>
@@ -144,6 +138,7 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/src/com/hyphenate/litedemo/activity/ChatActivity.java" timestamp="1482740751309" />
       <file name="$USER_HOME$/Downloads/huanxin/hx/examples/ChatDemoUI3.0/src/com/hyphenate/chatuidemo/DemoApplication.java" timestamp="1482729303062">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -214,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="20" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
       <jump line="33" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
@@ -314,6 +308,7 @@
       <jump line="59" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="48" column="55" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="180" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="93" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DBHelper.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
