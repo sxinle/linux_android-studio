@@ -40,6 +40,9 @@
       <file name="$USER_HOME$/workspace/Android/easeui/LICENSE" timestamp="1482750665583">
         <mark key="'" line="201" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/domain/EaseEmojiconGroupEntity.java" timestamp="1482753405785">
+        <mark key="'" line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/colors.xml" timestamp="1482474464524">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="20" />
@@ -114,6 +117,9 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/gradle.properties" timestamp="1482753944857">
+        <mark key="'" line="15" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/list_data_gather_item.xml" timestamp="1482477062484">
         <mark key="[" line="15" column="37" />
         <mark key="]" line="15" column="43" />
@@ -129,7 +135,8 @@
       <file name="$USER_HOME$/Downloads/huanxin/hx/examples/ChatDemoUI3.0/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar!/android/support/multidex/MultiDex.class" timestamp="1482729174270">
         <mark key="'" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/build.gradle" timestamp="1482744030486">
+      <file name="$USER_HOME$/workspace/Android/waffair/build.gradle" timestamp="1482753940361">
+        <mark key="'" line="12" column="30" />
         <mark key="[" line="9" column="63" />
         <mark key="]" line="10" column="7" />
         <mark key="." line="10" column="7" />
@@ -186,6 +193,9 @@
       <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh-rCN/ease_strings.xml" timestamp="1482735513011">
         <mark key="'" line="12" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/.gitignore" timestamp="1482753937469">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/text_bg_gather_lime.xml" timestamp="1482476339229">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="36" />
@@ -206,6 +216,9 @@
         <mark key="]" line="22" column="15" />
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/domain/EaseEmojicon.java" timestamp="1482753401048">
+        <mark key="'" line="229" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1482564560743">
         <mark key="[" line="0" column="0" />
@@ -245,12 +258,17 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482752911384">
-        <mark key="'" line="22" column="32" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482753934339">
+        <mark key="'" line="41" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/simpledemo/res/layout/activity_chat.xml" timestamp="1482753552566">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/MyApplication.java" timestamp="1482745533443">
         <mark key="'" line="187" column="38" />
@@ -359,16 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="0" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh/em_strings.xml" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/src/com/hyphenate/litedemo/utils/EaseCommonUtils.java" />
-      <jump line="87" column="50" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/EaseCommonUtils.java" />
-      <jump line="37" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/EaseCommonUtils.java" />
-      <jump line="80" column="62" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/EaseCommonUtils.java" />
-      <jump line="94" column="62" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/src/com/hyphenate/litedemo/utils/EaseCommonUtils.java" />
-      <jump line="21" column="45" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DemoDBManager.java" />
-      <jump line="29" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/InviteMessage.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/src/com/hyphenate/litedemo/db/InviteMessage.java" />
-      <jump line="246" column="36" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DemoDBManager.java" />
       <jump line="2" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/InviteMessage.java" />
       <jump line="288" column="3" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DemoDBManager.java" />
       <jump line="239" column="29" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DemoDBManager.java" />
@@ -458,11 +466,21 @@
       <jump line="70" column="0" filename="$USER_HOME$/workspace/Android/easeui/src/com/easemob/easeui/domain/EaseEmojiconGroupEntity.java" />
       <jump line="30" column="20" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/easemob/easeui/utils/EaseACKUtil.java" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/Android/waffair/easeui/build.gradle" />
-      <jump line="22" column="32" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="21" column="33" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/domain/EaseEmojicon.java" />
+      <jump line="229" column="0" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/domain/EaseEmojicon.java" />
+      <jump line="23" column="6" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/domain/EaseEmojiconGroupEntity.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/domain/EaseEmojiconGroupEntity.java" />
+      <jump line="29" column="58" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="22" column="40" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="18" column="38" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/.gitignore" />
+      <jump line="12" column="30" filename="$USER_HOME$/workspace/Android/waffair/build.gradle" />
+      <jump line="15" column="39" filename="$USER_HOME$/workspace/Android/waffair/gradle.properties" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>isNetWorkConnected</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
