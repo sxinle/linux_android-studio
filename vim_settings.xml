@@ -325,6 +325,9 @@
         <mark key="^" line="2" column="119" />
         <mark key="." line="2" column="119" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/EaseCommonUtils.java" timestamp="1482730152636">
+        <mark key="'" line="58" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" timestamp="1482552408466">
         <mark key="'" line="309" column="12" />
         <mark key="[" line="82" column="28" />
@@ -359,6 +362,9 @@
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/src/com/hyphenate/litedemo/utils/EaseCommonUtils.java" timestamp="1482729967959">
+        <mark key="'" line="216" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/Application.java" timestamp="1482729238765">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="15" />
@@ -379,7 +385,7 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1482729594116">
+      <file name="/fragment.java" timestamp="1482730161165">
         <mark key="i" line="0" column="66" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -391,9 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="11" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/btn_alarm_normal.xml" />
-      <jump line="98" column="71" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="30" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
       <jump line="28" column="4" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
@@ -491,6 +494,9 @@
       <jump line="10" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/CustomApplication.java" />
       <jump line="28" column="25" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/CustomApplication.java" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="36" column="51" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/src/com/hyphenate/litedemo/utils/EaseCommonUtils.java" />
+      <jump line="216" column="0" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/src/com/hyphenate/litedemo/utils/EaseCommonUtils.java" />
+      <jump line="58" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/EaseCommonUtils.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
