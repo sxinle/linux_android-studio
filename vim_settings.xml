@@ -120,13 +120,6 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482570475424">
-        <mark key="'" line="42" column="17" />
-        <mark key="[" line="123" column="49" />
-        <mark key="]" line="123" column="50" />
-        <mark key="^" line="123" column="39" />
-        <mark key="." line="123" column="50" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482551580477">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="0" column="33" />
@@ -342,12 +335,6 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/menu.xml" timestamp="1482569914414">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="36" />
-        <mark key="^" line="4" column="51" />
-        <mark key="." line="11" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" timestamp="1482403355928">
         <mark key="'" line="33" column="12" />
         <mark key="[" line="76" column="0" />
@@ -543,7 +530,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
