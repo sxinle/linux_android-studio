@@ -80,7 +80,8 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482733850429">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482734725997">
+        <mark key="'" line="174" column="0" />
         <mark key="[" line="98" column="24" />
         <mark key="]" line="98" column="28" />
         <mark key="." line="98" column="28" />
@@ -324,8 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/Android/CircleLayout/app/src/main/java/ru/biovamp/widget/CircleLayout.java" />
-      <jump line="550" column="4" filename="$USER_HOME$/workspace/Android/CircleLayout/app/src/main/java/ru/biovamp/widget/CircleLayout.java" />
       <jump line="79" column="28" filename="$USER_HOME$/workspace/Android/example/app/src/main/res/layout/activity_main.xml" />
       <jump line="91" column="82" filename="$USER_HOME$/workspace/Android/CircleLayout/app/src/main/java/ru/biovamp/widget/CircleLayout.java" />
       <jump line="67" column="81" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
@@ -424,6 +423,8 @@
       <jump line="71" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="78" column="16" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="968" column="22" filename="/opt/android/Sdk/platforms/android-25/android.jar!/android/app/Activity.class" />
+      <jump line="90" column="11" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -473,7 +474,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
