@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[search_core] - .../search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java'" />
-    <option name="defaultScopeName" value="File '[search_core] - .../search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java'" />
-    <option name="SEARCH_SCOPE" value="File '[search_core] - .../search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
