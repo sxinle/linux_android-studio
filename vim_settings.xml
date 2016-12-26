@@ -80,12 +80,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482734725997">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="98" column="24" />
-        <mark key="]" line="98" column="28" />
-        <mark key="." line="98" column="28" />
-        <mark key="^" line="98" column="28" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482734888227">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="97" column="49" />
+        <mark key="]" line="98" column="29" />
+        <mark key="." line="98" column="29" />
+        <mark key="^" line="98" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/list_data_gather_item.xml" timestamp="1482477062484">
         <mark key="[" line="15" column="37" />
@@ -300,11 +300,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/pojo/LoginResp.java" timestamp="1482733340831">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/pojo/LoginResp.java" timestamp="1482734843093">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DbOpenHelper.java" timestamp="1482730936011">
         <mark key="'" line="50" column="3" />
@@ -325,9 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="28" filename="$USER_HOME$/workspace/Android/example/app/src/main/res/layout/activity_main.xml" />
-      <jump line="91" column="82" filename="$USER_HOME$/workspace/Android/CircleLayout/app/src/main/java/ru/biovamp/widget/CircleLayout.java" />
-      <jump line="67" column="81" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
       <jump line="271" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
       <jump line="553" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
       <jump line="269" column="25" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
@@ -425,6 +422,9 @@
       <jump line="968" column="22" filename="/opt/android/Sdk/platforms/android-25/android.jar!/android/app/Activity.class" />
       <jump line="90" column="11" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="174" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="7" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/pojo/LoginResp.java" />
+      <jump line="35" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/pojo/LoginResp.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/pojo/LoginResp.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -437,31 +437,31 @@
         <text encoding="base64">cGNsb2dpbi9tYWluL3VzZXJpbmZvP3BhZ2U9aW5kZXhfbmV3Jl89MTQ4MjczNDQzMDk2Nw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vc3kubnVvbWkuY29tL3BjbG9naW4vbWFpbi91c2VyaW5mbz9wYWdlPWluZGV4X25ldyZfPTE0ODI3MzQ0MzA5NjcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3AuZ2V0RGF0YSgpLmdldExvZ0luZm9FeHQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmJvZHkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50ICAgIGNvZGU7CiAgICBwcml2YXRlIFN0cmluZyBtc2c7CgogICAgcHVibGljIGludCBnZXRDb2RlKCkgewogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENvZGUoaW50IGNvZGUpIHsKICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TXNnKCkgewogICAgICAgIHJldHVybiBtc2c7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TXNnKFN0cmluZyBtc2cpIHsKICAgICAgICB0aGlzLm1zZyA9IG1zZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVzcG9uc2UoTG9naW5SZXNwIGNhbGwsIExvZ2luUmVzcCByZXNwb25zZSkgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vc3kubnVvbWkuY29tL3BjbG9naW4vbWFpbi91c2VyaW5mbz9wYWdlPWluZGV4X25ldyZfPTE0ODI3MzQ0MzA5NjcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtQ2xpZW50TG9naW4ocGQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmJvZHkoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGwuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVzcG9uc2UoTG9naW5SZXNwIGNhbGwsIExvZ2luUmVzcCByZXNwb25zZSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
