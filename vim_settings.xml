@@ -62,6 +62,9 @@
         <mark key="." line="20" column="108" />
         <mark key="^" line="20" column="108" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/em_strings.xml" timestamp="1482735492427">
+        <mark key="'" line="189" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DemoDBManager.java" timestamp="1482730988379">
         <mark key="'" line="133" column="8" />
         <mark key="[" line="15" column="0" />
@@ -80,7 +83,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482734888227">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482735302856">
         <mark key="'" line="175" column="0" />
         <mark key="[" line="97" column="49" />
         <mark key="]" line="98" column="29" />
@@ -120,8 +123,8 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh/em_strings.xml" timestamp="1482730206865">
-        <mark key="'" line="331" column="0" />
+      <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh/em_strings.xml" timestamp="1482735395025">
+        <mark key="'" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/AppApplication.java" timestamp="1482729275652">
         <mark key="[" line="8" column="27" />
@@ -144,6 +147,9 @@
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/widget/CircleLayout.java" timestamp="1482550074544">
         <mark key="'" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh-rCN/ease_strings.xml" timestamp="1482735513011">
+        <mark key="'" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/text_bg_gather_lime.xml" timestamp="1482476339229">
         <mark key="[" line="2" column="33" />
@@ -257,6 +263,9 @@
         <mark key="]" line="90" column="33" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/ease_strings.xml" timestamp="1482735499330">
+        <mark key="'" line="179" column="18" />
+      </file>
       <file name="/Dummy.txt" timestamp="1482570568576">
         <mark key="[" line="0" column="0" />
       </file>
@@ -325,15 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
-      <jump line="553" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
-      <jump line="269" column="25" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
-      <jump line="17" column="30" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/SplashActivity.java" />
-      <jump line="11" column="38" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="7" column="33" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
-      <jump line="250" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/Android/example/app/src/main/res/layout/activity_main.xml" />
       <jump line="31" column="31" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
       <jump line="53" column="17" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/CircleLayout.java" />
@@ -425,13 +425,22 @@
       <jump line="7" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/pojo/LoginResp.java" />
       <jump line="35" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/pojo/LoginResp.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/pojo/LoginResp.java" />
+      <jump line="21" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/em_strings.xml" />
+      <jump line="42" column="41" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh-rCN/ease_strings.xml" />
+      <jump line="60" column="18" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh/em_strings.xml" />
+      <jump line="12" column="44" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/em_strings.xml" />
+      <jump line="174" column="25" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/em_strings.xml" />
+      <jump line="21" column="46" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/ease_strings.xml" />
+      <jump line="189" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/em_strings.xml" />
+      <jump line="179" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/ease_strings.xml" />
+      <jump line="12" column="45" filename="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh-rCN/ease_strings.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>login/</text>
       </register>
       <register name="/" type="4">
-        <text>apikey</text>
+        <text encoding="base64">XDxmYWlsZWRfdG9fbW92ZV9pbnRvXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cGNsb2dpbi9tYWluL3VzZXJpbmZvP3BhZ2U9aW5kZXhfbmV3Jl89MTQ4MjczNDQzMDk2Nw==</text>
@@ -468,19 +477,16 @@
       </register>
     </registers>
     <search>
-      <last-search>apikey</last-search>
+      <last-search encoding="base64">XDxmYWlsZWRfdG9fbW92ZV9pbnRvXD4=</last-search>
       <last-offset />
-      <last-pattern>apikey</last-pattern>
+      <last-pattern encoding="base64">XDxmYWlsZWRfdG9fbW92ZV9pbnRvXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scale</entry>
-        <entry>a6</entry>
-        <entry>a7</entry>
         <entry>ListView</entry>
         <entry>Bind</entry>
         <entry>&quot;</entry>
@@ -498,6 +504,9 @@
         <entry>white</entry>
         <entry>prefix</entry>
         <entry>apikey</entry>
+        <entry>failed</entry>
+        <entry>failed_to_move</entry>
+        <entry encoding="base64">XDxmYWlsZWRfdG9fbW92ZV9pbnRvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy5wbmcvL2c=</entry>
