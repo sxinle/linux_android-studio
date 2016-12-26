@@ -19,6 +19,13 @@
         <mark key="^" line="38" column="78" />
         <mark key="." line="38" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/easeui/build.gradle" timestamp="1482750418030">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/HXDBManager.java" timestamp="1482743112782">
         <mark key="'" line="315" column="0" />
       </file>
@@ -28,6 +35,9 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/easeui/LICENSE" timestamp="1482750665583">
+        <mark key="'" line="201" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/colors.xml" timestamp="1482474464524">
         <mark key="[" line="16" column="17" />
@@ -80,11 +90,6 @@
         <mark key="]" line="15" column="19" />
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DBOpenHelper.java" timestamp="1482742532735">
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/src/com/hyphenate/litedemo/db/InviteMessage.java" timestamp="1482730589476">
         <mark key="'" line="33" column="0" />
@@ -327,12 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="41" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
-      <jump line="48" column="32" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
-      <jump line="65" column="33" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
-      <jump line="123" column="31" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
-      <jump line="42" column="17" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Api.java" />
       <jump line="18" column="29" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Api.java" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Api.java" />
@@ -427,6 +426,12 @@
       <jump line="163" column="45" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="46" column="35" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="187" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/Android/easeui/build.gradle" />
+      <jump line="15" column="38" filename="$USER_HOME$/workspace/Android/easeui/build.gradle" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/Android/easeui/build.gradle" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/Android/easeui/build.gradle" />
+      <jump line="19" column="31" filename="$USER_HOME$/workspace/Android/easeui/LICENSE" />
+      <jump line="201" column="0" filename="$USER_HOME$/workspace/Android/easeui/LICENSE" />
     </jumps>
     <registers>
       <register name="-" type="4">
