@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enqueue" />
       <item value="overlap" />
       <item value="interval" />
       <item value="间隔" />
