@@ -9,29 +9,8 @@
       <file name="/a.dummy" timestamp="1482756144090">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DBHelper.java" timestamp="1482743044706">
-        <mark key="'" line="32" column="52" />
-        <mark key="[" line="38" column="66" />
-        <mark key="]" line="38" column="78" />
-        <mark key="^" line="38" column="78" />
-        <mark key="." line="38" column="78" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/easeui/build.gradle" timestamp="1482752121624">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/HXDBManager.java" timestamp="1482743112782">
         <mark key="'" line="315" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Api.java" timestamp="1482733895821">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/Android/easeui/LICENSE" timestamp="1482750665583">
         <mark key="'" line="201" column="0" />
@@ -96,7 +75,7 @@
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/simpledemo/src/com/hyphenate/easeuisimpledemo/ui/MainActivity.java" timestamp="1482755889230">
         <mark key="'" line="47" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482805454992">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482817497373">
         <mark key="'" line="132" column="0" />
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
@@ -114,20 +93,6 @@
       </file>
       <file name="$USER_HOME$/Downloads/huanxin/hx/examples/ChatDemoUI3.0/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar!/android/support/multidex/MultiDex.class" timestamp="1482729174270">
         <mark key="'" line="32" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/build.gradle" timestamp="1482753940361">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/ChatActivity.java" timestamp="1482755235923">
-        <mark key="'" line="30" column="25" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/text_bg_gather_grey_corner.xml" timestamp="1482473565481">
         <mark key="[" line="3" column="29" />
@@ -153,6 +118,7 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/AutoRelativeLayout.java" timestamp="1482817559228" />
       <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/res/values-zh-rCN/ease_strings.xml" timestamp="1482735513011">
         <mark key="'" line="12" column="45" />
       </file>
@@ -202,20 +168,6 @@
       <file name="$USER_HOME$/workspace/Android/example/app/src/main/java/ru/biovamp/circlelayoutexample/MainActivity.java" timestamp="1482551971144">
         <mark key="'" line="40" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/MyApplication.java" timestamp="1482745533443">
-        <mark key="'" line="187" column="38" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="49" column="5" />
-        <mark key="." line="46" column="4" />
-        <mark key="^" line="46" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" timestamp="1482746321785">
-        <mark key="'" line="13" column="15" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/text_bg_gather_lime_corner.xml" timestamp="1482476530406">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="29" />
@@ -249,13 +201,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DbOpenHelper.java" timestamp="1482730936011">
-        <mark key="'" line="50" column="3" />
-        <mark key="[" line="55" column="16" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="17" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/utils/ScreenUtils.java" timestamp="1482817076596">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="87" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/EUISettingFrag.java" timestamp="1482801022466" />
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexView.java" timestamp="1482390266614">
         <mark key="[" line="6" column="22" />
       </file>
@@ -294,18 +244,12 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/em_strings.xml" timestamp="1482735492427">
         <mark key="'" line="189" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" timestamp="1482809892058">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" timestamp="1482817407937">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="8" column="50" />
         <mark key="]" line="8" column="50" />
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_main.xml" timestamp="1482756280026">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="40" column="46" />
-        <mark key="." line="40" column="46" />
-        <mark key="^" line="40" column="66" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
@@ -355,12 +299,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_widget_title_bar.xml" timestamp="1482810268506">
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_widget_title_bar.xml" timestamp="1482817624674">
         <mark key="'" line="31" column="20" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="41" />
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/entity/Station.java" timestamp="1482471884622">
         <mark key="[" line="2" column="3" />
@@ -421,13 +365,6 @@
         <mark key="^" line="2" column="119" />
         <mark key="." line="2" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/CustomApplication.java" timestamp="1482729389856">
-        <mark key="'" line="28" column="25" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="31" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/values/ease_dimens.xml" timestamp="1482810040338">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="37" />
@@ -445,8 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
       <jump line="172" column="38" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/MyApplication.java" />
       <jump line="13" column="15" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
@@ -545,16 +480,18 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/easeui/build.gradle" />
       <jump line="78" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/AutoLinearLayout.java" />
+      <jump line="19" column="45" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>AutoRelativeLayout</text>
+        <text>dip</text>
       </register>
       <register name="/" type="4">
         <text>768</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS56aHk6YXV0b2xheW91dDoxLjQuNScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpc3BsYXkuY2xhc3MuZ2V0TWV0aG9kKCJnZXRSZWFsU2l6ZSIsIFBvaW50LmNsYXNzKS5pbnZva2UoZCwgcmVhbFNpemUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDppZD0iQCtpZC9sZWZ0X2ltYWdlIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMTQwZHAiCiAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzBkcCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVJpZ2h0PSJAZHJhd2FibGUvYmFjayIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCiAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxMGRwIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSItNTBkcCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnRuX2JhY2siLz4K</text>
