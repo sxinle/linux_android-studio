@@ -347,11 +347,11 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/title_bar.xml" timestamp="1482809990411">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="45" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/title_bar.xml" timestamp="1482818432369">
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="15" column="51" />
+        <mark key="." line="15" column="51" />
+        <mark key="^" line="15" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/ease_strings.xml" timestamp="1482735499330">
         <mark key="'" line="179" column="18" />
@@ -485,7 +485,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dip</text>
+        <text>btn_back</text>
       </register>
       <register name="/" type="4">
         <text>768</text>
