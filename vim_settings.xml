@@ -75,8 +75,8 @@
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/simpledemo/src/com/hyphenate/easeuisimpledemo/ui/MainActivity.java" timestamp="1482755889230">
         <mark key="'" line="47" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482824433324">
-        <mark key="'" line="150" column="61" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482824908111">
+        <mark key="'" line="142" column="19" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
@@ -400,7 +400,7 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/ease_strings.xml" timestamp="1482735499330">
         <mark key="'" line="179" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482818502088">
+      <file name="/Dummy.txt" timestamp="1482824691007">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/btn_alarm_bg.xml" timestamp="1482401887169">
@@ -522,17 +522,17 @@
       <jump line="126" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="84" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="80" column="73" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
-      <jump line="142" column="73" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="31" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="161" column="61" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/libs/svg-android-1.1.jar!/com/larvalabs/svgandroid/SVGParser.class" />
+      <jump line="142" column="19" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">ICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcmF3YWJsZUlkc1w+</text>
+        <text>svg</text>
       </register>
       <register name="0" type="4">
         <text>VectorDrawableCompat</text>
@@ -569,9 +569,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkcmF3YWJsZUlkc1w+</last-search>
+      <last-search>svg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcmF3YWJsZUlkc1w+</last-pattern>
+      <last-pattern>svg</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -579,7 +579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apikey</entry>
         <entry>failed</entry>
         <entry>failed_to_move</entry>
         <entry encoding="base64">XDxmYWlsZWRfdG9fbW92ZV9pbnRvXD4=</entry>
@@ -599,6 +598,7 @@
         <entry>title</entry>
         <entry>768</entry>
         <entry encoding="base64">XDxkcmF3YWJsZUlkc1w+</entry>
+        <entry>svg</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy5naWYvL2c=</entry>
