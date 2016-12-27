@@ -75,6 +75,12 @@
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/simpledemo/src/com/hyphenate/easeuisimpledemo/ui/MainActivity.java" timestamp="1482755889230">
         <mark key="'" line="47" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482821303573">
+        <mark key="'" line="84" column="28" />
+        <mark key="[" line="83" column="31" />
+        <mark key="]" line="83" column="32" />
+        <mark key="." line="83" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482818939328">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="134" column="53" />
@@ -382,7 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="38" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/MyApplication.java" />
       <jump line="13" column="15" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="125" column="55" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
@@ -482,10 +487,11 @@
       <jump line="19" column="45" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="84" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>EUIMainActivity</text>
+        <text>R.drawable.gzcl</text>
       </register>
       <register name="/" type="4">
         <text>768</text>
@@ -494,31 +500,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIERpc3BsYXkuY2xhc3MuZ2V0TWV0aG9kKCJnZXRSZWFsU2l6ZSIsIFBvaW50LmNsYXNzKS5pbnZva2UoZCwgcmVhbFNpemUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDppZD0iQCtpZC9sZWZ0X2ltYWdlIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMTQwZHAiCiAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzBkcCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVJpZ2h0PSJAZHJhd2FibGUvYmFjayIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCiAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxMGRwIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSItNTBkcCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnRuX2JhY2siLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYXdQaWN0dXJlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJhd2FibGUuaW5mbGF0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPEltYWdlVmlldy0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9sZWZ0X2ltYWdlIi0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiLS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVySW5zaWRlIiAvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYXcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9lYXNlX2NvbW1vbl90YWJfYmciCg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDppZD0iQCtpZC9sZWZ0X2ltYWdlIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMTQwZHAiCiAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzBkcCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVJpZ2h0PSJAZHJhd2FibGUvYmFjayIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCiAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxMGRwIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSItNTBkcCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnRuX2JhY2siLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPEltYWdlVmlldy0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9sZWZ0X2ltYWdlIi0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiLS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVySW5zaWRlIiAvPi0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJoZWlnaHRfdG9wX2JhciI+MTIwcHg8L2RpbWVuPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9lYXNlX2NvbW1vbl90YWJfYmciCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -557,7 +563,6 @@
         <entry>768</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLy5wbmcvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy5naWYvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzU2XC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzU2XC8v</entry>
@@ -576,6 +581,7 @@
         <entry encoding="base64">JzwsJz5zLyIvXFxcXCIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>reg</entry>
+        <entry>se wra</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
