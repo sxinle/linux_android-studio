@@ -124,12 +124,11 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482829434836">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482831257330">
         <mark key="'" line="157" column="19" />
-        <mark key="[" line="160" column="30" />
-        <mark key="]" line="160" column="38" />
-        <mark key="." line="160" column="38" />
-        <mark key="^" line="160" column="38" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/drawable/btn_normal.xml" timestamp="1482801620123">
         <mark key="[" line="4" column="34" />
@@ -538,31 +537,31 @@
         <text>VectorDrawableCompat</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKGkgPT0gMCkgewogICAgICAgICAgICAvLyAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0clcpOwogICAgICAgICAgICAvLyAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09Pmk6ICIgKyBpICsgIiAgIHgiICsgKChmbG9hdCkgeCAtIHN0clcgLyAyZikgKyAiICAgeSIgKyAoKGZsb2F0KSB5ICsgYml0bWFwLmdldEhlaWdodCgpIC8gMS41ZikpOwogICAgICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKGkgPT0gMCkgewogICAgICAgICAgICAvLyAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0clcpOwogICAgICAgICAgICAvLyAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09Pmk6ICIgKyBpICsgIiAgIHgiICsgKChmbG9hdCkgeCAtIHN0clcgLyAyZikgKyAiICAgeSIgKyAoKGZsb2F0KSB5ICsgYml0bWFwLmdldEhlaWdodCgpIC8gMS41ZikpOwogICAgICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYml0bWFwLnNldERlbnNpdHkoZ2V0UmVzb3VyY2VzKCkuZ2V0RGlzcGxheU1ldHJpY3MoKS5kZW5zaXR5RHBpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yRHJhd2FibGUgdiA9IG5ldyBWZWN0b3JEcmF3YWJsZSgpOwogICAgICAgICAgICB2LmNyZWF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYml0bWFwLnNldERlbnNpdHkoZ2V0UmVzb3VyY2VzKCkuZ2V0RGlzcGxheU1ldHJpY3MoKS5kZW5zaXR5RHBpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yRHJhd2FibGVDb21wYXQuY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yRHJhd2FibGUgdiA9IG5ldyBWZWN0b3JEcmF3YWJsZSgpOwogICAgICAgICAgICB2LmNyZWF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yRHJhd2FibGVDb21wYXQuY3JlYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
