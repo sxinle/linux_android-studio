@@ -124,11 +124,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482832412578">
-        <mark key="'" line="157" column="19" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482837822082">
+        <mark key="'" line="201" column="62" />
+        <mark key="[" line="201" column="109" />
+        <mark key="]" line="201" column="110" />
+        <mark key="." line="201" column="110" />
+        <mark key="^" line="201" column="109" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/drawable/btn_normal.xml" timestamp="1482801620123">
         <mark key="[" line="4" column="34" />
@@ -423,13 +424,11 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RoundMenuView.java" timestamp="1482564543226">
         <mark key="[" line="12" column="26" />
       </file>
+      <file name="/fragment.java" timestamp="1482836856776">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="101" column="48" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="163" column="45" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="46" column="35" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="187" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/Android/easeui/build.gradle" />
       <jump line="15" column="38" filename="$USER_HOME$/workspace/Android/easeui/build.gradle" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/Android/easeui/build.gradle" />
@@ -525,13 +524,18 @@
       <jump line="161" column="61" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/libs/svg-android-1.1.jar!/com/larvalabs/svgandroid/SVGParser.class" />
       <jump line="142" column="19" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="202" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="78" column="88" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="90" column="49" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="199" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="201" column="62" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>bitmap</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>svg</text>
+        <text>userSel</text>
       </register>
       <register name="0" type="4">
         <text>VectorDrawableCompat</text>
@@ -568,19 +572,16 @@
       </register>
     </registers>
     <search>
-      <last-search>svg</last-search>
+      <last-search>userSel</last-search>
       <last-offset />
-      <last-pattern>svg</last-pattern>
+      <last-pattern>userSel</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>failed</entry>
-        <entry>failed_to_move</entry>
-        <entry encoding="base64">XDxmYWlsZWRfdG9fbW92ZV9pbnRvXD4=</entry>
         <entry>Service</entry>
         <entry>compile</entry>
         <entry>support</entry>
@@ -598,6 +599,9 @@
         <entry>768</entry>
         <entry encoding="base64">XDxkcmF3YWJsZUlkc1w+</entry>
         <entry>svg</entry>
+        <entry>useSel</entry>
+        <entry>120</entry>
+        <entry>userSel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy5naWYvL2c=</entry>
