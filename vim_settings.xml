@@ -33,6 +33,9 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/HXDBManager.java" timestamp="1482743112782">
         <mark key="'" line="315" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/widget/EaseTitleBar.java" timestamp="1482801152956">
+        <mark key="'" line="43" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Api.java" timestamp="1482733895821">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="14" column="20" />
@@ -252,6 +255,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_widget_title_bar.xml" timestamp="1482801206344">
+        <mark key="'" line="36" column="43" />
+      </file>
       <file name="/Python Console" timestamp="1481090050461">
         <mark key="[" line="0" column="0" />
       </file>
@@ -335,7 +341,7 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/ease_strings.xml" timestamp="1482735499330">
         <mark key="'" line="179" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482801033056">
+      <file name="/Dummy.txt" timestamp="1482801058624">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/btn_alarm_bg.xml" timestamp="1482401887169">
@@ -391,8 +397,6 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/EUISettingFrag.java" timestamp="1482801022466" />
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/InviteMessgeDao.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/domain/EaseUser.java" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/domain/EaseUser.java" />
       <jump line="50" column="3" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DbOpenHelper.java" />
       <jump line="133" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/db/DemoDBManager.java" />
@@ -491,13 +495,15 @@
       <jump line="110" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="130" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="40" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="43" column="8" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/widget/EaseTitleBar.java" />
+      <jump line="36" column="43" filename="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_widget_title_bar.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>ChatActivity</text>
       </register>
       <register name="/" type="4">
-        <text>appkey</text>
+        <text>left</text>
       </register>
       <register name="0" type="4">
         <text>1141161222115727#waffair</text>
@@ -534,9 +540,9 @@
       </register>
     </registers>
     <search>
-      <last-search>appkey</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>appkey</last-pattern>
+      <last-pattern>left</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -544,8 +550,6 @@
     </search>
     <history>
       <history-search>
-        <entry>green</entry>
-        <entry>blue</entry>
         <entry encoding="base64">XDxHUkVFTlw+</entry>
         <entry>Grey</entry>
         <entry>gray</entry>
@@ -564,6 +568,8 @@
         <entry>extra</entry>
         <entry encoding="base64">XDxwcm9ncmVzc1Nob3dcPg==</entry>
         <entry>appkey</entry>
+        <entry encoding="base64">XDxsZWZ0SW1hZ2VcPg==</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy5wbmcvL2c=</entry>
