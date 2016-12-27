@@ -75,12 +75,12 @@
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/simpledemo/src/com/hyphenate/easeuisimpledemo/ui/MainActivity.java" timestamp="1482755889230">
         <mark key="'" line="47" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482818512597">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="104" column="19" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482818939328">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="134" column="53" />
+        <mark key="]" line="134" column="65" />
+        <mark key="^" line="134" column="65" />
+        <mark key="." line="134" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/gradle.properties" timestamp="1482753944857">
         <mark key="'" line="15" column="39" />
@@ -382,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
       <jump line="172" column="38" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/MyApplication.java" />
       <jump line="13" column="15" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
@@ -482,10 +481,11 @@
       <jump line="78" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/AutoLinearLayout.java" />
       <jump line="19" column="45" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" />
+      <jump line="126" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>btn_back</text>
+        <text>EUIMainActivity</text>
       </register>
       <register name="/" type="4">
         <text>768</text>
