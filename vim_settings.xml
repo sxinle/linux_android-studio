@@ -75,11 +75,11 @@
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/simpledemo/src/com/hyphenate/easeuisimpledemo/ui/MainActivity.java" timestamp="1482755889230">
         <mark key="'" line="47" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482821303573">
-        <mark key="'" line="84" column="28" />
-        <mark key="[" line="83" column="31" />
-        <mark key="]" line="83" column="32" />
-        <mark key="." line="83" column="32" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482824433324">
+        <mark key="'" line="150" column="61" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482818939328">
         <mark key="'" line="126" column="0" />
@@ -96,6 +96,11 @@
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/raw/gzcl.svg" timestamp="1482824459254">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
       </file>
       <file name="$USER_HOME$/Downloads/huanxin/hx/examples/ChatDemoUI3.0/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar!/android/support/multidex/MultiDex.class" timestamp="1482729174270">
         <mark key="'" line="32" column="19" />
@@ -180,6 +185,9 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/libs/svg-android-1.1.jar!/com/larvalabs/svgandroid/SVGParser.class" timestamp="1482823367298">
+        <mark key="'" line="39" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/easeui/src/com/easemob/easeui/model/EaseImageCache.java" timestamp="1482752761158">
         <mark key="'" line="39" column="15" />
       </file>
@@ -194,6 +202,11 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_login.xml" timestamp="1482747918516">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/easeui/src/com/easemob/easeui/domain/EaseEmojicon.java" timestamp="1482752770556">
         <mark key="'" line="17" column="6" />
@@ -266,6 +279,11 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/ContactsActivity.java" timestamp="1482756116312">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/list_data_gather_item.xml" timestamp="1482477062484">
         <mark key="[" line="15" column="37" />
         <mark key="]" line="15" column="43" />
@@ -280,6 +298,16 @@
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/build/generated/source/r/debug/com/hyphenate/easeui/R.java" timestamp="1482802965547">
         <mark key="'" line="557" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/AppApplication.java" timestamp="1482729275652">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="23" column="5" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/EaseDemoLite-master/AndroidManifest.xml" timestamp="1482730854573">
+        <mark key="[" line="89" column="27" />
+        <mark key="]" line="89" column="51" />
+        <mark key="." line="89" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/CursorWheelLayout.java" timestamp="1482393903838">
         <mark key="[" line="0" column="31" />
@@ -338,6 +366,11 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/simpledemo/res/layout/activity_chat.xml" timestamp="1482753552566">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/res/layout/activity_main.xml" timestamp="1482394388947">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="44" column="9" />
@@ -358,6 +391,11 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
         <mark key="^" line="15" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values-zh/em_strings.xml" timestamp="1482745984238">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/ease_strings.xml" timestamp="1482735499330">
         <mark key="'" line="179" column="18" />
@@ -388,11 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="15" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="125" column="55" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="35" column="25" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="97" column="31" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="22" column="25" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="101" column="48" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="163" column="45" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
@@ -488,52 +521,57 @@
       <jump line="54" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/chat/view/ChatActivity.java" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="84" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="80" column="73" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="142" column="73" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="31" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="161" column="61" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="39" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/libs/svg-android-1.1.jar!/com/larvalabs/svgandroid/SVGParser.class" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>R.drawable.gzcl</text>
+        <text encoding="base64">ICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQi</text>
       </register>
       <register name="/" type="4">
-        <text>768</text>
+        <text encoding="base64">XDxkcmF3YWJsZUlkc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERpc3BsYXkuY2xhc3MuZ2V0TWV0aG9kKCJnZXRSZWFsU2l6ZSIsIFBvaW50LmNsYXNzKS5pbnZva2UoZCwgcmVhbFNpemUpOwo=</text>
+      <register name="0" type="4">
+        <text>VectorDrawableCompat</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYXdQaWN0dXJlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yRHJhd2FibGUgdiA9IG5ldyBWZWN0b3JEcmF3YWJsZSgpOwogICAgICAgICAgICB2LmNyZWF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJhd2FibGUuaW5mbGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yRHJhd2FibGVDb21wYXQuY3JlYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDppZD0iQCtpZC9sZWZ0X2ltYWdlIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMTQwZHAiCiAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzBkcCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVJpZ2h0PSJAZHJhd2FibGUvYmFjayIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCiAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxMGRwIgogICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSItNTBkcCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnRuX2JhY2siLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPEltYWdlVmlldy0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9sZWZ0X2ltYWdlIi0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiLS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVySW5zaWRlIiAvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgbGVmdCA9IG1lbnVTaXplIC0gdXNlclNlbC5nZXRXaWR0aCgpIC8gMjsKICAgICAgICAgICAgZmxvYXQgdG9wID0gbWVudVNpemUgLSB1c2VyU2VsLmdldEhlaWdodCgpIC8gMjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9lYXNlX2NvbW1vbl90YWJfYmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgbGVmdCA9IG1lbnVTaXplIC0gdXNlclNlbC5nZXRXaWR0aCgpIC8gMjsKICAgICAgICAgICAgZmxvYXQgdG9wID0gbWVudVNpemUgLSB1c2VyU2VsLmdldEhlaWdodCgpIC8gMjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYXdQaWN0dXJlKHBpY3R1cmUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGljdHVyZSBwaWN0dXJlID0gc3ZnLmdldFBpY3R1cmUoKTsKICAgICAgICAgICAgLy8gY2FudmFzLmRyYXdQaWN0dXJlKHBpY3R1cmUsIG5ldyBSZWN0RihsZWZ0LCBsZWZ0LCB0b3AsIHRvcCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>768</last-search>
+      <last-search encoding="base64">XDxkcmF3YWJsZUlkc1w+</last-search>
       <last-offset />
-      <last-pattern>768</last-pattern>
+      <last-pattern encoding="base64">XDxkcmF3YWJsZUlkc1w+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -541,7 +579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prefix</entry>
         <entry>apikey</entry>
         <entry>failed</entry>
         <entry>failed_to_move</entry>
@@ -561,6 +598,7 @@
         <entry encoding="base64">XDxsZWZ0SW1hZ2VcPg==</entry>
         <entry>title</entry>
         <entry>768</entry>
+        <entry encoding="base64">XDxkcmF3YWJsZUlkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy5naWYvL2c=</entry>
