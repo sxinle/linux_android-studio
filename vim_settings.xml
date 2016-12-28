@@ -230,11 +230,11 @@
         <mark key="^" line="25" column="96" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1482910128448">
-        <mark key="'" line="141" column="31" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1482912602442">
+        <mark key="'" line="174" column="20" />
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="69" />
-        <mark key="." line="42" column="69" />
+        <mark key="." line="440" column="48" />
         <mark key="^" line="42" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/GroupPickContactsActivity.java" timestamp="1482909389105">
@@ -581,12 +581,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1482909862732">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="23" column="46" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="3" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1482912623239">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/huanxin/examples/ChatDemoUI3.0/settings.gradle" timestamp="1482891573571">
         <mark key="'" line="5" column="0" />
@@ -874,8 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
-      <jump line="161" column="61" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/libs/svg-android-1.1.jar!/com/larvalabs/svgandroid/SVGParser.class" />
       <jump line="142" column="19" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="202" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
@@ -974,16 +972,18 @@
       <jump line="22" column="11" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/widget/ContactItemView.java" />
       <jump line="28" column="74" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/widget/ContactItemView.java" />
       <jump line="1985" column="4" filename="/opt/android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.1.0/support-fragment-25.1.0-sources.jar!/android/support/v4/app/FragmentManager.java" />
+      <jump line="42" column="66" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="174" column="20" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>ContactItemView</text>
       </register>
       <register name="/" type="4">
-        <text>contact</text>
+        <text>appkey</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb20uaHlwaGVuYXRlLmNoYXR1aWRlbW8ud2lkZ2V0LkNvbnRhY3RJdGVtVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBFTU9wdGlvbnMgb3B0aW9ucyA9IG5ldyBFTU9wdGlvbnMoKTsKICAgICAgICAvLyDpu5jorqTmt7vliqDlpb3lj4vml7bvvIzmmK/kuI3pnIDopoHpqozor4HnmoTvvIzmlLnmiJDpnIDopoHpqozor4EKICAgICAgICAvLyBvcHRpb25zLnNldEFjY2VwdEludml0YXRpb25BbHdheXMoZmFsc2UpOwogICAgICAgIC8vIG9wdGlvbnMuc2V0QXBwS2V5KCIxMTQxMTYxMjIyMTE1NzI3I3dhZmZhaXIiKTsKICAgICAgICAvLyBFYXNlVUkuZ2V0SW5zdGFuY2UoKS5pbml0KHRoaXMsIG9wdGlvbnMpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxDb250YWN0SXRlbVZpZXcK</text>
@@ -1017,9 +1017,9 @@
       </register>
     </registers>
     <search>
-      <last-search>contact</last-search>
+      <last-search>appkey</last-search>
       <last-offset />
-      <last-pattern>contact</last-pattern>
+      <last-pattern>appkey</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1027,8 +1027,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aXRsZVZpZXdcPg==</entry>
-        <entry encoding="base64">XDxsZWZ0SW1hZ2VcPg==</entry>
         <entry>title</entry>
         <entry>768</entry>
         <entry encoding="base64">XDxkcmF3YWJsZUlkc1w+</entry>
@@ -1047,6 +1045,8 @@
         <entry encoding="base64">XDxCdWlsZENvbmZpZ1w+</entry>
         <entry>MainA</entry>
         <entry>contact</entry>
+        <entry>key</entry>
+        <entry>appkey</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzU2XC8vZw==</entry>
