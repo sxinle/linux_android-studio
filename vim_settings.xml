@@ -384,6 +384,11 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/redpacketlibrary/build.gradle" timestamp="1482896509792">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/huanxin/examples/ChatDemoUI3.0/ChatDemoUI3.0.iml" timestamp="1482891326614">
         <mark key="'" line="28" column="33" />
         <mark key="[" line="109" column="0" />
@@ -429,7 +434,6 @@
         <mark key="." line="47" column="27" />
         <mark key="^" line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/Downloads/huanxin/examples/ChatDemoUI3.0/redpacketlibrary/build/intermediates/bundles/debug/res/layout/em_row_received_transfer.xml" timestamp="1482892036221" />
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values-zh/em_strings.xml" timestamp="1482745984238">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -588,28 +592,28 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmVhc2V1aScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9Im1vZHVsZSIgbW9kdWxlLW5hbWU9IkVhc2VVSSIgZXhwb3J0ZWQ9IiIgLz4K</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmVhc2V1aScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOkVhc2VVSScpCg==</text>
+        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9Im1vZHVsZSIgbW9kdWxlLW5hbWU9IkVhc2VVSSIgZXhwb3J0ZWQ9IiIgLz4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOkVhc2VVSScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9Im1vZHVsZSIgbW9kdWxlLW5hbWU9IkVhc2VVSSIgZXhwb3J0ZWQ9IiIgLz4K</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOkVhc2VVSScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSAKICAgQ29weXJpZ2h0IChjKSAyMDEzIFRoZSBDQ1AgcHJvamVjdCBhdXRob3JzLiBBbGwgUmlnaHRzIFJlc2VydmVkLgogCiAgIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIGJ5IGEgQmVpamluZyBTcGVlZHRvbmcgSW5mb3JtYXRpb24gVGVjaG5vbG9neSBDby4sTHRkIGxpY2Vuc2UKICAgdGhhdCBjYW4gYmUgZm91bmQgaW4gdGhlIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBvZiB0aGUgd2ViIHNpdGUuCiAKICAgIAkJCQlodHRwOi8vd3d3LmNsb29wZW4uY29tCiAKICAgQW4gYWRkaXRpb25hbCBpbnRlbGxlY3R1YWwgcHJvcGVydHkgcmlnaHRzIGdyYW50IGNhbiBiZSBmb3VuZAogICBpbiB0aGUgZmlsZSBQQVRFTlRTLiAgQWxsIGNvbnRyaWJ1dGluZyBwcm9qZWN0IGF1dGhvcnMgbWF5CiAgIGJlIGZvdW5kIGluIHRoZSBBVVRIT1JTIGZpbGUgaW4gdGhlIHJvb3Qgb2YgdGhlIHNvdXJjZSB0cmVlLgogLS0+Cg==</text>
+        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9Im1vZHVsZSIgbW9kdWxlLW5hbWU9IkVhc2VVSSIgZXhwb3J0ZWQ9IiIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2NhbGVYPSIwLjgiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlWT0iMC44Igo=</text>
+        <text encoding="base64">PCEtLSAKICAgQ29weXJpZ2h0IChjKSAyMDEzIFRoZSBDQ1AgcHJvamVjdCBhdXRob3JzLiBBbGwgUmlnaHRzIFJlc2VydmVkLgogCiAgIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIGJ5IGEgQmVpamluZyBTcGVlZHRvbmcgSW5mb3JtYXRpb24gVGVjaG5vbG9neSBDby4sTHRkIGxpY2Vuc2UKICAgdGhhdCBjYW4gYmUgZm91bmQgaW4gdGhlIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBvZiB0aGUgd2ViIHNpdGUuCiAKICAgIAkJCQlodHRwOi8vd3d3LmNsb29wZW4uY29tCiAKICAgQW4gYWRkaXRpb25hbCBpbnRlbGxlY3R1YWwgcHJvcGVydHkgcmlnaHRzIGdyYW50IGNhbiBiZSBmb3VuZAogICBpbiB0aGUgZmlsZSBQQVRFTlRTLiAgQWxsIGNvbnRyaWJ1dGluZyBwcm9qZWN0IGF1dGhvcnMgbWF5CiAgIGJlIGZvdW5kIGluIHRoZSBBVVRIT1JTIGZpbGUgaW4gdGhlIHJvb3Qgb2YgdGhlIHNvdXJjZSB0cmVlLgogLS0+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2NhbGVYPSIwLjgiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlWT0iMC44Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2NhbGVYPSIwLjgiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlWT0iMC44Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -622,7 +626,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
