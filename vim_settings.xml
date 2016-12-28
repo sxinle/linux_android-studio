@@ -410,8 +410,8 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/.gitignore" timestamp="1482753937469">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/ChatDemoUI3.0/build.gradle" timestamp="1482913731399">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/workspace/Android/ChatDemoUI3.0/build.gradle" timestamp="1482917082337">
+        <mark key="'" line="19" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -622,7 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="33" filename="$USER_HOME$/Downloads/huanxin/examples/ChatDemoUI3.0/ChatDemoUI3.0.iml" />
       <jump line="28" column="33" filename="$USER_HOME$/Downloads/huanxin/examples/ChatDemoUI3.0/ChatDemoUI3.0.iml" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/huanxin/examples/ChatDemoUI3.0/sdkdemoapp3.0_android.iml" />
       <jump line="84" column="52" filename="$USER_HOME$/Downloads/huanxin/examples/ChatDemoUI3.0/sdkdemoapp3.0_android.iml" />
@@ -722,6 +721,7 @@
       <jump line="192" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" />
       <jump line="194" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" />
       <jump line="63" column="32" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" />
+      <jump line="19" column="8" filename="$USER_HOME$/workspace/Android/ChatDemoUI3.0/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
