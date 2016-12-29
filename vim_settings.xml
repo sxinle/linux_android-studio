@@ -504,7 +504,7 @@
         <text>setTextAlignment();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50UGFzc3dvcmRcPg==</text>
+        <text>share</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJ0ZXh0UGFzc3dvcmQiCg==</text>
@@ -541,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50UGFzc3dvcmRcPg==</last-search>
+      <last-search>share</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50UGFzc3dvcmRcPg==</last-pattern>
+      <last-pattern>share</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -551,8 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buildconfig</entry>
-        <entry encoding="base64">XDxCdWlsZENvbmZpZ1w+</entry>
         <entry>MainA</entry>
         <entry>contact</entry>
         <entry>key</entry>
@@ -571,6 +569,8 @@
         <entry encoding="base64">XDxTaGFyZWRQcmVmZXJlbmNlc1w+</entry>
         <entry encoding="base64">XDxtU2hhcmVkUHJlZmVyZW5jZXNcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50UGFzc3dvcmRcPg==</entry>
+        <entry>pera</entry>
+        <entry>share</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzU2XC8vZw==</entry>
