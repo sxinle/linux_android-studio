@@ -233,12 +233,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1482995238587">
-        <mark key="'" line="31" column="28" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="15" column="42" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1482995372054">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="36" column="110" />
+        <mark key="]" line="36" column="111" />
+        <mark key="." line="36" column="111" />
+        <mark key="^" line="36" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/Android/example/app/src/main/java/ru/biovamp/circlelayoutexample/MainActivity.java" timestamp="1482551971144">
         <mark key="'" line="40" column="54" />
@@ -618,7 +618,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482995199853">
+      <file name="/Dummy.txt" timestamp="1482995338529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/btn_alarm_bg.xml" timestamp="1482401887169">
@@ -660,8 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/DemoApplication.java" />
-      <jump line="58" column="40" filename="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/domain/EmojiconExampleGroupData.java" />
       <jump line="59" column="30" filename="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/domain/EmojiconExampleGroupData.java" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/DemoApplication.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/DemoApplication.java" />
@@ -760,6 +758,8 @@
       <jump line="25" column="44" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/utils/PreferenceManager.java" />
       <jump line="68" column="11" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/utils/PreferenceManager.java" />
       <jump line="69" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/utils/PreferenceManager.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
