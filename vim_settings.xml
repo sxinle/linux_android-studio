@@ -233,11 +233,11 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1482916370871">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="15" column="65" />
-        <mark key="." line="15" column="41" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1482995238587">
+        <mark key="'" line="31" column="28" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/Android/example/app/src/main/java/ru/biovamp/circlelayoutexample/MainActivity.java" timestamp="1482551971144">
@@ -524,8 +524,8 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/utils/PreferenceManager.java" timestamp="1482990093969">
-        <mark key="'" line="376" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/utils/PreferenceManager.java" timestamp="1482995308110">
+        <mark key="'" line="69" column="12" />
         <mark key="[" line="139" column="15" />
         <mark key="]" line="139" column="32" />
       </file>
@@ -618,7 +618,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482990206042">
+      <file name="/Dummy.txt" timestamp="1482995199853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/btn_alarm_bg.xml" timestamp="1482401887169">
@@ -660,10 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="41" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
-      <jump line="38" column="45" filename="$USER_HOME$/workspace/Android/ChatDemoUI3.0/AndroidManifest.xml" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/DemoApplication.java" />
       <jump line="58" column="40" filename="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/domain/EmojiconExampleGroupData.java" />
       <jump line="59" column="30" filename="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/domain/EmojiconExampleGroupData.java" />
@@ -760,54 +756,58 @@
       <jump line="54" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="25" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
       <jump line="339" column="5" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="33" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" />
+      <jump line="25" column="44" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/utils/PreferenceManager.java" />
+      <jump line="68" column="11" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/utils/PreferenceManager.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/utils/PreferenceManager.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>LoginActivity.this</text>
       </register>
       <register name="/" type="4">
-        <text>share</text>
+        <text encoding="base64">XDxtUHJlZmVyZW5jZW1NYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN0cmluZyBVU0VSTkFNRSA9ICJ1c2VyX25hbWUiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFNQS2V5IHsKICAgIFN0cmluZyBVU0VSTkFNRSA9ICJ1c2VyX25hbWUiOwp9Cgo=</text>
+        <text encoding="base64">ICAgIC8vIGxvZ2luIHVzZXIgbmFtZQogICAgcHVibGljIGZpbmFsIFN0cmluZyBQUkVGX1VTRVJOQU1FID0gInVzZXJuYW1lIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIFNQS2V5IHsKICAgIFN0cmluZyBVU0VSTkFNRSA9ICJ1c2VyX25hbWUiOwp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmludGVyZmFjZSBTUEtleSB7CiAgICBTdHJpbmcgVVNFUk5BTUUgPSAidXNlcl9uYW1lIjsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmludGVyZmFjZSBTUEtleSB7CiAgICBTdHJpbmcgVVNFUk5BTUUgPSAidXNlcl9uYW1lIjsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU1BLZXkgewogICAgICAgIFN0cmluZyBVU0VSTkFNRSA9ICJ1c2VyX25hbWUiOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU1BLZXkgewogICAgICAgIFN0cmluZyBVU0VSTkFNRSA9ICJ1c2VyX25hbWUiOwogICAgfQo=</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZihTUFV0aWxzLmdldCgpKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>catch (IllegalAccessException e) {
             } catch (InvocationTargetException e) {
             }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDlpoLmnpzmib7liLDliJnkvb/nlKhhcHBseeaJp+ihjO+8jOWQpuWImeS9v+eUqGNvbW1pdAogICAgICAgICAqCiAgICAgICAgICogQHBhcmFtIGVkaXRvcgogICAgICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>share</last-search>
+      <last-search encoding="base64">XDxtUHJlZmVyZW5jZW1NYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>share</last-pattern>
+      <last-pattern encoding="base64">XDxtUHJlZmVyZW5jZW1NYW5hZ2VyXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -815,7 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MainA</entry>
         <entry>contact</entry>
         <entry>key</entry>
         <entry>appkey</entry>
@@ -835,6 +834,7 @@
         <entry encoding="base64">XDxjdXJyZW50UGFzc3dvcmRcPg==</entry>
         <entry>pera</entry>
         <entry>share</entry>
+        <entry encoding="base64">XDxtUHJlZmVyZW5jZW1NYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzU2XC8vZw==</entry>
