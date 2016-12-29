@@ -376,10 +376,6 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res-chatdemo/layout/em_activity_login.xml" timestamp="1482990109377">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/domain/EmojiconExampleGroupData.java" timestamp="1482908649930">
         <mark key="'" line="60" column="30" />
         <mark key="[" line="60" column="29" />
@@ -572,6 +568,12 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/MyApplication/app/src/main/res/values/colors-yx.xml" timestamp="1483004261401">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/RoundMenuView.java" timestamp="1482564623747">
         <mark key="[" line="27" column="26" />
       </file>
@@ -590,7 +592,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483001860397">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483004359838">
         <mark key="'" line="18" column="48" />
         <mark key="[" line="24" column="44" />
         <mark key="]" line="24" column="44" />
@@ -644,7 +646,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482998349246">
+      <file name="/Dummy.txt" timestamp="1483004447929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/btn_alarm_bg.xml" timestamp="1482401887169">
@@ -789,13 +791,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,':redpacketlibrary',':easaui'</text>
+        <text>white</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtUHJlZmVyZW5jZW1NYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluLnJlcy5zcmNEaXJzICs9ICdzcmMvbWFpbi9yZXMtY2hhdGRlbW8nCg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I2ZmZmZmZmZmPC9jb2xvcj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I2ZmZmZmZmZmPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJibGFjayI+I2ZmMDAwMDAwPC9jb2xvcj4K</text>
