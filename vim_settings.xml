@@ -590,9 +590,8 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res-yx/layout/activity_mainbak1.xml" timestamp="1482999061895" />
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1482999323896">
-        <mark key="'" line="10" column="26" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483001860397">
+        <mark key="'" line="18" column="48" />
         <mark key="[" line="24" column="44" />
         <mark key="]" line="24" column="44" />
         <mark key="." line="24" column="44" />
@@ -687,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="32" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ImageGridFragment.java" />
       <jump line="37" column="37" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/UserProfileActivity.java" />
       <jump line="339" column="92" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
       <jump line="16" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/UserProfileActivity.java" />
@@ -787,6 +785,7 @@
       <jump line="20" column="41" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res-yx/values/colors.xml" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res-yx/values/colors.xml" />
       <jump line="10" column="26" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="18" column="48" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
