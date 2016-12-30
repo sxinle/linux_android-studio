@@ -34,18 +34,19 @@
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/values/ease_attrs.xml" timestamp="1482802063666">
         <mark key="'" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/colors.xml" timestamp="1483082446486">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/values/colors.xml" timestamp="1483082805788">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483082457097">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483082832391">
         <mark key="'" line="48" column="67" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="53" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="42" />
         <mark key="m" line="36" column="33" />
-        <mark key="." line="22" column="53" />
-        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1483078174565">
         <mark key="[" line="2" column="0" />
@@ -588,13 +589,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>R.color.</text>
+        <text>inde</text>
       </register>
       <register name="/" type="4">
         <text>wel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvckFjY2VudCI+I0ZGNDA4MTwvY29sb3I+Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I0ZGRkZGRjwvY29sb3I+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0cmFuc3BhcmVudCI+IzAwMDAwMDAwMDwvY29sb3I+Cg==</text>
