@@ -652,6 +652,9 @@
       <file name="/Dummy.txt" timestamp="1483004447929">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/gradlew.bat" timestamp="1483068038424">
+        <mark key="'" line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/btn_alarm_bg.xml" timestamp="1482401887169">
         <mark key="[" line="2" column="108" />
         <mark key="]" line="2" column="119" />
@@ -691,7 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/UserProfileActivity.java" />
       <jump line="13" column="29" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/UserProfileActivity.java" />
       <jump line="283" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/UserProfileActivity.java" />
       <jump line="42" column="63" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoApplication.java" />
@@ -791,6 +793,7 @@
       <jump line="18" column="48" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="29" column="92" filename="$USER_HOME$/workspace/Android/MyApplication/app/src/main/res/layout/activity_mainbak1.xml" />
       <jump line="129" column="0" filename="$USER_HOME$/workspace/Android/MyApplication/app/src/main/res/layout/activity_mainbak1.xml" />
+      <jump line="18" column="18" filename="$USER_HOME$/workspace/Android/waffair/gradlew.bat" />
     </jumps>
     <registers>
       <register name="-" type="4">
