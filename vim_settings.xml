@@ -28,6 +28,11 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/tianjin2world/res/layout/main.xml" timestamp="1483069507594">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/domain/EaseEmojiconGroupEntity.java" timestamp="1482753405785">
         <mark key="'" line="70" column="0" />
       </file>
@@ -359,6 +364,9 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/tianjin2world/src/com/tianjin2world/ListFrg.java" timestamp="1483068952396">
+        <mark key="'" line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ConversationListFragment.java" timestamp="1482914452547">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -602,10 +610,6 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/SharedPreHelper.java" timestamp="1482994402326">
-        <mark key="'" line="130" column="29" />
-        <mark key="]" line="167" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/CursorWheelLayout/app/src/main/res/layout/activity_main.xml" timestamp="1482394388947">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="44" column="9" />
@@ -694,9 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="29" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/UserProfileActivity.java" />
-      <jump line="283" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/UserProfileActivity.java" />
-      <jump line="42" column="63" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoApplication.java" />
       <jump line="34" column="30" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoApplication.java" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoApplication.java" />
       <jump line="8" column="33" filename="$USER_HOME$/workspace/Android/ChatDemoUI3.0/AndroidManifest.xml" />
@@ -794,6 +795,9 @@
       <jump line="29" column="92" filename="$USER_HOME$/workspace/Android/MyApplication/app/src/main/res/layout/activity_mainbak1.xml" />
       <jump line="129" column="0" filename="$USER_HOME$/workspace/Android/MyApplication/app/src/main/res/layout/activity_mainbak1.xml" />
       <jump line="18" column="18" filename="$USER_HOME$/workspace/Android/waffair/gradlew.bat" />
+      <jump line="102" column="54" filename="$USER_HOME$/workspace/Android/tianjin2world/src/com/tianjin2world/ListFrg.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/workspace/Android/tianjin2world/src/com/tianjin2world/ListFrg.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/Android/tianjin2world/res/layout/main.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -802,8 +806,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtUHJlZmVyZW5jZW1NYW5hZ2VyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I2ZmZmZmZmZmPC9jb2xvcj4K</text>
+      <register name="0" type="4">
+        <text>clipToPadding</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I2ZmZmZmZmZmPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJibGFjayI+I2ZmMDAwMDAwPC9jb2xvcj4K</text>
