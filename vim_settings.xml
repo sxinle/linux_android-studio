@@ -68,8 +68,8 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res-chatdemo/layout/em_activity_main.xml" timestamp="1482915872897">
         <mark key="'" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1483410911365">
-        <mark key="'" line="203" column="64" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1483426639874">
+        <mark key="'" line="38" column="62" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -408,9 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res-yx/layout/menu.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res-yx/layout/menu.xml" />
       <jump line="122" column="34" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res-yx/layout/menu.xml" />
       <jump line="20" column="41" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res-yx/values/colors.xml" />
@@ -508,13 +505,16 @@
       <jump line="8" column="26" filename="$USER_HOME$/workspace/Android/waffair/easeui/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/easeui/build.gradle" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/Android/waffair/easeui/build.gradle" />
+      <jump line="31" column="60" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="65" column="60" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="38" column="62" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text encoding="base64">XDxMb2dpbkFjdGl2aXR5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd05vVGl0bGUiPnRydWU8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp3aW5kb3dUcmFuc2x1Y2VudFN0YXR1cyI+dHJ1ZTwvaXRlbT4K</text>
@@ -551,9 +551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search encoding="base64">XDxMb2dpbkFjdGl2aXR5XD4=</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern encoding="base64">XDxMb2dpbkFjdGl2aXR5XD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -561,7 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>choose_num</entry>
         <entry encoding="base64">XDxtVGFic1w+</entry>
         <entry encoding="base64">XDx1bnJlYWRBZGRyZXNzTGFibGVcPg==</entry>
         <entry encoding="base64">XDxmcmFnbWVudHNcPg==</entry>
@@ -581,6 +580,7 @@
         <entry>item</entry>
         <entry>itemclick</entry>
         <entry>title</entry>
+        <entry encoding="base64">XDxMb2dpbkFjdGl2aXR5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzU2XC8vZw==</entry>
