@@ -85,13 +85,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1483426639874">
-        <mark key="'" line="38" column="62" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="72" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_row_received_video.xml" timestamp="1483430035517">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="22" column="38" />
@@ -116,12 +109,8 @@
         <mark key="]" line="23" column="37" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/widget/chatrow/EaseChatRow.java" timestamp="1483429151815">
-        <mark key="'" line="37" column="30" />
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="14" />
-        <mark key="^" line="69" column="40" />
+      <file name="/Dummy.txt" timestamp="1483430209315">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_row_sent_voice_call.xml" timestamp="1483430140331">
         <mark key="[" line="20" column="0" />
