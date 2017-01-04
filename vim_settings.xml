@@ -131,11 +131,8 @@
         <mark key="]" line="17" column="110" />
         <mark key="." line="17" column="110" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/tianjin2world/src/com/tianjin2world/MyActivity.java" timestamp="1483500317249">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="165" column="4" />
-        <mark key="." line="155" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/c.class" timestamp="1483524702292" />
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/mapapi/SDKInitializer.class" timestamp="1483524690236" />
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_widget_title_bar.xml" timestamp="1483420450441">
         <mark key="'" line="68" column="39" />
         <mark key="[" line="14" column="35" />
@@ -146,7 +143,7 @@
       <file name="/Python Console" timestamp="1481090050461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1483522175679">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1483525273970">
         <mark key="'" line="59" column="41" />
         <mark key="[" line="65" column="46" />
         <mark key="]" line="65" column="68" />
@@ -170,6 +167,12 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/RoundMenuView.java" timestamp="1482564623747">
         <mark key="[" line="27" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/jni/Application.mk" timestamp="1483526010831">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_row_received_file.xml" timestamp="1483431317816">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="21" column="0" />
@@ -183,7 +186,7 @@
         <mark key="." line="250" column="42" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483524131524">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483525822512">
         <mark key="'" line="21" column="31" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -193,6 +196,9 @@
         <mark key="'" line="1" column="0" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="43" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/NativeLoader.class" timestamp="1483525047051">
+        <mark key="'" line="115" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/values/ease_styles.xml" timestamp="1483426102532">
         <mark key="'" line="115" column="36" />
@@ -280,12 +286,12 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaiduMapActivity.java" timestamp="1483523031365">
-        <mark key="'" line="247" column="0" />
+        <mark key="'" line="249" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1483519540589">
+      <file name="/fragment.java" timestamp="1483525156636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/LoginActivity.java" timestamp="1483411194473">
@@ -307,12 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="54" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="25" column="54" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="13" column="54" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="14" column="54" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="31" column="54" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="15" column="54" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="16" column="54" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="35" column="4" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="305" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
@@ -407,52 +407,58 @@
       <jump line="49" column="64" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="79" column="83" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="21" column="31" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="102" column="15" filename="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/NativeLoader.class" />
+      <jump line="103" column="14" filename="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/NativeLoader.class" />
+      <jump line="152" column="12" filename="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/NativeLoader.class" />
+      <jump line="178" column="19" filename="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/NativeLoader.class" />
+      <jump line="61" column="17" filename="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/NativeLoader.class" />
+      <jump line="115" column="12" filename="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/NativeLoader.class" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.view.activity.Main</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>laun</text>
+        <text encoding="base64">XDxUaHJvd2FibGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgbWFuaWZlc3Quc3JjRmlsZSAnQW5kcm9pZE1hbmlmZXN0LnhtbCcKICAgICAgICAgICAgamF2YS5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgYWlkbC5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZW5kZXJzY3JpcHQuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgcmVzLnNyY0RpcnMgPSBbJ3JlcycsICdyZXMtd2FmZmFpciddCiAgICAgICAgICAgIGFzc2V0cy5zcmNEaXJzID0gWydhc3NldHMnXQogICAgICAgICAgICBqbmlMaWJzLnNyY0RpcnMgPSBbJ2xpYnMnXQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">I0FQUF9TVEwgOj0gc3RscG9ydF9zdGF0aWMKQVBQX1NUTCA6PSBnbnVzdGxfc3RhdGljCkxPQ0FMX01VTFRJTElCIDo9IDMyCiNBUFBfUExBVEZPUk06PTIxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFuaWZlc3Quc3JjRmlsZSAnQW5kcm9pZE1hbmlmZXN0LnhtbCcKICAgICAgICAgICAgamF2YS5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgYWlkbC5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZW5kZXJzY3JpcHQuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgcmVzLnNyY0RpcnMgPSBbJ3JlcycsICdyZXMtd2FmZmFpciddCiAgICAgICAgICAgIGFzc2V0cy5zcmNEaXJzID0gWydhc3NldHMnXQo=</text>
+        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFuaWZlc3Quc3JjRmlsZSAnQW5kcm9pZE1hbmlmZXN0LnhtbCcKICAgICAgICAgICAgamF2YS5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgYWlkbC5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZW5kZXJzY3JpcHQuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgcmVzLnNyY0RpcnMgPSBbJ3JlcycsICdyZXMtd2FmZmFpciddCiAgICAgICAgICAgIGFzc2V0cy5zcmNEaXJzID0gWydhc3NldHMnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iY29tLmJhaWR1LmxvY2F0aW9uLnNlcnZpY2VfdjIuMiIgPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4KICAgICAgICA8L3NlcnZpY2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmljZSBhbmRyb2lkOm5hbWU9ImNvbS5iYWlkdS5sb2NhdGlvbi5mIiBhbmRyb2lkOmVuYWJsZWQ9InRydWUiIGFuZHJvaWQ6cHJvY2Vzcz0iOnJlbW90ZSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iY29tLmJhaWR1LmxvY2F0aW9uLnNlcnZpY2VfdjIuMiIgPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4KICAgICAgICA8L3NlcnZpY2U+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>laun</last-search>
+      <last-search encoding="base64">XDxUaHJvd2FibGVcPg==</last-search>
       <last-offset />
-      <last-pattern>laun</last-pattern>
+      <last-pattern encoding="base64">XDxUaHJvd2FibGVcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -460,9 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxXUklURV9FWFRFUk5BTF9TVE9SQUdFXD4=</entry>
-        <entry encoding="base64">XDxSRUFEX0VYVEVSTkFMX1NUT1JBR0VcPg==</entry>
-        <entry encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</entry>
         <entry encoding="base64">XDxWSUJSQVRFXD4=</entry>
         <entry encoding="base64">XDxNT1VOVF9VTk1PVU5UX0ZJTEVTWVNURU1TXD4=</entry>
         <entry encoding="base64">XDxBQ0NFU1NfTkVUV09SS19TVEFURVw+</entry>
@@ -480,6 +483,9 @@
         <entry>main</entry>
         <entry>baidu</entry>
         <entry>laun</entry>
+        <entry>e</entry>
+        <entry>Log.e</entry>
+        <entry encoding="base64">XDxUaHJvd2FibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzU2XC8vZw==</entry>
