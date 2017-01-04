@@ -178,7 +178,7 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1483512177391">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1483516916661">
         <mark key="[" line="17" column="109" />
         <mark key="]" line="17" column="110" />
         <mark key="." line="17" column="110" />
@@ -295,8 +295,8 @@
         <mark key="." line="250" column="42" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483508626608">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483516448209">
+        <mark key="'" line="51" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="20" column="8" />
         <mark key="." line="14" column="8" />
@@ -429,8 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="31" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatFragment.java" />
-      <jump line="104" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" />
       <jump line="27" column="38" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" />
       <jump line="58" column="14" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="1004" column="55" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
@@ -506,10 +504,7 @@
       <jump line="329" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="287" column="34" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="18" column="51" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="36" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" />
@@ -529,6 +524,11 @@
       <jump line="63" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="27" column="47" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" />
       <jump line="94" column="40" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="16" column="20" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
