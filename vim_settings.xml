@@ -283,12 +283,12 @@
         <mark key="." line="250" column="42" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483495628325">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="61" column="33" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483497502499">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/values/ease_styles.xml" timestamp="1483426102532">
         <mark key="'" line="115" column="36" />
@@ -410,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="32" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="103" column="19" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatFragment.java" />
       <jump line="33" column="38" filename="$USER_HOME$/workspace/Android/waffair/easeui/build.gradle" />
       <jump line="108" column="19" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/widget/EaseTitleBar.java" />
       <jump line="91" column="3" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/widget/EaseTitleBar.java" />
@@ -510,6 +508,8 @@
       <jump line="329" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="287" column="34" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
