@@ -237,8 +237,10 @@
         <mark key="]" line="96" column="4" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483521922709">
+      <file name="/Dummy.txt" timestamp="1483526424044">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" timestamp="1483495369255">
         <mark key="'" line="551" column="0" />
@@ -416,7 +418,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>去掉华为push，mipush，百度地图</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaHJvd2FibGVcPg==</text>
