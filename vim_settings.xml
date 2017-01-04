@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/Downloads/a/android_studio/BaiduLocationDemo/app/src/main/java/com.baidu.location.service/LocationService.java" timestamp="1483520273890">
         <mark key="'" line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483520568787">
-        <mark key="'" line="229" column="28" />
-        <mark key="[" line="221" column="64" />
-        <mark key="]" line="221" column="64" />
-        <mark key="^" line="221" column="64" />
-        <mark key="." line="221" column="64" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483528101594">
+        <mark key="'" line="228" column="28" />
+        <mark key="[" line="220" column="64" />
+        <mark key="]" line="220" column="64" />
+        <mark key="^" line="220" column="64" />
+        <mark key="." line="220" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_row_received_bigexpression.xml" timestamp="1483429966837">
         <mark key="'" line="20" column="17" />
@@ -136,12 +136,11 @@
       <file name="/Python Console" timestamp="1481090050461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1483525273970">
-        <mark key="'" line="59" column="41" />
-        <mark key="[" line="65" column="46" />
-        <mark key="]" line="65" column="68" />
-        <mark key="." line="65" column="68" />
-        <mark key="^" line="65" column="68" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1483528225016">
+        <mark key="'" line="57" column="41" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" timestamp="1482916378733">
         <mark key="'" line="131" column="16" />
@@ -230,7 +229,7 @@
         <mark key="]" line="96" column="4" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483526424044">
+      <file name="/Dummy.txt" timestamp="1483528258894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -411,7 +410,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>去掉华为push，mipush，百度地图</text>
+        <text>useBaiduSDK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaHJvd2FibGVcPg==</text>
@@ -420,31 +419,31 @@
         <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgbWFuaWZlc3Quc3JjRmlsZSAnQW5kcm9pZE1hbmlmZXN0LnhtbCcKICAgICAgICAgICAgamF2YS5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgYWlkbC5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZW5kZXJzY3JpcHQuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgcmVzLnNyY0RpcnMgPSBbJ3JlcycsICdyZXMtd2FmZmFpciddCiAgICAgICAgICAgIGFzc2V0cy5zcmNEaXJzID0gWydhc3NldHMnXQogICAgICAgICAgICBqbmlMaWJzLnNyY0RpcnMgPSBbJ2xpYnMnXQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmFsc2UpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvblNlcnZpY2UgPSBuZXcgTG9jYXRpb25TZXJ2aWNlKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsKICAgICAgICBtVmlicmF0b3IgPSAoVmlicmF0b3IpIGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldFN5c3RlbVNlcnZpY2UoU2VydmljZS5WSUJSQVRPUl9TRVJWSUNFKTsKICAgICAgICBTREtJbml0aWFsaXplci5pbml0aWFsaXplKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I0FQUF9TVEwgOj0gc3RscG9ydF9zdGF0aWMKQVBQX1NUTCA6PSBnbnVzdGxfc3RhdGljCkxPQ0FMX01VTFRJTElCIDo9IDMyCiNBUFBfUExBVEZPUk06PTIxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluIHsKICAgICAgICAgICAgam5pTGlicy5zcmNEaXJzID0gWydsaWJzJ10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFuaWZlc3Quc3JjRmlsZSAnQW5kcm9pZE1hbmlmZXN0LnhtbCcKICAgICAgICAgICAgamF2YS5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgYWlkbC5zcmNEaXJzID0gWydzcmMnXQogICAgICAgICAgICByZW5kZXJzY3JpcHQuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgcmVzLnNyY0RpcnMgPSBbJ3JlcycsICdyZXMtd2FmZmFpciddCiAgICAgICAgICAgIGFzc2V0cy5zcmNEaXJzID0gWydhc3NldHMnXQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0FQUF9TVEwgOj0gc3RscG9ydF9zdGF0aWMKQVBQX1NUTCA6PSBnbnVzdGxfc3RhdGljCkxPQ0FMX01VTFRJTElCIDo9IDMyCiNBUFBfUExBVEZPUk06PTIxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
