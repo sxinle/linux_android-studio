@@ -68,11 +68,11 @@
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1483435049296">
-        <mark key="'" line="380" column="8" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="107" />
-        <mark key="." line="334" column="68" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1483496464632">
+        <mark key="'" line="287" column="34" />
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="107" />
+        <mark key="." line="183" column="125" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" timestamp="1483423479835">
         <mark key="'" line="49" column="8" />
@@ -410,9 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="57" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/LoginActivity.java" />
-      <jump line="98" column="64" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" />
-      <jump line="96" column="20" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="104" column="32" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="103" column="19" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatFragment.java" />
       <jump line="33" column="38" filename="$USER_HOME$/workspace/Android/waffair/easeui/build.gradle" />
@@ -510,13 +507,16 @@
       <jump line="40" column="4" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="63" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="329" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="287" column="34" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>@color/text_black</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDSEFOR0VfTkVUV09SS19TVEFURVw+</text>
+        <text>splash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PiBbSlB1c2hdIDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDwtLT4K</text>
@@ -553,17 +553,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDSEFOR0VfTkVUV09SS19TVEFURVw+</last-search>
+      <last-search>splash</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDSEFOR0VfTkVUV09SS19TVEFURVw+</last-pattern>
+      <last-pattern>splash</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>receive</entry>
         <entry encoding="base64">XDx1c2VyQXZhdGFyVmlld1w+</entry>
         <entry>release</entry>
         <entry encoding="base64">XDxSRUNFSVZFX1VTRVJfUFJFU0VOVFw+</entry>
@@ -583,6 +582,7 @@
         <entry encoding="base64">XDxBQ0NFU1NfRklORV9MT0NBVElPTlw+</entry>
         <entry encoding="base64">XDxBQ0NFU1NfTE9DQVRJT05fRVhUUkFfQ09NTUFORFNcPg==</entry>
         <entry encoding="base64">XDxDSEFOR0VfTkVUV09SS19TVEFURVw+</entry>
+        <entry>splash</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzU2XC8vZw==</entry>
