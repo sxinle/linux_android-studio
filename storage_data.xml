@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="splash" />
+      <item value="chat" />
       <item value="transparent" />
       <item value="transparence" />
       <item value="density" />
