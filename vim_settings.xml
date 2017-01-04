@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexView.java" timestamp="1482390266614">
+        <mark key="[" line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res-waffair/drawable/w_btn_back.xml" timestamp="1483413804493">
         <mark key="[" line="2" column="104" />
         <mark key="]" line="4" column="68" />
@@ -13,6 +16,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="3" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/File Header.txt.ft" timestamp="1481094374135">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/proguard-rules.pro" timestamp="1483433598527">
         <mark key="[" line="18" column="27" />
@@ -124,6 +130,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="59" />
       </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482995001938">
         <mark key="'" line="339" column="5" />
         <mark key="[" line="201" column="109" />
@@ -220,6 +229,9 @@
         <mark key="^" line="65" column="15" />
         <mark key="." line="65" column="15" />
       </file>
+      <file name="/Python Console" timestamp="1481090050461">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" timestamp="1483435512853">
         <mark key="'" line="53" column="45" />
         <mark key="[" line="54" column="40" />
@@ -253,6 +265,9 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/RoundMenuView.java" timestamp="1482564623747">
+        <mark key="[" line="27" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_row_sent_video.xml" timestamp="1483430115467">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="38" />
@@ -283,8 +298,8 @@
         <mark key="." line="250" column="42" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483497502499">
-        <mark key="'" line="62" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/build.gradle" timestamp="1483497732432">
+        <mark key="'" line="64" column="0" />
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="8" />
@@ -329,6 +344,9 @@
         <mark key="]" line="22" column="38" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="59" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1483497666386">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res-chatdemo/layout/em_activity_call_option.xml" timestamp="1483495251112">
         <mark key="[" line="154" column="31" />
@@ -394,12 +412,18 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
+      <file name="/fragment.java" timestamp="1483427564864">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/LoginActivity.java" timestamp="1483411194473">
         <mark key="'" line="55" column="57" />
         <mark key="[" line="55" column="69" />
         <mark key="]" line="55" column="69" />
         <mark key="." line="55" column="69" />
         <mark key="^" line="55" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/RoundMenuView.java" timestamp="1482564543226">
+        <mark key="[" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/chatdemo/src/main/java/com/hyphenate/chatuidemo/domain/EmojiconExampleGroupData.java" timestamp="1482908649930">
         <mark key="'" line="60" column="30" />
@@ -410,7 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="38" filename="$USER_HOME$/workspace/Android/waffair/easeui/build.gradle" />
       <jump line="108" column="19" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/widget/EaseTitleBar.java" />
       <jump line="91" column="3" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/widget/EaseTitleBar.java" />
       <jump line="68" column="39" filename="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_widget_title_bar.xml" />
@@ -498,7 +521,6 @@
       <jump line="350" column="50" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res-chatdemo/layout/em_fragment_conversation_settings.xml" />
       <jump line="537" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res-chatdemo/layout/em_fragment_conversation_settings.xml" />
       <jump line="57" column="33" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="292" column="53" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" />
       <jump line="551" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" />
       <jump line="73" column="49" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatFragment.java" />
@@ -510,6 +532,8 @@
       <jump line="287" column="34" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
