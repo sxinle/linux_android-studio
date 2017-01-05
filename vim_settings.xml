@@ -132,7 +132,7 @@
         <mark key="." line="27" column="10" />
         <mark key="^" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Weather.java" timestamp="1483607032160">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Weather.java" timestamp="1483608745494">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="36" />
@@ -342,8 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="34" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="182" column="53" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
       <jump line="356" column="42" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
       <jump line="396" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
       <jump line="400" column="49" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
@@ -430,7 +428,6 @@
       <jump line="62" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/location/LocationService.java" />
       <jump line="70" column="15" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/location/LocationService.java" />
       <jump line="15" column="41" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/location/LocationService.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Weather.java" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/LoginActivity.java" />
       <jump line="211" column="20" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
@@ -442,6 +439,9 @@
       <jump line="4" column="41" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="43" column="9" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="45" column="67" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="45" column="55" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Weather.java" />
+      <jump line="101" column="10" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Weather.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Weather.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -491,7 +491,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
