@@ -9,7 +9,7 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1483602718597">
+      <file name="/a.dummy" timestamp="1483942413054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res-waffair/values/dimens.xml" timestamp="1483428634383">
@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/Downloads/a/android_studio/BaiduLocationDemo/app/src/main/java/com.baidu.location.service/LocationService.java" timestamp="1483520273890">
         <mark key="'" line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483930734483">
-        <mark key="'" line="34" column="28" />
-        <mark key="[" line="336" column="25" />
-        <mark key="]" line="336" column="29" />
-        <mark key="." line="336" column="29" />
-        <mark key="^" line="336" column="29" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483945646890">
+        <mark key="'" line="86" column="27" />
+        <mark key="[" line="94" column="46" />
+        <mark key="]" line="94" column="56" />
+        <mark key="." line="94" column="56" />
+        <mark key="^" line="94" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_row_received_bigexpression.xml" timestamp="1483429966837">
         <mark key="'" line="20" column="17" />
@@ -126,12 +126,6 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1483582967635">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="10" />
-        <mark key="." line="27" column="10" />
-        <mark key="^" line="27" column="10" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Weather.java" timestamp="1483608745494">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="13" column="32" />
@@ -149,12 +143,12 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter.java" timestamp="1483602255646">
         <mark key="'" line="190" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483933423710">
-        <mark key="'" line="30" column="76" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="135" column="53" />
-        <mark key="." line="136" column="99" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483945378477">
+        <mark key="'" line="136" column="50" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="119" column="99" />
+        <mark key="^" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_widget_title_bar.xml" timestamp="1483420450441">
         <mark key="'" line="68" column="39" />
@@ -190,17 +184,14 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/RoundMenuView.java" timestamp="1482564623747">
         <mark key="[" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/easeui/jni/Application.mk" timestamp="1483526010831">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_row_received_file.xml" timestamp="1483431317816">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="37" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/bgshadow.xml" timestamp="1483940410848">
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res-chatdemo/layout/em_fragment_conversation_settings.xml" timestamp="1483495237896">
         <mark key="'" line="537" column="0" />
@@ -243,6 +234,9 @@
         <mark key="." line="47" column="27" />
         <mark key="^" line="47" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/VerticalTextview.java" timestamp="1483942968055">
+        <mark key="'" line="111" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatActivity.java" timestamp="1483426999004">
         <mark key="'" line="17" column="28" />
         <mark key="[" line="10" column="0" />
@@ -250,21 +244,10 @@
         <mark key="^" line="20" column="48" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/a/android_studio/BaiduLocationDemo/app/src/main/java/com.baidu.location.demo/LocationActivity.java" timestamp="1483520337468">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="96" column="4" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1483607126201">
+      <file name="/Dummy.txt" timestamp="1483945801741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment.java" timestamp="1483597392541">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="^" line="185" column="11" />
-        <mark key="." line="228" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" timestamp="1483495369255">
         <mark key="'" line="551" column="0" />
@@ -320,7 +303,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1483604260436">
+      <file name="/fragment.java" timestamp="1483941614743">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/LoginActivity.java" timestamp="1483606853885">
@@ -342,36 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="37" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="420" column="50" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="421" column="44" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="427" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="428" column="34" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="447" column="29" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="448" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="460" column="26" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="462" column="32" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="463" column="22" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="465" column="77" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="466" column="22" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="111" column="34" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="196" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="492" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" />
-      <jump line="400" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="40" column="42" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="18" column="13" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/domain/EaseUser.java" />
-      <jump line="41" column="64" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="230" column="50" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="176" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="54" column="18" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="227" column="36" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="59" column="61" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="68" column="45" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="77" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="86" column="12" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="95" column="36" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="103" column="78" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="120" column="33" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="121" column="70" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
@@ -442,69 +395,89 @@
       <jump line="364" column="30" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="30" column="76" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="47" column="36" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="45" column="41" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="44" column="40" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="269" column="11" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/bgshadow.xml" />
+      <jump line="54" column="71" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="131" column="65" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="135" column="16" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="136" column="50" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="111" column="5" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/VerticalTextview.java" />
+      <jump line="73" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="69" column="23" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="70" column="40" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="43" column="21" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="166" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="169" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="172" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="175" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="178" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="181" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="184" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="187" column="24" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="192" column="16" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="286" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="177" column="29" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="82" column="26" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="337" column="4" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="429" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="212" column="55" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="86" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>fill_parent</text>
+        <text>天气使用百度的图标</text>
       </register>
       <register name="/" type="4">
-        <text>300dp</text>
+        <text>circle_bg.setBackground</text>
       </register>
-      <register name="0" type="4">
-        <text>return super.onKeyDown(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBiZ0ltYWdlLnNldEltYWdlRHJhd2FibGUoYmdfbWVudSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgYW5kcm9pZDppZD0iQCtpZC9sbF9tYWluX2J0biIKICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9iZ3NoYWRvdyIgYW5kcm9pZDpzY2FsZVg9Ii44NSIgYW5kcm9pZDpzY2FsZVk9Ii44NSIKICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+CiAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJmaWxsX3BhcmVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC4wNSIvPgogICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIiBhbmRyb2lkOmxheW91dF93aWR0aD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMC4wZGlwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMCI+CiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOmxheW91dF93aWR0aD0iMC4wZGlwIiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIwLjEiLz4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiBhbmRyb2lkOmxheW91dF93aWR0aD0iMC4wZGlwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4wIi8+CiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6aWQ9IkAraWQvbGxfZ3pjbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iNC4wZGlwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4wIj4KICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlVmlldyBhbmRyb2lkOmlkPSJAK2lkL2lubmVyaW1nIiBhbmRyb2lkOmxheW91dF93aWR0aD0iNTBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI1MGRpcCIgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9nemNsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJjZW50ZXJJbnNpZGUiLz4KICAgICAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyIiBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC41Ii8+CiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6aWQ9IkAraWQvbGxfc2p6YiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iNC4wZGlwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4wIj4KICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlVmlldyBhbmRyb2lkOmlkPSJAaWQvaW5uZXJpbWciIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI2MGRpcCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI2MGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3NqemIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImNlbnRlckluc2lkZSIvPgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyTGF5b3V0PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxLjAiLz4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuMiIvPgogICAgICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4wIj4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuMDUiLz4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyIiBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgYW5kcm9pZDppZD0iQCtpZC9sbF9ud2dsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSI0LjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMC4wZGlwIiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxLjAiPgogICAgICAgICAgICAgICAgICAgICAgICA8SW1hZ2VWaWV3IGFuZHJvaWQ6aWQ9IkBpZC9pbm5lcmltZyIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjYxZHAiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9ud2dsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJjZW50ZXJJbnNpZGUiLz4KICAgICAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiBhbmRyb2lkOmxheW91dF93aWR0aD0iMC4wZGlwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4yIi8+CiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMiIvPgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiBhbmRyb2lkOmlkPSJAK2lkL2xsX2J6eHgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjQuMGRpcCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxJbWFnZVZpZXcgYW5kcm9pZDppZD0iQGlkL2lubmVyaW1nIiBhbmRyb2lkOmxheW91dF93aWR0aD0iNjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwLjBkaXAiIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvYnp4eCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVySW5zaWRlIi8+CiAgICAgICAgICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOmxheW91dF93aWR0aD0iMC4wZGlwIiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIwLjA1Ii8+CiAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4KICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIwLjIiLz4KICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxLjAiPgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC4wNSIvPgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiBhbmRyb2lkOmlkPSJAK2lkL2xsX3h4amwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjQuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxJbWFnZVZpZXcgYW5kcm9pZDppZD0iQGlkL2lubmVyaW1nIiBhbmRyb2lkOmxheW91dF93aWR0aD0iNjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwLjBkaXAiIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUveHhqbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVySW5zaWRlIi8+CiAgICAgICAgICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMiIvPgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxLjIiLz4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyIiBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgYW5kcm9pZDppZD0iQCtpZC9sbF9yeWdsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSI0LjBkaXAiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxLjAiPgogICAgICAgICAgICAgICAgICAgICAgICA8SW1hZ2VWaWV3IGFuZHJvaWQ6aWQ9IkBpZC9pbm5lcmltZyIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjYwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI2MC4wZGlwIiBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3J5Z2wiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImNlbnRlckluc2lkZSIvPgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyTGF5b3V0PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC4wNSIvPgogICAgICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4wIj4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuMSIvPgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxLjAiLz4KCiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6aWQ9IkAraWQvbGxfem54aiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iNC4wZGlwIiBhbmRyb2lkOmxheW91dF93aWR0aD0iMC4wZGlwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMS4wIj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxJbWFnZVZpZXcgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjYwLjBkaXAiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3pueGoiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImNlbnRlckluc2lkZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAaWQvaW5uZXJpbWciLz4KICAgICAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4KCiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9ImZpbGxfcGFyZW50IiBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuNSIvPgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiBhbmRyb2lkOmlkPSJAK2lkL2xsX255Z2wiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjQuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwLjBkaXAiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxJbWFnZVZpZXcgYW5kcm9pZDppZD0iQGlkL2lubmVyaW1nIiBhbmRyb2lkOmxheW91dF93aWR0aD0iNjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwLjBkaXAiIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvbnlnbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVySW5zaWRlIi8+CiAgICAgICAgICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMCIvPgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC4xIi8+CiAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4KICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpsYXlvdXRfd2lkdGg9ImZpbGxfcGFyZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIwLjA1Ii8+CiAgICAgICAgICAgIDwvTGluZWFyTGF5b3V0PgoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQ+eW91ciB2aWV3czwvTGluZWFyTGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBvblJlY2VpdmVMb2NhdGlvbihCRExvY2F0aW9uIGxvY2F0aW9uKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlbW9IZWxwZXIuZ2V0SW5zdGFuY2UoKS5sb2dvdXQoZmFsc2UsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIERyYXdhYmxlIGJnX21lbnUsIGNsX253Z2wsIGNsX2d6Y2wsIGNsX3NqemIsIGNsX2J6eHgsIGNsX3h4amwsIGNsX3J5Z2wsIGNsX3pueGosIGNsX255Z2w7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyBIYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgIFNwZWVjaFN5bnRoZXNpemVyIG1UdHMgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPa0h0dHBDbGllbnQgaHR0cENsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>300dp</last-search>
+      <last-search>circle_bg.setBackground</last-search>
       <last-offset />
-      <last-pattern>300dp</last-pattern>
-      <last-replace>\\&quot;</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>circle_bg.setBackground</last-pattern>
+      <last-replace>bgImage.setImageDrawable</last-replace>
+      <last-substitute>circle_bg.setBackground</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>contact</entry>
-        <entry encoding="base64">XDxicm9hZGNhc3RNYW5hZ2VyXD4=</entry>
-        <entry>xxjl</entry>
-        <entry>MainActivity2</entry>
-        <entry>back</entry>
-        <entry>Login</entry>
-        <entry>titleBar</entry>
-        <entry>left</entry>
-        <entry>title</entry>
-        <entry encoding="base64">XDx0aXRsZUJhclw+</entry>
         <entry>handle</entry>
         <entry>handleMess</entry>
         <entry encoding="base64">XDxsb2NhdGlvblNlcnZpY2VcPg==</entry>
@@ -515,9 +488,18 @@
         <entry>useLo</entry>
         <entry>useL</entry>
         <entry>300dp</entry>
+        <entry>frame</entry>
+        <entry>centerInparent</entry>
+        <entry>onresume</entry>
+        <entry>bgshadow</entry>
+        <entry>new_menu</entry>
+        <entry encoding="base64">XDxidG5wYW5lXD4=</entry>
+        <entry>cl_nwgl</entry>
+        <entry encoding="base64">XDxjaXJjbGVfYmdcPg==</entry>
+        <entry>bg_menu</entry>
+        <entry>circle_bg.setBackground</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzU2XC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzU2XC8v</entry>
         <entry encoding="base64">JzwsJz5zLyAv</entry>
         <entry encoding="base64">JzwsJz5zLyAvXG4vZw==</entry>
@@ -536,6 +518,7 @@
         <entry>se wra</entry>
         <entry>vsp</entry>
         <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5zL2NpcmNsZV9iZy5zZXRCYWNrZ3JvdW5kL2JnSW1hZ2Uuc2V0SW1hZ2VEcmF3YWJsZS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
