@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/Downloads/a/android_studio/BaiduLocationDemo/app/src/main/java/com.baidu.location.service/LocationService.java" timestamp="1483520273890">
         <mark key="'" line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483945646890">
-        <mark key="'" line="86" column="27" />
-        <mark key="[" line="94" column="46" />
-        <mark key="]" line="94" column="56" />
-        <mark key="." line="94" column="56" />
-        <mark key="^" line="94" column="56" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483947870564">
+        <mark key="'" line="463" column="0" />
+        <mark key="[" line="309" column="16" />
+        <mark key="]" line="309" column="30" />
+        <mark key="." line="309" column="30" />
+        <mark key="^" line="309" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res/layout/ease_row_received_bigexpression.xml" timestamp="1483429966837">
         <mark key="'" line="20" column="17" />
@@ -325,8 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="33" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="121" column="70" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="406" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="38" column="42" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
@@ -425,43 +423,45 @@
       <jump line="429" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="212" column="55" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="86" column="27" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="348" column="30" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="463" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>天气使用百度的图标</text>
+        <text>setImageDrawable</text>
       </register>
       <register name="/" type="4">
         <text>circle_bg.setBackground</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiZ0ltYWdlLnNldEltYWdlRHJhd2FibGUoYmdfbWVudSk7Cg==</text>
+      <register name="0" type="4">
+        <text>setImageBitmap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2lyY2xlX2JnLnNldEJhY2tncm91bmQoY2xfbndnbCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJpdG1hcERyYXdhYmxlKGdldFJlc291cmNlcygpLCBiaXRtYXApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBvblJlY2VpdmVMb2NhdGlvbihCRExvY2F0aW9uIGxvY2F0aW9uKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBvblJlY2VpdmVMb2NhdGlvbihCRExvY2F0aW9uIGxvY2F0aW9uKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERyYXdhYmxlIGJnX21lbnUsIGNsX253Z2wsIGNsX2d6Y2wsIGNsX3NqemIsIGNsX2J6eHgsIGNsX3h4amwsIGNsX3J5Z2wsIGNsX3pueGosIGNsX255Z2w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNwZWVjaFN5bnRoZXNpemVyIG1UdHMgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERyYXdhYmxlIGJnX21lbnUsIGNsX253Z2wsIGNsX2d6Y2wsIGNsX3NqemIsIGNsX2J6eHgsIGNsX3h4amwsIGNsX3J5Z2wsIGNsX3pueGosIGNsX255Z2w7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
