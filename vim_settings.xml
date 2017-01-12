@@ -33,15 +33,16 @@
         <mark key="^" line="59" column="15" />
         <mark key="." line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/SDKCoreHelper.java" timestamp="1484207225976" />
+      <file name="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/SDKCoreHelper.java" timestamp="1484209374518" />
       <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/res/layout/meeting_voice.xml" timestamp="1484199549080">
         <mark key="'" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/common/utils/ECPreferenceSettings.java" timestamp="1484206356386">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="47" column="51" />
-        <mark key="]" line="47" column="83" />
-        <mark key="." line="47" column="51" />
+      <file name="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/common/utils/ECPreferenceSettings.java" timestamp="1484208944264">
+        <mark key="'" line="29" column="18" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="13" />
+        <mark key="^" line="50" column="13" />
+        <mark key="." line="50" column="13" />
       </file>
       <file name="$USER_HOME$/Downloads/a/android_studio/BaiduLocationDemo/app/src/main/java/com.baidu.location.service/LocationService.java" timestamp="1483520273890">
         <mark key="'" line="62" column="12" />
@@ -363,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="58" filename="/opt/android/Sdk/sources/android-25/android/os/Handler.java" />
       <jump line="146" column="11" filename="/opt/android/Sdk/sources/android-25/android/os/Handler.java" />
       <jump line="509" column="63" filename="/opt/android/Sdk/sources/android-25/android/os/Handler.java" />
       <jump line="567" column="15" filename="/opt/android/Sdk/sources/android-25/android/os/Handler.java" />
@@ -463,6 +463,7 @@
       <jump line="49" column="19" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/account/LoginActivity.java" />
       <jump line="118" column="12" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/account/LoginActivity.java" />
       <jump line="136" column="8" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/account/LoginActivity.java" />
+      <jump line="29" column="18" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/common/utils/ECPreferenceSettings.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -471,35 +472,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzaWduQnRuXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>setImageBitmap</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFNFVFRJTkdTX0FQUEtFWSgiY29tLnl1bnRvbmd4dW4uZWNkZW1vX2FwcGtleSIgLCAiMjAxNTAzMTQwMDAwMDAxMTAwMDAwMDAwMDAwMDAwMTAiKSwKICAgU0VUVElOR1NfVE9LRU4oImNvbS55dW50b25neHVuLmVjZGVtb190b2tlbiIgLCAiMTdFMjRFNUFGREI2RDBDMUVGMzJGMzUzMzQ5NDUwMkIiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFNFVFRJTkdTX0FQUEtFWSgiY29tLnl1bnRvbmd4dW4uZWNkZW1vX2FwcGtleSIgLCAiOGFhZjA3MDg1OTgyZDBmNDAxNTk5MDk0MTE5ZTA5MzciKSwKICAgIC8vIFNFVFRJTkdTX1RPS0VOKCJjb20ueXVudG9uZ3h1bi5lY2RlbW9fdG9rZW4iICwgIjIxOTg5ZGJjYjkzNTQ4ODI5OGIyZmYwZTFiY2U2NzA0IiksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLzEu5Yib5bu6U3BlZWNoU3ludGhlc2l6ZXLlr7nosaEsIOesrOS6jOS4quWPguaVsO+8muacrOWcsOWQiOaIkOaXtuS8oEluaXRMaXN0ZW5lcgogICAgICAgIG1UdHMgPSBTcGVlY2hTeW50aGVzaXplci5jcmVhdGVTeW50aGVzaXplcihjb250ZXh0LCBudWxsKTsKICAgICAgICAvLzIu5ZCI5oiQ5Y+C5pWw6K6+572u77yM6K+m6KeB44CK56eR5aSn6K6v6aOeTVNDIEFQSeaJi+WGjChBbmRyb2lkKeOAi1NwZWVjaFN5bnRoZXNpemVyIOexuwogICAgICAgIG1UdHMuc2V0UGFyYW1ldGVyKFNwZWVjaENvbnN0YW50LlZPSUNFX05BTUUsICJ4aWFveWFuIik7Ly/orr7nva7lj5Hpn7PkuroKICAgICAgICBtVHRzLnNldFBhcmFtZXRlcihTcGVlY2hDb25zdGFudC5TUEVFRCwgIjUwIik7Ly/orr7nva7or63pgJ8KICAgICAgICBtVHRzLnNldFBhcmFtZXRlcihTcGVlY2hDb25zdGFudC5WT0xVTUUsICI4MCIpOy8v6K6+572u6Z+z6YeP77yM6IyD5Zu0MH4xMDAKICAgICAgICBtVHRzLnNldFBhcmFtZXRlcihTcGVlY2hDb25zdGFudC5FTkdJTkVfVFlQRSwgU3BlZWNoQ29uc3RhbnQuVFlQRV9DTE9VRCk7IC8v6K6+572u5LqR56uvCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLzEu5Yib5bu6U3BlZWNoU3ludGhlc2l6ZXLlr7nosaEsIOesrOS6jOS4quWPguaVsO+8muacrOWcsOWQiOaIkOaXtuS8oEluaXRMaXN0ZW5lcgogICAgICAgIG1UdHMgPSBTcGVlY2hTeW50aGVzaXplci5jcmVhdGVTeW50aGVzaXplcihjb250ZXh0LCBudWxsKTsKICAgICAgICAvLzIu5ZCI5oiQ5Y+C5pWw6K6+572u77yM6K+m6KeB44CK56eR5aSn6K6v6aOeTVNDIEFQSeaJi+WGjChBbmRyb2lkKeOAi1NwZWVjaFN5bnRoZXNpemVyIOexuwogICAgICAgIG1UdHMuc2V0UGFyYW1ldGVyKFNwZWVjaENvbnN0YW50LlZPSUNFX05BTUUsICJ4aWFveWFuIik7Ly/orr7nva7lj5Hpn7PkuroKICAgICAgICBtVHRzLnNldFBhcmFtZXRlcihTcGVlY2hDb25zdGFudC5TUEVFRCwgIjUwIik7Ly/orr7nva7or63pgJ8KICAgICAgICBtVHRzLnNldFBhcmFtZXRlcihTcGVlY2hDb25zdGFudC5WT0xVTUUsICI4MCIpOy8v6K6+572u6Z+z6YeP77yM6IyD5Zu0MH4xMDAKICAgICAgICBtVHRzLnNldFBhcmFtZXRlcihTcGVlY2hDb25zdGFudC5FTkdJTkVfVFlQRSwgU3BlZWNoQ29uc3RhbnQuVFlQRV9DTE9VRCk7IC8v6K6+572u5LqR56uvCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTcGVlY2hVdGlsaXR5LmNyZWF0ZVV0aWxpdHkoYXBwbGljYXRpb25Db250ZXh0LCBTcGVlY2hDb25zdGFudC5BUFBJRCArIj01ODcyMzEzMSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2lyY2xlX2JnLnNldEJhY2tncm91bmQoY2xfbndnbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTcGVlY2hVdGlsaXR5LmNyZWF0ZVV0aWxpdHkoYXBwbGljYXRpb25Db250ZXh0LCBTcGVlY2hDb25zdGFudC5BUFBJRCArIj01ODcyMzEzMSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJpdG1hcERyYXdhYmxlKGdldFJlc291cmNlcygpLCBiaXRtYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2lyY2xlX2JnLnNldEJhY2tncm91bmQoY2xfbndnbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
