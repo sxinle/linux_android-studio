@@ -33,6 +33,9 @@
         <mark key="^" line="59" column="15" />
         <mark key="." line="59" column="15" />
       </file>
+      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/res/layout/meeting_voice.xml" timestamp="1484199549080">
+        <mark key="'" line="17" column="34" />
+      </file>
       <file name="$USER_HOME$/Downloads/a/android_studio/BaiduLocationDemo/app/src/main/java/com.baidu.location.service/LocationService.java" timestamp="1483520273890">
         <mark key="'" line="62" column="12" />
       </file>
@@ -145,6 +148,7 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter.java" timestamp="1483602255646">
         <mark key="'" line="190" column="41" />
       </file>
+      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/SDKCoreHelper.java" timestamp="1484199749293" />
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483945378477">
         <mark key="'" line="136" column="50" />
         <mark key="[" line="106" column="0" />
@@ -192,8 +196,14 @@
         <mark key="]" line="23" column="37" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/MeetingListActivity.java" timestamp="1484199618287">
+        <mark key="'" line="172" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res/drawable/bgshadow.xml" timestamp="1483940410848">
         <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/VoiceMeetingActivity.java" timestamp="1484199710706">
+        <mark key="'" line="106" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/res-chatdemo/layout/em_fragment_conversation_settings.xml" timestamp="1483495237896">
         <mark key="'" line="537" column="0" />
@@ -209,6 +219,9 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" timestamp="1484200555413">
+        <mark key="'" line="140" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/libs/BaiduLBS_Android.jar!/com/baidu/platform/comapi/NativeLoader.class" timestamp="1483525047051">
         <mark key="'" line="115" column="12" />
       </file>
@@ -221,6 +234,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/core/ClientUser.java" timestamp="1484199442667">
+        <mark key="'" line="50" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" timestamp="1483527024064">
         <mark key="'" line="33" column="53" />
@@ -331,23 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="39" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="479" column="36" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="403" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="248" column="60" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="453" column="32" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="53" column="37" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="317" column="18" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseContactListFragment.java" />
-      <jump line="195" column="12" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="192" column="16" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="188" column="20" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="480" column="28" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="221" column="8" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="214" column="8" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="200" column="20" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
-      <jump line="182" column="8" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
       <jump line="483" column="28" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseChatFragment.java" />
       <jump line="90" column="16" filename="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/widget/EaseContactList.java" />
       <jump line="80" column="64" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
@@ -431,13 +430,30 @@
       <jump line="462" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="341" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="425" column="12" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/videomeeting/MultiVideoconference.java" />
+      <jump line="50" column="29" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/core/ClientUser.java" />
+      <jump line="44" column="43" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/res/layout/meeting_voice.xml" />
+      <jump line="17" column="34" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/res/layout/meeting_voice.xml" />
+      <jump line="225" column="12" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/MeetingListActivity.java" />
+      <jump line="172" column="43" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/MeetingListActivity.java" />
+      <jump line="893" column="24" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
+      <jump line="76" column="40" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
+      <jump line="876" column="50" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/VoiceMeetingActivity.java" />
+      <jump line="95" column="28" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/VoiceMeetingActivity.java" />
+      <jump line="97" column="28" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/VoiceMeetingActivity.java" />
+      <jump line="99" column="51" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/VoiceMeetingActivity.java" />
+      <jump line="106" column="14" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/VoiceMeetingActivity.java" />
+      <jump line="128" column="28" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
+      <jump line="179" column="9" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
+      <jump line="160" column="43" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>play</text>
+        <text encoding="base64">XDxtSXRlbXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>setImageBitmap</text>
@@ -474,20 +490,16 @@
       </register>
     </registers>
     <search>
-      <last-search>play</last-search>
+      <last-search encoding="base64">XDxtSXRlbXNcPg==</last-search>
       <last-offset />
-      <last-pattern>play</last-pattern>
+      <last-pattern encoding="base64">XDxtSXRlbXNcPg==</last-pattern>
       <last-replace>bgImage.setImageDrawable</last-replace>
       <last-substitute>circle_bg.setBackground</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhdGlvblNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxESVlvcHRpb25cPg==</entry>
-        <entry>splash</entry>
-        <entry>laun</entry>
         <entry>meta</entry>
         <entry>useLo</entry>
         <entry>useL</entry>
@@ -504,6 +516,10 @@
         <entry>circle_bg.setBackground</entry>
         <entry>btn_play</entry>
         <entry>play</entry>
+        <entry>Meet</entry>
+        <entry encoding="base64">XDxtT3ZlcmZsb3dJdGVtQ2xpY2xMaXN0ZW5lclw+</entry>
+        <entry>Overflow</entry>
+        <entry encoding="base64">XDxtSXRlbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzU2XC8v</entry>
