@@ -9,7 +9,7 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1483942413054">
+      <file name="/a.dummy" timestamp="1484192340508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/res-waffair/values/dimens.xml" timestamp="1483428634383">
@@ -239,6 +239,9 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/widget/VerticalTextview.java" timestamp="1483942968055">
         <mark key="'" line="111" column="5" />
       </file>
+      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/videomeeting/MultiVideoconference.java" timestamp="1484192408155">
+        <mark key="'" line="425" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatActivity.java" timestamp="1483426999004">
         <mark key="'" line="17" column="28" />
         <mark key="[" line="10" column="0" />
@@ -305,7 +308,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ECApplication.java" timestamp="1484190859586" />
       <file name="/fragment.java" timestamp="1483941614743">
         <mark key="[" line="0" column="0" />
       </file>
@@ -328,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="103" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="96" column="39" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="479" column="36" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="403" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
@@ -428,6 +429,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="462" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="341" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="425" column="12" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/videomeeting/MultiVideoconference.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
