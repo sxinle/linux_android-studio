@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/Downloads/a/android_studio/BaiduLocationDemo/app/src/main/java/com.baidu.location.service/LocationService.java" timestamp="1483520273890">
         <mark key="'" line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1484030025476">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1484183623943">
         <mark key="'" line="341" column="0" />
         <mark key="[" line="295" column="0" />
         <mark key="]" line="295" column="0" />
@@ -222,7 +222,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/entity/User.java" timestamp="1484020927321" />
       <file name="$USER_HOME$/workspace/Android/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" timestamp="1483527024064">
         <mark key="'" line="33" column="53" />
         <mark key="[" line="0" column="0" />
@@ -477,7 +476,7 @@
       <last-replace>bgImage.setImageDrawable</last-replace>
       <last-substitute>circle_bg.setBackground</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
