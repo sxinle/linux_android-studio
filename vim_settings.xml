@@ -141,6 +141,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/common/utils/ECPreferenceSettings.java" timestamp="1484271997055">
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="51" column="84" />
+        <mark key="." line="51" column="52" />
+        <mark key="^" line="49" column="12" />
+      </file>
       <file name="/fragment.java" timestamp="1484270186113">
         <mark key="[" line="0" column="0" />
       </file>
@@ -298,7 +304,7 @@
       <last-replace>bgImage.setImageDrawable</last-replace>
       <last-substitute>circle_bg.setBackground</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
