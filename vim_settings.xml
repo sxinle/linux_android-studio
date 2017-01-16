@@ -45,7 +45,7 @@
       <file name="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/account/LoginActivity.java" timestamp="1484207012592">
         <mark key="'" line="136" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" timestamp="1484554463798">
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" timestamp="1484554794363">
         <mark key="'" line="115" column="0" />
         <mark key="[" line="101" column="31" />
         <mark key="]" line="101" column="65" />
@@ -112,6 +112,9 @@
         <mark key="'" line="425" column="12" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1484554765689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/build.gradle" timestamp="1484547593333">
@@ -186,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="177" column="29" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="337" column="4" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="429" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="212" column="55" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
@@ -285,6 +286,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/NotificationBroadcastReceiver.java" />
       <jump line="92" column="60" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" />
       <jump line="99" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" />
+      <jump line="19" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" />
     </jumps>
     <registers>
