@@ -74,14 +74,17 @@
       <file name="/opt/android/Sdk/sources/android-25/java/util/logging/LoggingMXBean.java" timestamp="1484621198729">
         <mark key="'" line="68" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/GroupContactActivity.java" timestamp="1484639158706">
+        <mark key="'" line="230" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/MockData.java" timestamp="1484555507166">
         <mark key="'" line="77" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1484631048988">
-        <mark key="'" line="98" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1484639110239">
+        <mark key="'" line="186" column="0" />
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
@@ -261,9 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="688" column="0" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
-      <jump line="45" column="83" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
-      <jump line="98" column="37" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="6" column="26" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" />
       <jump line="67" column="8" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" />
       <jump line="17" column="21" filename="$USER_HOME$/workspace/Android/waffair/build.gradle" />
@@ -361,6 +361,9 @@
       <jump line="48" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IntelligentCheckActivity.java" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="225" column="58" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="141" column="16" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="186" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="230" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/GroupContactActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -410,7 +413,7 @@
       <last-replace>String</last-replace>
       <last-substitute>Object</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
