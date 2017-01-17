@@ -54,8 +54,8 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1484624244076">
-        <mark key="'" line="42" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1484631555382">
+        <mark key="'" line="225" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1484624074175">
         <mark key="'" line="0" column="0" />
@@ -220,7 +220,7 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Station.java" timestamp="1484630395120">
         <mark key="'" line="145" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484631529910">
+      <file name="/Dummy.txt" timestamp="1484631532344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" timestamp="1483495369255">
@@ -261,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="36" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
       <jump line="688" column="0" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
       <jump line="45" column="83" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
       <jump line="98" column="37" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
@@ -361,13 +360,14 @@
       <jump line="172" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" />
       <jump line="48" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IntelligentCheckActivity.java" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="225" column="58" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>CheckAc</text>
       </register>
       <register name="0" type="4">
         <text>loginPd</text>
@@ -404,9 +404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>CheckAc</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>CheckAc</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>Object</last-substitute>
       <last-dir>1</last-dir>
@@ -414,7 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUG9zdGluZ2RpYWxvZ1w+</entry>
         <entry encoding="base64">XDxtSXRlbXNcPg==</entry>
         <entry encoding="base64">XDxtT3B0aW9uc1w+</entry>
         <entry>laun</entry>
@@ -434,6 +433,7 @@
         <entry>inGen</entry>
         <entry>switch</entry>
         <entry>mock</entry>
+        <entry>CheckAc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvXG4vZw==</entry>
