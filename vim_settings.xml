@@ -6,11 +6,12 @@
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexView.java" timestamp="1482390266614">
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" timestamp="1484629971055">
-        <mark key="'" line="139" column="0" />
-        <mark key="]" line="24" column="21" />
-        <mark key="^" line="24" column="21" />
-        <mark key="." line="24" column="21" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" timestamp="1484630649653">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="70" column="75" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
@@ -79,10 +80,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1484623167320">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1484631048988">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="184" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1484629899803">
         <mark key="'" line="2" column="0" />
@@ -214,20 +217,11 @@
       <file name="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/videomeeting/MultiVideoconference.java" timestamp="1484192408155">
         <mark key="'" line="425" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Station.java" timestamp="1484629882184">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="32" column="35" />
-        <mark key="^" line="32" column="35" />
-        <mark key="." line="32" column="35" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Station.java" timestamp="1484630395120">
+        <mark key="'" line="145" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484624106048">
+      <file name="/Dummy.txt" timestamp="1484631529910">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/utils/SPKey.java" timestamp="1484622106147">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity.java" timestamp="1483495369255">
         <mark key="'" line="551" column="0" />
@@ -237,6 +231,9 @@
       </file>
       <file name="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" timestamp="1484270263076">
         <mark key="'" line="833" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IntelligentCheckActivity.java" timestamp="1484630741888">
+        <mark key="'" line="48" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.0/jars/libs/jpush-android_v3.0.0.jar!/cn/jpush/android/api/JPushInterface.class" timestamp="1484549564934">
         <mark key="'" line="927" column="16" />
@@ -264,10 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="38" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/common/utils/ECPreferenceSettings.java" />
-      <jump line="56" column="28" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/SDKCoreHelper.java" />
-      <jump line="92" column="52" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/SDKCoreHelper.java" />
-      <jump line="108" column="11" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/SDKCoreHelper.java" />
       <jump line="89" column="36" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
       <jump line="688" column="0" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
       <jump line="45" column="83" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
@@ -362,45 +355,49 @@
       <jump line="119" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/data/pojo/Station.java" />
       <jump line="63" column="19" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationInfoActivity.java" />
       <jump line="23" column="21" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" />
       <jump line="139" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" />
+      <jump line="95" column="69" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" />
+      <jump line="172" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" />
+      <jump line="48" column="28" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IntelligentCheckActivity.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aW9ucyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMjA7IGkrKykgewogICAgICAgICAgICBTdGF0aW9uIGEgPSBuZXcgU3RhdGlvbigpOwogICAgICAgICAgICBhLnNldE5hbWUoTW9ja0RhdGEuc3RhdGlvbk5hbWVzLmdldChpKSk7CiAgICAgICAgICAgIGEuc2V0SWNvbihNb2NrRGF0YS5pbWdJZHNbaV0gKyAiIik7CiAgICAgICAgICAgIGEuc2V0RGVzY3JpcHRpb24oTW9ja0RhdGEuc3RhdGlvbkluZm9zLmdldChpKSk7CiAgICAgICAgICAgIHN0YXRpb25zLmFkZChhKTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>loginPd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RhdGlvbk9yZyBzID0gc3RhdGlvbnMuZ2V0KHBvc2l0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVmlldyBnZXRWaWV3KGZpbmFsIGludCBwb3NpdGlvbiwgVmlldyBjb252ZXJ0VmlldywgVmlld0dyb3VwIHBhcmVudCkgewogICAgICAgICAgICBmaW5hbCBTdGF0aW9uT3JnIHMgPSBzdGF0aW9ucy5nZXQocG9zaXRpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aW9ucyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMjA7IGkrKykgewogICAgICAgICAgICBTdGF0aW9uT3JnIGEgPSBuZXcgU3RhdGlvbk9yZygpOwogICAgICAgICAgICBhLm5hbWUgPSBNb2NrRGF0YS5zdGF0aW9uTmFtZXMuZ2V0KGkpOwogICAgICAgICAgICBzdGF0aW9ucy5hZGQoYSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZvaWQgZGlzbWlzcygpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLmRhdGEucG9qby5TdGF0aW9uT3JnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0aW9ucy5mb3JFYWNoKHN0YXRpb24tPnsKICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aW9ucyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMjA7IGkrKykgewogICAgICAgICAgICBTdGF0aW9uT3JnIGEgPSBuZXcgU3RhdGlvbk9yZygpOwogICAgICAgICAgICBhLm5hbWUgPSBNb2NrRGF0YS5zdGF0aW9uTmFtZXMuZ2V0KGkpOwogICAgICAgICAgICBzdGF0aW9ucy5hZGQoYSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLmRhdGEucG9qby5TdGF0aW9uT3JnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RhdGlvbiBzID0gc3RhdGlvbnMuZ2V0KHBvc2l0aW9uKTsK</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaShhcGkgPSBCdWlsZC5WRVJTSU9OX0NPREVTLk4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aW9ucyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuTikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
