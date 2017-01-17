@@ -47,8 +47,8 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1484619648326">
-        <mark key="'" line="21" column="25" />
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1484624244076">
+        <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" timestamp="1484624074175">
         <mark key="'" line="0" column="0" />
@@ -56,6 +56,13 @@
         <mark key="]" line="44" column="58" />
         <mark key="." line="44" column="58" />
         <mark key="^" line="44" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationInfoActivity.java" timestamp="1484624597243">
+        <mark key="'" line="125" column="26" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
+        <mark key="^" line="54" column="43" />
       </file>
       <file name="/opt/android/Sdk/sources/android-25/java/util/logging/LoggingMXBean.java" timestamp="1484621198729">
         <mark key="'" line="68" column="17" />
@@ -234,9 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="51" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/VoiceMeetingActivity.java" />
-      <jump line="106" column="14" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/VoiceMeetingActivity.java" />
-      <jump line="128" column="28" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
       <jump line="179" column="9" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
       <jump line="160" column="43" filename="$USER_HOME$/Downloads/YTX_Android_Full_Demo_v5.3.1r/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/LauncherActivity.java" />
       <jump line="82" column="5" filename="$USER_HOME$/Downloads/YTX_Android_IM_Demo_v5.3.1r/YTX_Android_IM_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/common/utils/ECPreferences.java" />
@@ -334,39 +338,42 @@
       <jump line="44" column="26" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/App.java" />
       <jump line="83" column="38" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="405" column="43" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="123" column="26" filename="$USER_HOME$/workspace/Android/waffair/app/src/main/java/com/acenode/view/activity/StationInfoActivity.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Genymotion</text>
+        <text>mockData</text>
       </register>
       <register name="/" type="4">
-        <text>inGen</text>
+        <text>switch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6dmFsdWU9InRydWUiIGFuZHJvaWQ6bmFtZT0iaW5HZW55bW90aW9uIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5kZXhBY3Rpdml0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYS5pbWdJZCA9IE1vY2tEYXRhLmltZ0lkc1tpXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYS5uYW1lID0gOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpbkRldiA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5kZXhBY3Rpdml0Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpbkRldiA9IHRydWU7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmluaXNoKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>else {
 
         }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVV0aWxzLmlzTmV0d29ya0F2YWlsYWJsZSh0aGlzKSkgewogICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAi572R57uc5LiN5Y+v55SoISIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -379,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inGen</last-search>
+      <last-search>switch</last-search>
       <last-offset />
-      <last-pattern>inGen</last-pattern>
+      <last-pattern>switch</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>Object</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaWduQnRuXD4=</entry>
         <entry>logout</entry>
         <entry encoding="base64">XDxtUG9zdGluZ2RpYWxvZ1w+</entry>
         <entry encoding="base64">XDxtSXRlbXNcPg==</entry>
@@ -409,6 +415,7 @@
         <entry>Object</entry>
         <entry encoding="base64">XDxpbkdlbnltb3Rpb25cPg==</entry>
         <entry>inGen</entry>
+        <entry>switch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvXG4vZw==</entry>
